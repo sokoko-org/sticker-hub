@@ -23,6 +23,10 @@
     "desc": "小黑盒",
     "url": "/assets/logo/heybox.webp"
   },
+  "illu": {
+    "desc": "ILLU",
+    "url": "/assets/logo/illu.webp"
+  },
   "kuaishou": {
     "desc": "快手",
     "url": "/assets/logo/kuaishou.webp"
