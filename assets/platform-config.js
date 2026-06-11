@@ -95,7 +95,21 @@ window.EMOJI_PLATFORMS = [
       hoverShadow: "hover:shadow-emerald-500/10",
       iconBg: "bg-emerald-50",
     },
-    endpoint: "/assets/coolapk/{id}.webp",
+    endpoint: "/assets/coolapk/{placeholder}.webp",
+  },
+  {
+    id: "zhihu",
+    name: "知乎",
+    path: "#/zhihu",
+    desc: "知乎平台表情包",
+    icon: "📚",
+    color: {
+      main: "purple",
+      text: "text-purple-500",
+      hoverShadow: "hover:shadow-purple-500/10",
+      iconBg: "bg-purple-50",
+    },
+    endpoint: "/assets/zhihu/{placeholder}.webp",
   },
   {
     id: "logo",
