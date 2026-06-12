@@ -3,7 +3,6 @@ from PIL import Image, ImageSequence
 
 
 def process_images(target_path):
-    # 转换为 Path 对象并去除可能的引号（拖入文件夹时 Windows 会自动加引号）
     root_dir = Path(target_path.strip().replace('"', ""))
 
     if not root_dir.exists():
@@ -14,7 +13,6 @@ def process_images(target_path):
     success_count = 0
     error_count = 0
 
-    # rglob('*') 递归遍历所有子文件夹
     for path in root_dir.rglob("*"):
         if path.suffix.lower() in valid_extensions:
             dest_path = path.with_suffix(".webp")
@@ -23,14 +21,10 @@ def process_images(target_path):
                 with Image.open(path) as img:
                     if getattr(img, "is_animated", False):
                         frames = []
-                        # 核心逻辑：逐帧取出并强制转 RGBA 渲染
-                        # 这步操作会消除 APNG/GIF 原始编码中的帧残留指令
                         frames.extend(
                             frame.convert("RGBA")
                             for frame in ImageSequence.Iterator(img)
                         )
-                        # 保存动态 WebP
-                        # disposal=2 指示播放器在每一帧之后清空画布，这是解决拖影的银弹
                         frames[0].save(
                             dest_path,
                             save_all=True,
@@ -41,10 +35,8 @@ def process_images(target_path):
                             quality=100,
                         )
                     else:
-                        # 静态图处理：保持无损 RGBA
                         img.convert("RGBA").save(dest_path, "WEBP", lossless=True)
 
-                # 转换成功后删除原文件
                 path.unlink()
                 print(f"[成功] {path.name} -> {dest_path.name}")
                 success_count += 1
