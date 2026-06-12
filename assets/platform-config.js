@@ -112,6 +112,20 @@ window.EMOJI_PLATFORMS = [
     endpoint: "/assets/zhihu/{placeholder}.webp",
   },
   {
+    id: "weibo",
+    name: "微博",
+    path: "#/weibo",
+    desc: "新浪微博表情包",
+    icon: "👁️",
+    color: {
+      main: "orange",
+      text: "text-orange-500",
+      hoverShadow: "hover:shadow-orange-500/15",
+      iconBg: "bg-orange-50",
+    },
+    endpoint: "/assets/weibo/{placeholder}.webp",
+  },
+  {
     id: "logo",
     name: "LOGO",
     path: "#/logo",
