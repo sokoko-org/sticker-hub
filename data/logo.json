@@ -54,5 +54,17 @@
   "zhihu": {
     "desc": "知乎",
     "url": "/assets/logo/zhihu.webp"
+  },
+  "netease": {
+    "desc": "网易云音乐",
+    "url": "/assets/logo/netease.webp"
+  },
+  "kuwo": {
+    "desc": "酷我音乐",
+    "url": "/assets/logo/kuwo.webp"
+  },
+  "kugou": {
+    "desc": "酷狗音乐",
+    "url": "/assets/logo/kugou.webp"
   }
 }
