@@ -168,9 +168,9 @@
                         class="face-card group relative bg-white dark:bg-slate-900 p-4 rounded-3xl shadow-sm border border-slate-100 dark:border-slate-800 flex flex-col items-center cursor-pointer transition-transform active:scale-95">
                         <div
                             class="aspect-square flex items-center justify-center relative mb-3 bg-slate-50 dark:bg-slate-800 rounded-2xl w-full overflow-hidden">
-                            <img v-if="info.url" :src="info.url" loading="lazy"
+                            <img v-if="info.url" :src="encodeURIComponent(info.url)" loading="lazy"
                                 class="max-w-[80%] max-h-[80%] object-contain">
-                            <div v-else class="text-[10px] text-slate-300 font-bold">无图</div>
+                            <div v-else class="text-[10px] text-slate-300 font-bold">暂无资源</div>
                             <div
                                 class="absolute bottom-2 left-2 bg-white/80 dark:bg-slate-900/80 text-[9px] text-slate-400 dark:text-slate-500 px-1.5 py-0.5 rounded font-mono">
                                 #{{ id }}</div>
@@ -225,7 +225,7 @@
                         <div
                             class="aspect-square flex items-center justify-center bg-slate-50 dark:bg-slate-800 rounded-2xl mb-6 p-8">
                             <img v-if="preview.url" :src="preview.url" class="max-w-full max-h-full object-contain">
-                            <div v-else class="text-[10px] text-slate-300 dark:text-slate-500 font-bold">无图</div>
+                            <div v-else class="text-[10px] text-slate-300 dark:text-slate-500 font-bold">暂无资源</div>
                         </div>
 
                         <div class="text-center mb-8">

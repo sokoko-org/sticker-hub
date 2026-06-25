@@ -43,6 +43,10 @@
     "desc": "印花姬_我是学生(静态)",
     "url": "/assets/buff/印花姬_我是学生_static.webp"
   },
+  "印花姬_求求了": {
+    "desc": "印花姬_求求了",
+    "url": "/assets/buff/印花姬_求求了.webp"
+  },
   "印花姬_求求了_static": {
     "desc": "印花姬_求求了(静态)",
     "url": "/assets/buff/印花姬_求求了_static.webp"
@@ -85,9 +89,17 @@
     "desc": "小冰_加仓(静态)",
     "url": "/assets/buff/小冰_加仓_static.webp"
   },
+  "小冰_拿下_static": {
+    "desc": "小冰_拿下(静态)",
+    "url": "/assets/buff/小冰_拿下_static.webp"
+  },
   "小冰_可爱_static": {
     "desc": "小冰_可爱(静态)",
     "url": "/assets/buff/小冰_可爱_static.webp"
+  },
+  "小冰_同意": {
+    "desc": "小冰_同意",
+    "url": "/assets/buff/小冰_同意.webp"
   },
   "小冰_同意_static": {
     "desc": "小冰_同意(静态)",
@@ -106,6 +118,7 @@
     "desc": "小冰_哇~(静态)",
     "url": "/assets/buff/小冰_哇~_static.webp"
   },
+  "小冰_哭泣": { "desc": "小冰_哭泣", "url": "/assets/buff/小冰_哭泣.webp" },
   "小冰_哭泣_static": {
     "desc": "小冰_哭泣(静态)",
     "url": "/assets/buff/小冰_哭泣_static.webp"
@@ -113,6 +126,10 @@
   "小冰_大的来了_static": {
     "desc": "小冰_大的来了(静态)",
     "url": "/assets/buff/小冰_大的来了_static.webp"
+  },
+  "小冰_委屈": {
+    "desc": "小冰_委屈",
+    "url": "/assets/buff/小冰_委屈.webp"
   },
   "小冰_委屈_static": {
     "desc": "小冰_委屈(静态)",
@@ -199,6 +216,10 @@
     "desc": "小燃_你去打洞(静态)",
     "url": "/assets/buff/小燃_你去打洞_static.webp"
   },
+  "小燃_别别别": {
+    "desc": "小燃_别别别",
+    "url": "/assets/buff/小燃_别别别.webp"
+  },
   "小燃_别别别_static": {
     "desc": "小燃_别别别(静态)",
     "url": "/assets/buff/小燃_别别别_static.webp"
@@ -207,6 +228,10 @@
     "desc": "小燃_加油(静态)",
     "url": "/assets/buff/小燃_加油_static.webp"
   },
+  "小燃_围观": {
+    "desc": "小燃_围观",
+    "url": "/assets/buff/小燃_围观.webp"
+  },
   "小燃_围观_static": {
     "desc": "小燃_围观(静态)",
     "url": "/assets/buff/小燃_围观_static.webp"
@@ -214,6 +239,10 @@
   "小燃_在吗_static": {
     "desc": "小燃_在吗(静态)",
     "url": "/assets/buff/小燃_在吗_static.webp"
+  },
+  "小燃_在线等": {
+    "desc": "小燃_在线等",
+    "url": "/assets/buff/小燃_在线等.webp"
   },
   "小燃_在线等_static": {
     "desc": "小燃_在线等(静态)",

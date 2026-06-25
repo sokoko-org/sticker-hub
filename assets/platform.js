@@ -113,7 +113,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       // 仅设置预览状态，不操作 hash
       const openPreview = (info, id) => {
-        preview.url = info.url || "";
+        preview.url = encodeURIComponent(info.url || "");
         preview.desc = info.desc;
         preview.id = id;
         preview.visible = true;
@@ -123,9 +123,7 @@ document.addEventListener("DOMContentLoaded", () => {
       const goPreviewFace = (id) => {
         if (!currentPlatform.value || !id) return;
         // 表情 id 可能是中文，这里用 encodeURIComponent
-        window.location.hash = `#/${currentPlatform.value}/${encodeURIComponent(
-          id,
-        )}`;
+        window.location.hash = `#/${currentPlatform.value}/${encodeURIComponent(id)}`;
       };
 
       const closePreview = () => {
