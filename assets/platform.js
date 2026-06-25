@@ -141,6 +141,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       const copy = (text, type) => {
         if (!text) return;
+        text = decodeURIComponent(text);
 
         let value = text;
 
