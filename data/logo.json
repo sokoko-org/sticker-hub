@@ -66,5 +66,9 @@
   "kugou": {
     "desc": "酷狗音乐",
     "url": "/assets/logo/kugou.webp"
+  },
+  "hupu": {
+    "desc": "虎扑",
+    "url": "/assets/logo/hupu.webp"
   }
 }
