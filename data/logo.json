@@ -70,5 +70,9 @@
   "hupu": {
     "desc": "虎扑",
     "url": "/assets/logo/hupu.webp"
+  },
+  "miyoushe": {
+    "desc": "米游社",
+    "url": "/assets/logo/miyoushe.webp"
   }
 }
