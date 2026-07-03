@@ -74,5 +74,9 @@
   "miyoushe": {
     "desc": "米游社",
     "url": "/assets/logo/miyoushe.webp"
+  },
+  "douban": {
+    "desc": "豆瓣",
+    "url": "/assets/logo/douban.webp"
   }
 }
