@@ -78,5 +78,9 @@
   "douban": {
     "desc": "豆瓣",
     "url": "/assets/logo/douban.webp"
+  },
+  "5eplay": {
+    "desc": "5eplay",
+    "url": "/assets/logo/5eplay.webp"
   }
 }
