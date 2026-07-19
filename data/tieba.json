@@ -199,6 +199,10 @@
     "desc": "OK",
     "url": "/assets/tieba/image_emoticon50.webp"
   },
+  "image_emoticon61": {
+    "desc": "生起",
+    "url": "/assets/tieba/image_emoticon61.webp"
+  },
   "image_emoticon62": {
     "desc": "瓜",
     "url": "/assets/tieba/image_emoticon62.webp"

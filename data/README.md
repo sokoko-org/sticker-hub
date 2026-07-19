@@ -43,3 +43,9 @@ ref: `https://www.coolapk1s.com/feed/71586575`
 `https://api.xiaoheihe.cn/bbs/app/api/emojis/list`
 
 ref: `https://www.xiaoheihe.cn/app/bbs/link/175736343?link_id=175736343`
+
+`emoji_version`:`25b9734c449a3ae8eb1d9c378ea91312`
+
+## tieba
+
+从 `https://tb3.bdstatic.com/emoji/image_emoticon137@2x.png` 向后遍历以获取新表情
