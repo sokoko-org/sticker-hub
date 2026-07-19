@@ -1,75 +1,7 @@
 {
-  "鲸鱼点赞": {
-    "desc": "鲸鱼点赞",
-    "url": "/assets/douyin/鲸鱼点赞.webp"
-  },
-  "鲸鱼爱慕": {
-    "desc": "鲸鱼爱慕",
-    "url": "/assets/douyin/鲸鱼爱慕.webp"
-  },
-  "鲸鱼停机": {
-    "desc": "鲸鱼停机",
-    "url": "/assets/douyin/鲸鱼停机.webp"
-  },
-  "鲸鱼呲牙": {
-    "desc": "鲸鱼呲牙",
-    "url": "/assets/douyin/鲸鱼呲牙.webp"
-  },
-  "鲸鱼尬笑": {
-    "desc": "鲸鱼尬笑",
-    "url": "/assets/douyin/鲸鱼尬笑.webp"
-  },
-  "鲸鱼流泪": {
-    "desc": "鲸鱼流泪",
-    "url": "/assets/douyin/鲸鱼流泪.webp"
-  },
-  "鲸鱼捂脸": {
-    "desc": "鲸鱼捂脸",
-    "url": "/assets/douyin/鲸鱼捂脸.webp"
-  },
-  "过年牛": {
-    "desc": "过年牛",
-    "url": "/assets/douyin/过年牛.webp"
-  },
-  "戴口罩": {
-    "desc": "戴口罩",
-    "url": "/assets/douyin/戴口罩.webp"
-  },
-  "勤洗手": {
-    "desc": "勤洗手",
-    "url": "/assets/douyin/勤洗手.webp"
-  },
-  "不信谣言": {
-    "desc": "不信谣言",
-    "url": "/assets/douyin/不信谣言.webp"
-  },
-  "微笑": {
-    "desc": "微笑",
-    "url": "/assets/douyin/微笑.webp"
-  },
-  "色": {
-    "desc": "色",
-    "url": "/assets/douyin/色.webp"
-  },
-  "爱慕": {
-    "desc": "爱慕",
-    "url": "/assets/douyin/爱慕.webp"
-  },
-  "发呆": {
-    "desc": "发呆",
-    "url": "/assets/douyin/发呆.webp"
-  },
-  "惊呆": {
-    "desc": "惊呆",
-    "url": "/assets/douyin/惊呆.webp"
-  },
-  "酷拽": {
-    "desc": "酷拽",
-    "url": "/assets/douyin/酷拽.webp"
-  },
-  "抠鼻": {
-    "desc": "抠鼻",
-    "url": "/assets/douyin/抠鼻.webp"
+  "我想静静": {
+    "desc": "我想静静",
+    "url": "/assets/douyin/我想静静.webp"
   },
   "流泪": {
     "desc": "流泪",
@@ -79,57 +11,241 @@
     "desc": "捂脸",
     "url": "/assets/douyin/捂脸.webp"
   },
+  "助威": {
+    "desc": "助威",
+    "url": "/assets/douyin/助威.webp"
+  },
+  "烟花": {
+    "desc": "烟花",
+    "url": "/assets/douyin/烟花.webp"
+  },
+  "福": {
+    "desc": "福",
+    "url": "/assets/douyin/福.webp"
+  },
   "发怒": {
     "desc": "发怒",
     "url": "/assets/douyin/发怒.webp"
+  },
+  "candy": {
+    "desc": "candy",
+    "url": "/assets/douyin/candy.webp"
+  },
+  "鄙视": {
+    "desc": "鄙视",
+    "url": "/assets/douyin/鄙视.webp"
   },
   "呲牙": {
     "desc": "呲牙",
     "url": "/assets/douyin/呲牙.webp"
   },
+  "飞吻": {
+    "desc": "飞吻",
+    "url": "/assets/douyin/飞吻.webp"
+  },
+  "求机位-ip": {
+    "desc": "求机位-ip",
+    "url": "/assets/douyin/求机位-ip.webp"
+  },
+  "点赞": {
+    "desc": "点赞",
+    "url": "/assets/douyin/点赞.webp"
+  },
+  "委屈": {
+    "desc": "委屈",
+    "url": "/assets/douyin/委屈.webp"
+  },
+  "夺金": {
+    "desc": "夺金",
+    "url": "/assets/douyin/夺金.webp"
+  },
+  "糖葫芦": {
+    "desc": "糖葫芦",
+    "url": "/assets/douyin/糖葫芦.webp"
+  },
   "尬笑": {
     "desc": "尬笑",
     "url": "/assets/douyin/尬笑.webp"
+  },
+  "细糠": {
+    "desc": "细糠",
+    "url": "/assets/douyin/细糠.webp"
+  },
+  "再见": {
+    "desc": "再见",
+    "url": "/assets/douyin/再见.webp"
+  },
+  "虎头": {
+    "desc": "虎头",
+    "url": "/assets/douyin/虎头.webp"
   },
   "睡": {
     "desc": "睡",
     "url": "/assets/douyin/睡.webp"
   },
+  "紫薇别走": {
+    "desc": "紫薇别走",
+    "url": "/assets/douyin/紫薇别走.webp"
+  },
+  "饺子": {
+    "desc": "饺子",
+    "url": "/assets/douyin/饺子.webp"
+  },
+  "精选": {
+    "desc": "精选",
+    "url": "/assets/douyin/精选.webp"
+  },
   "鼾睡": {
     "desc": "鼾睡",
     "url": "/assets/douyin/鼾睡.webp"
+  },
+  "听歌": {
+    "desc": "听歌",
+    "url": "/assets/douyin/听歌.webp"
+  },
+  "买买买": {
+    "desc": "买买买",
+    "url": "/assets/douyin/买买买.webp"
+  },
+  "鞭炮": {
+    "desc": "鞭炮",
+    "url": "/assets/douyin/鞭炮.webp"
   },
   "害羞": {
     "desc": "害羞",
     "url": "/assets/douyin/害羞.webp"
   },
+  "拥抱": {
+    "desc": "拥抱",
+    "url": "/assets/douyin/拥抱.webp"
+  },
+  "好想要": {
+    "desc": "好想要",
+    "url": "/assets/douyin/好想要.webp"
+  },
+  "元宝": {
+    "desc": "元宝",
+    "url": "/assets/douyin/元宝.webp"
+  },
   "调皮": {
     "desc": "调皮",
     "url": "/assets/douyin/调皮.webp"
+  },
+  "求抱抱": {
+    "desc": "求抱抱",
+    "url": "/assets/douyin/求抱抱.webp"
+  },
+  "含泪剁手": {
+    "desc": "含泪剁手",
+    "url": "/assets/douyin/含泪剁手.webp"
+  },
+  "灯笼": {
+    "desc": "灯笼",
+    "url": "/assets/douyin/灯笼.webp"
   },
   "可爱": {
     "desc": "可爱",
     "url": "/assets/douyin/可爱.webp"
   },
+  "绝望的凝视": {
+    "desc": "绝望的凝视",
+    "url": "/assets/douyin/绝望的凝视.webp"
+  },
+  "带我去": {
+    "desc": "带我去",
+    "url": "/assets/douyin/带我去.webp"
+  },
+  "锦鲤": {
+    "desc": "锦鲤",
+    "url": "/assets/douyin/锦鲤.webp"
+  },
   "舔屏": {
     "desc": "舔屏",
     "url": "/assets/douyin/舔屏.webp"
+  },
+  "不失礼貌的微笑": {
+    "desc": "不失礼貌的微笑",
+    "url": "/assets/douyin/不失礼貌的微笑.webp"
+  },
+  "好想吃": {
+    "desc": "好想吃",
+    "url": "/assets/douyin/好想吃.webp"
+  },
+  "巧克力": {
+    "desc": "巧克力",
+    "url": "/assets/douyin/巧克力.webp"
   },
   "看": {
     "desc": "看",
     "url": "/assets/douyin/看.webp"
   },
+  "不看": {
+    "desc": "不看",
+    "url": "/assets/douyin/不看.webp"
+  },
+  "安排": {
+    "desc": "安排",
+    "url": "/assets/douyin/安排.webp"
+  },
+  "汤圆": {
+    "desc": "汤圆",
+    "url": "/assets/douyin/汤圆.webp"
+  },
   "爱心": {
     "desc": "爱心",
     "url": "/assets/douyin/爱心.webp"
+  },
+  "裂开": {
+    "desc": "裂开",
+    "url": "/assets/douyin/裂开.webp"
+  },
+  "码住": {
+    "desc": "码住",
+    "url": "/assets/douyin/码住.webp"
+  },
+  "情书": {
+    "desc": "情书",
+    "url": "/assets/douyin/情书.webp"
   },
   "比心": {
     "desc": "比心",
     "url": "/assets/douyin/比心.webp"
   },
+  "iloveyou": {
+    "desc": "iloveyou",
+    "url": "/assets/douyin/iloveyou.webp"
+  },
   "赞": {
     "desc": "赞",
     "url": "/assets/douyin/赞.webp"
+  },
+  "种草": {
+    "desc": "种草",
+    "url": "/assets/douyin/种草.webp"
+  },
+  "干饭人": {
+    "desc": "干饭人",
+    "url": "/assets/douyin/干饭人.webp"
+  },
+  "上链接": {
+    "desc": "上链接",
+    "url": "/assets/douyin/上链接.webp"
+  },
+  "戒指": {
+    "desc": "戒指",
+    "url": "/assets/douyin/戒指.webp"
+  },
+  "吐舌": {
+    "desc": "吐舌",
+    "url": "/assets/douyin/吐舌.webp"
+  },
+  "庆祝": {
+    "desc": "庆祝",
+    "url": "/assets/douyin/庆祝.webp"
+  },
+  "强壮": {
+    "desc": "强壮",
+    "url": "/assets/douyin/强壮.webp"
   },
   "鼓掌": {
     "desc": "鼓掌",
@@ -139,509 +255,641 @@
     "desc": "感谢",
     "url": "/assets/douyin/感谢.webp"
   },
-  "祈祷": {
-    "desc": "祈祷",
-    "url": "/assets/douyin/祈祷.webp"
-  },
-  "抱抱你": {
-    "desc": "抱抱你",
-    "url": "/assets/douyin/抱抱你.webp"
-  },
-  "玫瑰": {
-    "desc": "玫瑰",
-    "url": "/assets/douyin/玫瑰.webp"
-  },
-  "尴尬流汗": {
-    "desc": "尴尬流汗",
-    "url": "/assets/douyin/尴尬流汗.webp"
-  },
-  "戳手手": {
-    "desc": "戳手手",
-    "url": "/assets/douyin/戳手手.webp"
-  },
-  "星星眼": {
-    "desc": "星星眼",
-    "url": "/assets/douyin/星星眼.webp"
-  },
-  "杀马特": {
-    "desc": "杀马特",
-    "url": "/assets/douyin/杀马特.webp"
-  },
-  "黄脸干杯": {
-    "desc": "黄脸干杯",
-    "url": "/assets/douyin/黄脸干杯.webp"
-  },
-  "抱紧自己": {
-    "desc": "抱紧自己",
-    "url": "/assets/douyin/抱紧自己.webp"
-  },
-  "拜拜": {
-    "desc": "拜拜",
-    "url": "/assets/douyin/拜拜.webp"
-  },
-  "热化了": {
-    "desc": "热化了",
-    "url": "/assets/douyin/热化了.webp"
-  },
-  "黄脸祈祷": {
-    "desc": "黄脸祈祷",
-    "url": "/assets/douyin/黄脸祈祷.webp"
-  },
-  "懵": {
-    "desc": "懵",
-    "url": "/assets/douyin/懵.webp"
-  },
-  "举手": {
-    "desc": "举手",
-    "url": "/assets/douyin/举手.webp"
-  },
-  "加功德": {
-    "desc": "加功德",
-    "url": "/assets/douyin/加功德.webp"
-  },
-  "摊手": {
-    "desc": "摊手",
-    "url": "/assets/douyin/摊手.webp"
-  },
-  "无语流汗": {
-    "desc": "无语流汗",
-    "url": "/assets/douyin/无语流汗.webp"
-  },
-  "续火花吧": {
-    "desc": "续火花吧",
-    "url": "/assets/douyin/续火花吧.webp"
-  },
-  "点火": {
-    "desc": "点火",
-    "url": "/assets/douyin/点火.webp"
-  },
-  "哭哭": {
-    "desc": "哭哭",
-    "url": "/assets/douyin/哭哭.webp"
-  },
-  "递花": {
-    "desc": "递花",
-    "url": "/assets/douyin/递花.webp"
-  },
-  "点头哈腰": {
-    "desc": "点头哈腰",
-    "url": "/assets/douyin/点头哈腰.webp"
-  },
-  "吐舌小狗": {
-    "desc": "吐舌小狗",
-    "url": "/assets/douyin/吐舌小狗.webp"
-  },
-  "送花": {
-    "desc": "送花",
-    "url": "/assets/douyin/送花.webp"
-  },
-  "爱心手": {
-    "desc": "爱心手",
-    "url": "/assets/douyin/爱心手.webp"
-  },
-  "贴贴": {
-    "desc": "贴贴",
-    "url": "/assets/douyin/贴贴.webp"
-  },
-  "灵机一动": {
-    "desc": "灵机一动",
-    "url": "/assets/douyin/灵机一动.webp"
-  },
-  "灵光一闪": {
-    "desc": "灵光一闪",
-    "url": "/assets/douyin/灵光一闪.webp"
-  },
-  "耶": {
-    "desc": "耶",
-    "url": "/assets/douyin/耶.webp"
-  },
-  "打脸": {
-    "desc": "打脸",
-    "url": "/assets/douyin/打脸.webp"
-  },
-  "大笑": {
-    "desc": "大笑",
-    "url": "/assets/douyin/大笑.webp"
-  },
-  "机智": {
-    "desc": "机智",
-    "url": "/assets/douyin/机智.webp"
-  },
-  "送心": {
-    "desc": "送心",
-    "url": "/assets/douyin/送心.webp"
-  },
-  "666": {
-    "desc": "666",
-    "url": "/assets/douyin/666.webp"
-  },
-  "闭嘴": {
-    "desc": "闭嘴",
-    "url": "/assets/douyin/闭嘴.webp"
-  },
-  "来看我": {
-    "desc": "来看我",
-    "url": "/assets/douyin/来看我.webp"
-  },
-  "一起加油": {
-    "desc": "一起加油",
-    "url": "/assets/douyin/一起加油.webp"
-  },
-  "哈欠": {
-    "desc": "哈欠",
-    "url": "/assets/douyin/哈欠.webp"
-  },
-  "震惊": {
-    "desc": "震惊",
-    "url": "/assets/douyin/震惊.webp"
-  },
-  "晕": {
-    "desc": "晕",
-    "url": "/assets/douyin/晕.webp"
-  },
-  "衰": {
-    "desc": "衰",
-    "url": "/assets/douyin/衰.webp"
-  },
-  "困": {
-    "desc": "困",
-    "url": "/assets/douyin/困.webp"
-  },
-  "疑问": {
-    "desc": "疑问",
-    "url": "/assets/douyin/疑问.webp"
-  },
-  "what": {
-    "desc": "what",
-    "url": "/assets/douyin/what.webp"
-  },
-  "泣不成声": {
-    "desc": "泣不成声",
-    "url": "/assets/douyin/泣不成声.webp"
-  },
-  "小鼓掌": {
-    "desc": "小鼓掌",
-    "url": "/assets/douyin/小鼓掌.webp"
-  },
-  "大金牙": {
-    "desc": "大金牙",
-    "url": "/assets/douyin/大金牙.webp"
-  },
-  "偷笑": {
-    "desc": "偷笑",
-    "url": "/assets/douyin/偷笑.webp"
-  },
-  "石化": {
-    "desc": "石化",
-    "url": "/assets/douyin/石化.webp"
-  },
-  "思考": {
-    "desc": "思考",
-    "url": "/assets/douyin/思考.webp"
-  },
-  "吐血": {
-    "desc": "吐血",
-    "url": "/assets/douyin/吐血.webp"
-  },
-  "可怜": {
-    "desc": "可怜",
-    "url": "/assets/douyin/可怜.webp"
-  },
-  "嘘": {
-    "desc": "嘘",
-    "url": "/assets/douyin/嘘.webp"
-  },
-  "撇嘴": {
-    "desc": "撇嘴",
-    "url": "/assets/douyin/撇嘴.webp"
-  },
-  "尴尬": {
-    "desc": "尴尬",
-    "url": "/assets/douyin/尴尬.webp"
-  },
-  "黑线": {
-    "desc": "黑线",
-    "url": "/assets/douyin/黑线.webp"
-  },
-  "笑哭": {
-    "desc": "笑哭",
-    "url": "/assets/douyin/笑哭.webp"
-  },
-  "生病": {
-    "desc": "生病",
-    "url": "/assets/douyin/生病.webp"
-  },
-  "雾霾": {
-    "desc": "雾霾",
-    "url": "/assets/douyin/雾霾.webp"
-  },
-  "奸笑": {
-    "desc": "奸笑",
-    "url": "/assets/douyin/奸笑.webp"
-  },
-  "得意": {
-    "desc": "得意",
-    "url": "/assets/douyin/得意.webp"
-  },
-  "憨笑": {
-    "desc": "憨笑",
-    "url": "/assets/douyin/憨笑.webp"
-  },
-  "坏笑": {
-    "desc": "坏笑",
-    "url": "/assets/douyin/坏笑.webp"
-  },
-  "抓狂": {
-    "desc": "抓狂",
-    "url": "/assets/douyin/抓狂.webp"
-  },
-  "泪奔": {
-    "desc": "泪奔",
-    "url": "/assets/douyin/泪奔.webp"
-  },
-  "钱": {
-    "desc": "钱",
-    "url": "/assets/douyin/钱.webp"
-  },
-  "亲亲": {
-    "desc": "亲亲",
-    "url": "/assets/douyin/亲亲.webp"
-  },
-  "吻": {
-    "desc": "吻",
-    "url": "/assets/douyin/吻.webp"
-  },
-  "恐惧": {
-    "desc": "恐惧",
-    "url": "/assets/douyin/恐惧.webp"
-  },
-  "愉快": {
-    "desc": "愉快",
-    "url": "/assets/douyin/愉快.webp"
-  },
-  "笑": {
-    "desc": "笑",
-    "url": "/assets/douyin/笑.webp"
-  },
-  "快哭了": {
-    "desc": "快哭了",
-    "url": "/assets/douyin/快哭了.webp"
-  },
-  "翻白眼": {
-    "desc": "翻白眼",
-    "url": "/assets/douyin/翻白眼.webp"
-  },
-  "傲慢": {
-    "desc": "傲慢",
-    "url": "/assets/douyin/傲慢.webp"
-  },
-  "互粉": {
-    "desc": "互粉",
-    "url": "/assets/douyin/互粉.webp"
-  },
-  "我想静静": {
-    "desc": "我想静静",
-    "url": "/assets/douyin/我想静静.webp"
-  },
-  "委屈": {
-    "desc": "委屈",
-    "url": "/assets/douyin/委屈.webp"
-  },
-  "鄙视": {
-    "desc": "鄙视",
-    "url": "/assets/douyin/鄙视.webp"
-  },
-  "飞吻": {
-    "desc": "飞吻",
-    "url": "/assets/douyin/飞吻.webp"
-  },
-  "再见": {
-    "desc": "再见",
-    "url": "/assets/douyin/再见.webp"
-  },
-  "紫薇别走": {
-    "desc": "紫薇别走",
-    "url": "/assets/douyin/紫薇别走.webp"
-  },
-  "听歌": {
-    "desc": "听歌",
-    "url": "/assets/douyin/听歌.webp"
-  },
-  "拥抱": {
-    "desc": "拥抱",
-    "url": "/assets/douyin/拥抱.webp"
-  },
-  "求抱抱": {
-    "desc": "求抱抱",
-    "url": "/assets/douyin/求抱抱.webp"
-  },
-  "绝望的凝视": {
-    "desc": "绝望的凝视",
-    "url": "/assets/douyin/绝望的凝视.webp"
-  },
-  "不失礼貌的微笑": {
-    "desc": "不失礼貌的微笑",
-    "url": "/assets/douyin/不失礼貌的微笑.webp"
-  },
-  "不看": {
-    "desc": "不看",
-    "url": "/assets/douyin/不看.webp"
-  },
-  "裂开": {
-    "desc": "裂开",
-    "url": "/assets/douyin/裂开.webp"
-  },
-  "干饭人": {
-    "desc": "干饭人",
-    "url": "/assets/douyin/干饭人.webp"
-  },
-  "庆祝": {
-    "desc": "庆祝",
-    "url": "/assets/douyin/庆祝.webp"
-  },
-  "吐舌": {
-    "desc": "吐舌",
-    "url": "/assets/douyin/吐舌.webp"
+  "派对": {
+    "desc": "派对",
+    "url": "/assets/douyin/派对.webp"
   },
   "呆无辜": {
     "desc": "呆无辜",
     "url": "/assets/douyin/呆无辜.webp"
   },
+  "加油": {
+    "desc": "加油",
+    "url": "/assets/douyin/加油.webp"
+  },
+  "过年鼠": {
+    "desc": "过年鼠",
+    "url": "/assets/douyin/过年鼠.webp"
+  },
+  "祈祷": {
+    "desc": "祈祷",
+    "url": "/assets/douyin/祈祷.webp"
+  },
   "白眼": {
     "desc": "白眼",
     "url": "/assets/douyin/白眼.webp"
+  },
+  "碰拳": {
+    "desc": "碰拳",
+    "url": "/assets/douyin/碰拳.webp"
   },
   "熊吉": {
     "desc": "熊吉",
     "url": "/assets/douyin/熊吉.webp"
   },
+  "小黄鸭": {
+    "desc": "小黄鸭",
+    "url": "/assets/douyin/小黄鸭.webp"
+  },
+  "抱抱你": {
+    "desc": "抱抱你",
+    "url": "/assets/douyin/抱抱你.webp"
+  },
+  "OK": {
+    "desc": "OK",
+    "url": "/assets/douyin/OK.webp"
+  },
+  "棒棒糖": {
+    "desc": "棒棒糖",
+    "url": "/assets/douyin/棒棒糖.webp"
+  },
+  "玫瑰": {
+    "desc": "玫瑰",
+    "url": "/assets/douyin/玫瑰.webp"
+  },
   "猪头": {
     "desc": "猪头",
     "url": "/assets/douyin/猪头.webp"
+  },
+  "ok": {
+    "desc": "ok",
+    "url": "/assets/douyin/ok.webp"
+  },
+  "纸飞机": {
+    "desc": "纸飞机",
+    "url": "/assets/douyin/纸飞机.webp"
+  },
+  "尴尬流汗": {
+    "desc": "尴尬流汗",
+    "url": "/assets/douyin/尴尬流汗.webp"
   },
   "冷漠": {
     "desc": "冷漠",
     "url": "/assets/douyin/冷漠.webp"
   },
+  "击掌": {
+    "desc": "击掌",
+    "url": "/assets/douyin/击掌.webp"
+  },
+  "必胜": {
+    "desc": "必胜",
+    "url": "/assets/douyin/必胜.webp"
+  },
+  "戳手手": {
+    "desc": "戳手手",
+    "url": "/assets/douyin/戳手手.webp"
+  },
   "微笑袋鼠": {
     "desc": "微笑袋鼠",
     "url": "/assets/douyin/微笑袋鼠.webp"
+  },
+  "左上": {
+    "desc": "左上",
+    "url": "/assets/douyin/左上.webp"
+  },
+  "粽子": {
+    "desc": "粽子",
+    "url": "/assets/douyin/粽子.webp"
+  },
+  "星星眼": {
+    "desc": "星星眼",
+    "url": "/assets/douyin/星星眼.webp"
   },
   "凝视": {
     "desc": "凝视",
     "url": "/assets/douyin/凝视.webp"
   },
+  "握手": {
+    "desc": "握手",
+    "url": "/assets/douyin/握手.webp"
+  },
+  "象": {
+    "desc": "象",
+    "url": "/assets/douyin/象.webp"
+  },
   "暗中观察": {
     "desc": "暗中观察",
     "url": "/assets/douyin/暗中观察.webp"
+  },
+  "抱拳": {
+    "desc": "抱拳",
+    "url": "/assets/douyin/抱拳.webp"
+  },
+  "小红花": {
+    "desc": "小红花",
+    "url": "/assets/douyin/小红花.webp"
+  },
+  "黄脸干杯": {
+    "desc": "黄脸干杯",
+    "url": "/assets/douyin/黄脸干杯.webp"
+  },
+  "杀马特": {
+    "desc": "杀马特",
+    "url": "/assets/douyin/杀马特.webp"
+  },
+  "勾引": {
+    "desc": "勾引",
+    "url": "/assets/douyin/勾引.webp"
   },
   "二哈": {
     "desc": "二哈",
     "url": "/assets/douyin/二哈.webp"
   },
-  "菜狗": {
-    "desc": "菜狗",
-    "url": "/assets/douyin/菜狗.webp"
+  "罗三炮": {
+    "desc": "罗三炮",
+    "url": "/assets/douyin/罗三炮.webp"
+  },
+  "拳头": {
+    "desc": "拳头",
+    "url": "/assets/douyin/拳头.webp"
+  },
+  "戳一戳": {
+    "desc": "戳一戳",
+    "url": "/assets/douyin/戳一戳.webp"
+  },
+  "拜拜": {
+    "desc": "拜拜",
+    "url": "/assets/douyin/拜拜.webp"
+  },
+  "抱紧自己": {
+    "desc": "抱紧自己",
+    "url": "/assets/douyin/抱紧自己.webp"
   },
   "骷髅": {
     "desc": "骷髅",
     "url": "/assets/douyin/骷髅.webp"
   },
+  "菜狗": {
+    "desc": "菜狗",
+    "url": "/assets/douyin/菜狗.webp"
+  },
+  "弱": {
+    "desc": "弱",
+    "url": "/assets/douyin/弱.webp"
+  },
+  "热化了": {
+    "desc": "热化了",
+    "url": "/assets/douyin/热化了.webp"
+  },
+  "🎌": {
+    "desc": "🎌",
+    "url": "/assets/douyin/🎌.webp"
+  },
+  "胜利": {
+    "desc": "胜利",
+    "url": "/assets/douyin/胜利.webp"
+  },
   "黑脸": {
     "desc": "黑脸",
     "url": "/assets/douyin/黑脸.webp"
+  },
+  "爱了爱了": {
+    "desc": "爱了爱了",
+    "url": "/assets/douyin/爱了爱了.webp"
+  },
+  "黄脸祈祷": {
+    "desc": "黄脸祈祷",
+    "url": "/assets/douyin/黄脸祈祷.webp"
   },
   "展开说说": {
     "desc": "展开说说",
     "url": "/assets/douyin/展开说说.webp"
   },
+  "右边": {
+    "desc": "右边",
+    "url": "/assets/douyin/右边.webp"
+  },
+  "鲸鱼点赞": {
+    "desc": "鲸鱼点赞",
+    "url": "/assets/douyin/鲸鱼点赞.webp"
+  },
+  "狗头坏笑": {
+    "desc": "狗头坏笑",
+    "url": "/assets/douyin/狗头坏笑.webp"
+  },
+  "鲸鱼爱慕": {
+    "desc": "鲸鱼爱慕",
+    "url": "/assets/douyin/鲸鱼爱慕.webp"
+  },
+  "懵": {
+    "desc": "懵",
+    "url": "/assets/douyin/懵.webp"
+  },
   "蜜蜂狗": {
     "desc": "蜜蜂狗",
     "url": "/assets/douyin/蜜蜂狗.webp"
+  },
+  "左边": {
+    "desc": "左边",
+    "url": "/assets/douyin/左边.webp"
+  },
+  "绝了": {
+    "desc": "绝了",
+    "url": "/assets/douyin/绝了.webp"
+  },
+  "鲸鱼停机": {
+    "desc": "鲸鱼停机",
+    "url": "/assets/douyin/鲸鱼停机.webp"
+  },
+  "举手": {
+    "desc": "举手",
+    "url": "/assets/douyin/举手.webp"
+  },
+  "厉害了": {
+    "desc": "厉害了",
+    "url": "/assets/douyin/厉害了.webp"
   },
   "柴犬": {
     "desc": "柴犬",
     "url": "/assets/douyin/柴犬.webp"
   },
+  "足球": {
+    "desc": "足球",
+    "url": "/assets/douyin/足球.webp"
+  },
+  "鲸鱼呲牙": {
+    "desc": "鲸鱼呲牙",
+    "url": "/assets/douyin/鲸鱼呲牙.webp"
+  },
+  "球鞋": {
+    "desc": "球鞋",
+    "url": "/assets/douyin/球鞋.webp"
+  },
   "流汗": {
     "desc": "流汗",
     "url": "/assets/douyin/流汗.webp"
+  },
+  "么么哒": {
+    "desc": "么么哒",
+    "url": "/assets/douyin/么么哒.webp"
+  },
+  "鲸鱼尬笑": {
+    "desc": "鲸鱼尬笑",
+    "url": "/assets/douyin/鲸鱼尬笑.webp"
+  },
+  "加功德": {
+    "desc": "加功德",
+    "url": "/assets/douyin/加功德.webp"
   },
   "汗": {
     "desc": "汗",
     "url": "/assets/douyin/汗.webp"
   },
+  "啪啪打脸": {
+    "desc": "啪啪打脸",
+    "url": "/assets/douyin/啪啪打脸.webp"
+  },
+  "摊手": {
+    "desc": "摊手",
+    "url": "/assets/douyin/摊手.webp"
+  },
+  "手套": {
+    "desc": "手套",
+    "url": "/assets/douyin/手套.webp"
+  },
+  "鲸鱼流泪": {
+    "desc": "鲸鱼流泪",
+    "url": "/assets/douyin/鲸鱼流泪.webp"
+  },
+  "无语流汗": {
+    "desc": "无语流汗",
+    "url": "/assets/douyin/无语流汗.webp"
+  },
+  "亚运鼓掌": {
+    "desc": "亚运鼓掌",
+    "url": "/assets/douyin/亚运鼓掌.webp"
+  },
+  "小心心": {
+    "desc": "小心心",
+    "url": "/assets/douyin/小心心.webp"
+  },
   "摸头": {
     "desc": "摸头",
     "url": "/assets/douyin/摸头.webp"
+  },
+  "鲸鱼捂脸": {
+    "desc": "鲸鱼捂脸",
+    "url": "/assets/douyin/鲸鱼捂脸.webp"
+  },
+  "续火花吧": {
+    "desc": "续火花吧",
+    "url": "/assets/douyin/续火花吧.webp"
   },
   "皱眉": {
     "desc": "皱眉",
     "url": "/assets/douyin/皱眉.webp"
   },
+  "金牌": {
+    "desc": "金牌",
+    "url": "/assets/douyin/金牌.webp"
+  },
+  "在线吃瓜": {
+    "desc": "在线吃瓜",
+    "url": "/assets/douyin/在线吃瓜.webp"
+  },
+  "手花": {
+    "desc": "手花",
+    "url": "/assets/douyin/手花.webp"
+  },
+  "点火": {
+    "desc": "点火",
+    "url": "/assets/douyin/点火.webp"
+  },
   "擦汗": {
     "desc": "擦汗",
     "url": "/assets/douyin/擦汗.webp"
+  },
+  "过年牛": {
+    "desc": "过年牛",
+    "url": "/assets/douyin/过年牛.webp"
+  },
+  "戴口罩": {
+    "desc": "戴口罩",
+    "url": "/assets/douyin/戴口罩.webp"
+  },
+  "哭哭": {
+    "desc": "哭哭",
+    "url": "/assets/douyin/哭哭.webp"
+  },
+  "电量耗尽": {
+    "desc": "电量耗尽",
+    "url": "/assets/douyin/电量耗尽.webp"
+  },
+  "来聊天": {
+    "desc": "来聊天",
+    "url": "/assets/douyin/来聊天.webp"
+  },
+  "勤洗手": {
+    "desc": "勤洗手",
+    "url": "/assets/douyin/勤洗手.webp"
+  },
+  "嘴唇": {
+    "desc": "嘴唇",
+    "url": "/assets/douyin/嘴唇.webp"
   },
   "红脸": {
     "desc": "红脸",
     "url": "/assets/douyin/红脸.webp"
   },
+  "递花": {
+    "desc": "递花",
+    "url": "/assets/douyin/递花.webp"
+  },
   "做鬼脸": {
     "desc": "做鬼脸",
     "url": "/assets/douyin/做鬼脸.webp"
+  },
+  "kiss": {
+    "desc": "kiss",
+    "url": "/assets/douyin/kiss.webp"
+  },
+  "别发癫了": {
+    "desc": "别发癫了",
+    "url": "/assets/douyin/别发癫了.webp"
+  },
+  "不信谣言": {
+    "desc": "不信谣言",
+    "url": "/assets/douyin/不信谣言.webp"
   },
   "强": {
     "desc": "强",
     "url": "/assets/douyin/强.webp"
   },
+  "心碎": {
+    "desc": "心碎",
+    "url": "/assets/douyin/心碎.webp"
+  },
+  "点头哈腰": {
+    "desc": "点头哈腰",
+    "url": "/assets/douyin/点头哈腰.webp"
+  },
+  "nonono": {
+    "desc": "nonono",
+    "url": "/assets/douyin/nonono.webp"
+  },
+  "微笑": {
+    "desc": "微笑",
+    "url": "/assets/douyin/微笑.webp"
+  },
+  "吐舌小狗": {
+    "desc": "吐舌小狗",
+    "url": "/assets/douyin/吐舌小狗.webp"
+  },
   "如花": {
     "desc": "如花",
     "url": "/assets/douyin/如花.webp"
+  },
+  "凋谢": {
+    "desc": "凋谢",
+    "url": "/assets/douyin/凋谢.webp"
+  },
+  "看赴山海": {
+    "desc": "看赴山海",
+    "url": "/assets/douyin/看赴山海.webp"
+  },
+  "色": {
+    "desc": "色",
+    "url": "/assets/douyin/色.webp"
+  },
+  "送花": {
+    "desc": "送花",
+    "url": "/assets/douyin/送花.webp"
+  },
+  "愤怒": {
+    "desc": "愤怒",
+    "url": "/assets/douyin/愤怒.webp"
+  },
+  "爱慕": {
+    "desc": "爱慕",
+    "url": "/assets/douyin/爱慕.webp"
   },
   "吐": {
     "desc": "吐",
     "url": "/assets/douyin/吐.webp"
   },
+  "敬礼": {
+    "desc": "敬礼",
+    "url": "/assets/douyin/敬礼.webp"
+  },
+  "爱心手": {
+    "desc": "爱心手",
+    "url": "/assets/douyin/爱心手.webp"
+  },
   "惊喜": {
     "desc": "惊喜",
     "url": "/assets/douyin/惊喜.webp"
+  },
+  "垃圾": {
+    "desc": "垃圾",
+    "url": "/assets/douyin/垃圾.webp"
+  },
+  "红旗": {
+    "desc": "红旗",
+    "url": "/assets/douyin/红旗.webp"
+  },
+  "发呆": {
+    "desc": "发呆",
+    "url": "/assets/douyin/发呆.webp"
+  },
+  "贴贴": {
+    "desc": "贴贴",
+    "url": "/assets/douyin/贴贴.webp"
   },
   "敲打": {
     "desc": "敲打",
     "url": "/assets/douyin/敲打.webp"
   },
+  "啤酒": {
+    "desc": "啤酒",
+    "url": "/assets/douyin/啤酒.webp"
+  },
+  "惊呆": {
+    "desc": "惊呆",
+    "url": "/assets/douyin/惊呆.webp"
+  },
   "奋斗": {
     "desc": "奋斗",
     "url": "/assets/douyin/奋斗.webp"
+  },
+  "吃月饼": {
+    "desc": "吃月饼",
+    "url": "/assets/douyin/吃月饼.webp"
+  },
+  "咖啡": {
+    "desc": "咖啡",
+    "url": "/assets/douyin/咖啡.webp"
+  },
+  "灵光一闪": {
+    "desc": "灵光一闪",
+    "url": "/assets/douyin/灵光一闪.webp"
+  },
+  "灵机一动": {
+    "desc": "灵机一动",
+    "url": "/assets/douyin/灵机一动.webp"
+  },
+  "酷拽": {
+    "desc": "酷拽",
+    "url": "/assets/douyin/酷拽.webp"
+  },
+  "玉兔": {
+    "desc": "玉兔",
+    "url": "/assets/douyin/玉兔.webp"
   },
   "吐彩虹": {
     "desc": "吐彩虹",
     "url": "/assets/douyin/吐彩虹.webp"
   },
+  "蛋糕": {
+    "desc": "蛋糕",
+    "url": "/assets/douyin/蛋糕.webp"
+  },
+  "斜刘海": {
+    "desc": "斜刘海",
+    "url": "/assets/douyin/斜刘海.webp"
+  },
+  "耶": {
+    "desc": "耶",
+    "url": "/assets/douyin/耶.webp"
+  },
+  "抠鼻": {
+    "desc": "抠鼻",
+    "url": "/assets/douyin/抠鼻.webp"
+  },
   "大哭": {
     "desc": "大哭",
     "url": "/assets/douyin/大哭.webp"
+  },
+  "绿发": {
+    "desc": "绿发",
+    "url": "/assets/douyin/绿发.webp"
+  },
+  "礼物": {
+    "desc": "礼物",
+    "url": "/assets/douyin/礼物.webp"
+  },
+  "打脸": {
+    "desc": "打脸",
+    "url": "/assets/douyin/打脸.webp"
   },
   "嘿哈": {
     "desc": "嘿哈",
     "url": "/assets/douyin/嘿哈.webp"
   },
+  "大笑": {
+    "desc": "大笑",
+    "url": "/assets/douyin/大笑.webp"
+  },
+  "撒花": {
+    "desc": "撒花",
+    "url": "/assets/douyin/撒花.webp"
+  },
+  "黄发": {
+    "desc": "黄发",
+    "url": "/assets/douyin/黄发.webp"
+  },
   "加好友": {
     "desc": "加好友",
     "url": "/assets/douyin/加好友.webp"
+  },
+  "加一": {
+    "desc": "加一",
+    "url": "/assets/douyin/加一.webp"
+  },
+  "机智": {
+    "desc": "机智",
+    "url": "/assets/douyin/机智.webp"
   },
   "惊恐": {
     "desc": "惊恐",
     "url": "/assets/douyin/惊恐.webp"
   },
+  "减一": {
+    "desc": "减一",
+    "url": "/assets/douyin/减一.webp"
+  },
+  "装酷": {
+    "desc": "装酷",
+    "url": "/assets/douyin/装酷.webp"
+  },
+  "送心": {
+    "desc": "送心",
+    "url": "/assets/douyin/送心.webp"
+  },
+  "粉发": {
+    "desc": "粉发",
+    "url": "/assets/douyin/粉发.webp"
+  },
   "惊讶": {
     "desc": "惊讶",
     "url": "/assets/douyin/惊讶.webp"
   },
+  "666": {
+    "desc": "666",
+    "url": "/assets/douyin/666.webp"
+  },
+  "okk": {
+    "desc": "okk",
+    "url": "/assets/douyin/okk.webp"
+  },
   "囧": {
     "desc": "囧",
     "url": "/assets/douyin/囧.webp"
+  },
+  "V5": {
+    "desc": "V5",
+    "url": "/assets/douyin/V5.webp"
+  },
+  "求好运": {
+    "desc": "求好运",
+    "url": "/assets/douyin/求好运.webp"
+  },
+  "闭嘴": {
+    "desc": "闭嘴",
+    "url": "/assets/douyin/闭嘴.webp"
+  },
+  "绝": {
+    "desc": "绝",
+    "url": "/assets/douyin/绝.webp"
   },
   "难过": {
     "desc": "难过",
@@ -651,381 +899,65 @@
     "desc": "斜眼",
     "url": "/assets/douyin/斜眼.webp"
   },
-  "阴险": {
-    "desc": "阴险",
-    "url": "/assets/douyin/阴险.webp"
-  },
-  "左哼哼": {
-    "desc": "左哼哼",
-    "url": "/assets/douyin/左哼哼.webp"
-  },
-  "右哼哼": {
-    "desc": "右哼哼",
-    "url": "/assets/douyin/右哼哼.webp"
-  },
-  "悠闲": {
-    "desc": "悠闲",
-    "url": "/assets/douyin/悠闲.webp"
-  },
-  "咒骂": {
-    "desc": "咒骂",
-    "url": "/assets/douyin/咒骂.webp"
-  },
-  "吃瓜群众": {
-    "desc": "吃瓜群众",
-    "url": "/assets/douyin/吃瓜群众.webp"
-  },
-  "绿帽子": {
-    "desc": "绿帽子",
-    "url": "/assets/douyin/绿帽子.webp"
-  },
-  "真的会谢": {
-    "desc": "真的会谢",
-    "url": "/assets/douyin/真的会谢.webp"
-  },
-  "达咩": {
-    "desc": "达咩",
-    "url": "/assets/douyin/达咩.webp"
-  },
-  "敢怒不敢言": {
-    "desc": "敢怒不敢言",
-    "url": "/assets/douyin/敢怒不敢言.webp"
-  },
-  "投降": {
-    "desc": "投降",
-    "url": "/assets/douyin/投降.webp"
-  },
-  "求求了": {
-    "desc": "求求了",
-    "url": "/assets/douyin/求求了.webp"
-  },
-  "眼含热泪": {
-    "desc": "眼含热泪",
-    "url": "/assets/douyin/眼含热泪.webp"
-  },
-  "叹气": {
-    "desc": "叹气",
-    "url": "/assets/douyin/叹气.webp"
-  },
-  "好开心": {
-    "desc": "好开心",
-    "url": "/assets/douyin/好开心.webp"
-  },
-  "不是吧": {
-    "desc": "不是吧",
-    "url": "/assets/douyin/不是吧.webp"
-  },
-  "动动脑子": {
-    "desc": "动动脑子",
-    "url": "/assets/douyin/动动脑子.webp"
-  },
-  "表面微笑": {
-    "desc": "表面微笑",
-    "url": "/assets/douyin/表面微笑.webp"
-  },
-  "表面呲牙": {
-    "desc": "表面呲牙",
-    "url": "/assets/douyin/表面呲牙.webp"
-  },
-  "鞠躬": {
-    "desc": "鞠躬",
-    "url": "/assets/douyin/鞠躬.webp"
-  },
-  "躺平": {
-    "desc": "躺平",
-    "url": "/assets/douyin/躺平.webp"
-  },
-  "九转大肠": {
-    "desc": "九转大肠",
-    "url": "/assets/douyin/九转大肠.webp"
-  },
-  "敲木鱼": {
-    "desc": "敲木鱼",
-    "url": "/assets/douyin/敲木鱼.webp"
-  },
-  "不你不想": {
-    "desc": "不你不想",
-    "url": "/assets/douyin/不你不想.webp"
-  },
-  "一头乱麻": {
-    "desc": "一头乱麻",
-    "url": "/assets/douyin/一头乱麻.webp"
-  },
-  "kisskiss": {
-    "desc": "kisskiss",
-    "url": "/assets/douyin/kisskiss.webp"
-  },
-  "你不大行": {
-    "desc": "你不大行",
-    "url": "/assets/douyin/你不大行.webp"
-  },
-  "噢买尬": {
-    "desc": "噢买尬",
-    "url": "/assets/douyin/噢买尬.webp"
-  },
-  "宕机": {
-    "desc": "宕机",
-    "url": "/assets/douyin/宕机.webp"
-  },
-  "还得是我": {
-    "desc": "还得是我",
-    "url": "/assets/douyin/还得是我.webp"
-  },
-  "6": {
-    "desc": "6",
-    "url": "/assets/douyin/6.webp"
-  },
-  "脸疼": {
-    "desc": "脸疼",
-    "url": "/assets/douyin/脸疼.webp"
-  },
-  "他急了": {
-    "desc": "他急了",
-    "url": "/assets/douyin/他急了.webp"
-  },
-  "苦涩": {
-    "desc": "苦涩",
-    "url": "/assets/douyin/苦涩.webp"
-  },
-  "逞强落泪": {
-    "desc": "逞强落泪",
-    "url": "/assets/douyin/逞强落泪.webp"
-  },
-  "求机位-黄脸": {
-    "desc": "求机位-黄脸",
-    "url": "/assets/douyin/求机位-黄脸.webp"
-  },
-  "求机位1": {
-    "desc": "求机位1",
-    "url": "/assets/douyin/求机位1.webp"
-  },
-  "求机位2": {
-    "desc": "求机位2",
-    "url": "/assets/douyin/求机位2.webp"
-  },
-  "求机位3": {
-    "desc": "求机位3",
-    "url": "/assets/douyin/求机位3.webp"
-  },
-  "求机位-ip": {
-    "desc": "求机位-ip",
-    "url": "/assets/douyin/求机位-ip.webp"
-  },
-  "助威": {
-    "desc": "助威",
-    "url": "/assets/douyin/助威.webp"
-  },
-  "夺金": {
-    "desc": "夺金",
-    "url": "/assets/douyin/夺金.webp"
-  },
-  "点赞": {
-    "desc": "点赞",
-    "url": "/assets/douyin/点赞.webp"
-  },
-  "细糠": {
-    "desc": "细糠",
-    "url": "/assets/douyin/细糠.webp"
-  },
-  "精选": {
-    "desc": "精选",
-    "url": "/assets/douyin/精选.webp"
-  },
-  "买买买": {
-    "desc": "买买买",
-    "url": "/assets/douyin/买买买.webp"
-  },
-  "好想要": {
-    "desc": "好想要",
-    "url": "/assets/douyin/好想要.webp"
-  },
-  "含泪剁手": {
-    "desc": "含泪剁手",
-    "url": "/assets/douyin/含泪剁手.webp"
-  },
-  "带我去": {
-    "desc": "带我去",
-    "url": "/assets/douyin/带我去.webp"
-  },
-  "好想吃": {
-    "desc": "好想吃",
-    "url": "/assets/douyin/好想吃.webp"
-  },
-  "安排": {
-    "desc": "安排",
-    "url": "/assets/douyin/安排.webp"
-  },
-  "码住": {
-    "desc": "码住",
-    "url": "/assets/douyin/码住.webp"
-  },
-  "种草": {
-    "desc": "种草",
-    "url": "/assets/douyin/种草.webp"
-  },
-  "上链接": {
-    "desc": "上链接",
-    "url": "/assets/douyin/上链接.webp"
-  },
-  "强壮": {
-    "desc": "强壮",
-    "url": "/assets/douyin/强壮.webp"
-  },
-  "加油": {
-    "desc": "加油",
-    "url": "/assets/douyin/加油.webp"
-  },
-  "碰拳": {
-    "desc": "碰拳",
-    "url": "/assets/douyin/碰拳.webp"
-  },
-  "OK": {
-    "desc": "OK",
-    "url": "/assets/douyin/OK.webp"
-  },
-  "ok": {
-    "desc": "ok",
-    "url": "/assets/douyin/ok.webp"
-  },
-  "击掌": {
-    "desc": "击掌",
-    "url": "/assets/douyin/击掌.webp"
-  },
-  "左上": {
-    "desc": "左上",
-    "url": "/assets/douyin/左上.webp"
-  },
-  "握手": {
-    "desc": "握手",
-    "url": "/assets/douyin/握手.webp"
-  },
-  "抱拳": {
-    "desc": "抱拳",
-    "url": "/assets/douyin/抱拳.webp"
-  },
-  "勾引": {
-    "desc": "勾引",
-    "url": "/assets/douyin/勾引.webp"
-  },
-  "拳头": {
-    "desc": "拳头",
-    "url": "/assets/douyin/拳头.webp"
-  },
-  "弱": {
-    "desc": "弱",
-    "url": "/assets/douyin/弱.webp"
-  },
-  "胜利": {
-    "desc": "胜利",
-    "url": "/assets/douyin/胜利.webp"
-  },
-  "右边": {
-    "desc": "右边",
-    "url": "/assets/douyin/右边.webp"
-  },
-  "左边": {
-    "desc": "左边",
-    "url": "/assets/douyin/左边.webp"
-  },
-  "足球": {
-    "desc": "足球",
-    "url": "/assets/douyin/足球.webp"
-  },
-  "球鞋": {
-    "desc": "球鞋",
-    "url": "/assets/douyin/球鞋.webp"
-  },
-  "手套": {
-    "desc": "手套",
-    "url": "/assets/douyin/手套.webp"
-  },
-  "亚运鼓掌": {
-    "desc": "亚运鼓掌",
-    "url": "/assets/douyin/亚运鼓掌.webp"
-  },
-  "金牌": {
-    "desc": "金牌",
-    "url": "/assets/douyin/金牌.webp"
-  },
-  "手花": {
-    "desc": "手花",
-    "url": "/assets/douyin/手花.webp"
-  },
-  "嘴唇": {
-    "desc": "嘴唇",
-    "url": "/assets/douyin/嘴唇.webp"
-  },
-  "kiss": {
-    "desc": "kiss",
-    "url": "/assets/douyin/kiss.webp"
-  },
-  "心碎": {
-    "desc": "心碎",
-    "url": "/assets/douyin/心碎.webp"
-  },
-  "凋谢": {
-    "desc": "凋谢",
-    "url": "/assets/douyin/凋谢.webp"
-  },
-  "愤怒": {
-    "desc": "愤怒",
-    "url": "/assets/douyin/愤怒.webp"
-  },
-  "垃圾": {
-    "desc": "垃圾",
-    "url": "/assets/douyin/垃圾.webp"
-  },
-  "啤酒": {
-    "desc": "啤酒",
-    "url": "/assets/douyin/啤酒.webp"
-  },
-  "咖啡": {
-    "desc": "咖啡",
-    "url": "/assets/douyin/咖啡.webp"
-  },
-  "蛋糕": {
-    "desc": "蛋糕",
-    "url": "/assets/douyin/蛋糕.webp"
-  },
-  "礼物": {
-    "desc": "礼物",
-    "url": "/assets/douyin/礼物.webp"
-  },
-  "撒花": {
-    "desc": "撒花",
-    "url": "/assets/douyin/撒花.webp"
-  },
-  "加一": {
-    "desc": "加一",
-    "url": "/assets/douyin/加一.webp"
-  },
-  "减一": {
-    "desc": "减一",
-    "url": "/assets/douyin/减一.webp"
-  },
-  "okk": {
-    "desc": "okk",
-    "url": "/assets/douyin/okk.webp"
-  },
-  "V5": {
-    "desc": "V5",
-    "url": "/assets/douyin/V5.webp"
-  },
-  "绝": {
-    "desc": "绝",
-    "url": "/assets/douyin/绝.webp"
+  "来看我": {
+    "desc": "来看我",
+    "url": "/assets/douyin/来看我.webp"
+  },
+  "超人": {
+    "desc": "超人",
+    "url": "/assets/douyin/超人.webp"
   },
   "给力": {
     "desc": "给力",
     "url": "/assets/douyin/给力.webp"
   },
+  "小丑": {
+    "desc": "小丑",
+    "url": "/assets/douyin/小丑.webp"
+  },
+  "小鬼": {
+    "desc": "小鬼",
+    "url": "/assets/douyin/小鬼.webp"
+  },
+  "一起加油": {
+    "desc": "一起加油",
+    "url": "/assets/douyin/一起加油.webp"
+  },
   "yes": {
     "desc": "yes",
     "url": "/assets/douyin/yes.webp"
   },
+  "左哼哼": {
+    "desc": "左哼哼",
+    "url": "/assets/douyin/左哼哼.webp"
+  },
+  "阴险": {
+    "desc": "阴险",
+    "url": "/assets/douyin/阴险.webp"
+  },
+  "雪球": {
+    "desc": "雪球",
+    "url": "/assets/douyin/雪球.webp"
+  },
   "no": {
     "desc": "no",
     "url": "/assets/douyin/no.webp"
+  },
+  "哈欠": {
+    "desc": "哈欠",
+    "url": "/assets/douyin/哈欠.webp"
+  },
+  "震惊": {
+    "desc": "震惊",
+    "url": "/assets/douyin/震惊.webp"
+  },
+  "右哼哼": {
+    "desc": "右哼哼",
+    "url": "/assets/douyin/右哼哼.webp"
+  },
+  "喜羊羊": {
+    "desc": "喜羊羊",
+    "url": "/assets/douyin/喜羊羊.webp"
   },
   "红包": {
     "desc": "红包",
@@ -1035,97 +967,393 @@
     "desc": "屎",
     "url": "/assets/douyin/屎.webp"
   },
+  "美羊羊": {
+    "desc": "美羊羊",
+    "url": "/assets/douyin/美羊羊.webp"
+  },
+  "晕": {
+    "desc": "晕",
+    "url": "/assets/douyin/晕.webp"
+  },
+  "悠闲": {
+    "desc": "悠闲",
+    "url": "/assets/douyin/悠闲.webp"
+  },
+  "衰": {
+    "desc": "衰",
+    "url": "/assets/douyin/衰.webp"
+  },
+  "咒骂": {
+    "desc": "咒骂",
+    "url": "/assets/douyin/咒骂.webp"
+  },
   "发": {
     "desc": "发",
     "url": "/assets/douyin/发.webp"
+  },
+  "懒羊羊": {
+    "desc": "懒羊羊",
+    "url": "/assets/douyin/懒羊羊.webp"
   },
   "我太难了": {
     "desc": "我太难了",
     "url": "/assets/douyin/我太难了.webp"
   },
+  "暖羊羊": {
+    "desc": "暖羊羊",
+    "url": "/assets/douyin/暖羊羊.webp"
+  },
+  "困": {
+    "desc": "困",
+    "url": "/assets/douyin/困.webp"
+  },
+  "吃瓜群众": {
+    "desc": "吃瓜群众",
+    "url": "/assets/douyin/吃瓜群众.webp"
+  },
+  "疑问": {
+    "desc": "疑问",
+    "url": "/assets/douyin/疑问.webp"
+  },
+  "绿帽子": {
+    "desc": "绿帽子",
+    "url": "/assets/douyin/绿帽子.webp"
+  },
   "18禁": {
     "desc": "18禁",
     "url": "/assets/douyin/18禁.webp"
+  },
+  "沸羊羊": {
+    "desc": "沸羊羊",
+    "url": "/assets/douyin/沸羊羊.webp"
+  },
+  "灰太狼": {
+    "desc": "灰太狼",
+    "url": "/assets/douyin/灰太狼.webp"
+  },
+  "what": {
+    "desc": "what",
+    "url": "/assets/douyin/what.webp"
   },
   "炸弹": {
     "desc": "炸弹",
     "url": "/assets/douyin/炸弹.webp"
   },
-  "去污粉": {
-    "desc": "去污粉",
-    "url": "/assets/douyin/去污粉.webp"
+  "真的会谢": {
+    "desc": "真的会谢",
+    "url": "/assets/douyin/真的会谢.webp"
+  },
+  "红太狼": {
+    "desc": "红太狼",
+    "url": "/assets/douyin/红太狼.webp"
+  },
+  "泣不成声": {
+    "desc": "泣不成声",
+    "url": "/assets/douyin/泣不成声.webp"
+  },
+  "达咩": {
+    "desc": "达咩",
+    "url": "/assets/douyin/达咩.webp"
+  },
+  "小鼓掌": {
+    "desc": "小鼓掌",
+    "url": "/assets/douyin/小鼓掌.webp"
+  },
+  "举重": {
+    "desc": "举重",
+    "url": "/assets/douyin/举重.webp"
+  },
+  "敢怒不敢言": {
+    "desc": "敢怒不敢言",
+    "url": "/assets/douyin/敢怒不敢言.webp"
   },
   "西瓜": {
     "desc": "西瓜",
     "url": "/assets/douyin/西瓜.webp"
   },
+  "去污粉": {
+    "desc": "去污粉",
+    "url": "/assets/douyin/去污粉.webp"
+  },
+  "乒乓球": {
+    "desc": "乒乓球",
+    "url": "/assets/douyin/乒乓球.webp"
+  },
+  "大金牙": {
+    "desc": "大金牙",
+    "url": "/assets/douyin/大金牙.webp"
+  },
+  "投降": {
+    "desc": "投降",
+    "url": "/assets/douyin/投降.webp"
+  },
   "菜刀": {
     "desc": "菜刀",
     "url": "/assets/douyin/菜刀.webp"
+  },
+  "偷笑": {
+    "desc": "偷笑",
+    "url": "/assets/douyin/偷笑.webp"
+  },
+  "篮球": {
+    "desc": "篮球",
+    "url": "/assets/douyin/篮球.webp"
+  },
+  "求求了": {
+    "desc": "求求了",
+    "url": "/assets/douyin/求求了.webp"
   },
   "刀": {
     "desc": "刀",
     "url": "/assets/douyin/刀.webp"
   },
+  "激情": {
+    "desc": "激情",
+    "url": "/assets/douyin/激情.webp"
+  },
+  "石化": {
+    "desc": "石化",
+    "url": "/assets/douyin/石化.webp"
+  },
   "心": {
     "desc": "心",
     "url": "/assets/douyin/心.webp"
+  },
+  "眼含热泪": {
+    "desc": "眼含热泪",
+    "url": "/assets/douyin/眼含热泪.webp"
+  },
+  "奖牌": {
+    "desc": "奖牌",
+    "url": "/assets/douyin/奖牌.webp"
+  },
+  "思考": {
+    "desc": "思考",
+    "url": "/assets/douyin/思考.webp"
+  },
+  "叹气": {
+    "desc": "叹气",
+    "url": "/assets/douyin/叹气.webp"
+  },
+  "吐血": {
+    "desc": "吐血",
+    "url": "/assets/douyin/吐血.webp"
   },
   "伤心": {
     "desc": "伤心",
     "url": "/assets/douyin/伤心.webp"
   },
+  "好开心": {
+    "desc": "好开心",
+    "url": "/assets/douyin/好开心.webp"
+  },
+  "毛雪人": {
+    "desc": "毛雪人",
+    "url": "/assets/douyin/毛雪人.webp"
+  },
   "便便": {
     "desc": "便便",
     "url": "/assets/douyin/便便.webp"
+  },
+  "不是吧": {
+    "desc": "不是吧",
+    "url": "/assets/douyin/不是吧.webp"
   },
   "加鸡腿": {
     "desc": "加鸡腿",
     "url": "/assets/douyin/加鸡腿.webp"
   },
+  "毛手套": {
+    "desc": "毛手套",
+    "url": "/assets/douyin/毛手套.webp"
+  },
+  "嘘": {
+    "desc": "嘘",
+    "url": "/assets/douyin/嘘.webp"
+  },
+  "可怜": {
+    "desc": "可怜",
+    "url": "/assets/douyin/可怜.webp"
+  },
   "我酸了": {
     "desc": "我酸了",
     "url": "/assets/douyin/我酸了.webp"
+  },
+  "动动脑子": {
+    "desc": "动动脑子",
+    "url": "/assets/douyin/动动脑子.webp"
+  },
+  "撇嘴": {
+    "desc": "撇嘴",
+    "url": "/assets/douyin/撇嘴.webp"
+  },
+  "火锅": {
+    "desc": "火锅",
+    "url": "/assets/douyin/火锅.webp"
   },
   "握爪": {
     "desc": "握爪",
     "url": "/assets/douyin/握爪.webp"
   },
+  "表面微笑": {
+    "desc": "表面微笑",
+    "url": "/assets/douyin/表面微笑.webp"
+  },
+  "奶茶": {
+    "desc": "奶茶",
+    "url": "/assets/douyin/奶茶.webp"
+  },
+  "表面呲牙": {
+    "desc": "表面呲牙",
+    "url": "/assets/douyin/表面呲牙.webp"
+  },
+  "尴尬": {
+    "desc": "尴尬",
+    "url": "/assets/douyin/尴尬.webp"
+  },
   "太阳": {
     "desc": "太阳",
     "url": "/assets/douyin/太阳.webp"
+  },
+  "追剧": {
+    "desc": "追剧",
+    "url": "/assets/douyin/追剧.webp"
+  },
+  "鞠躬": {
+    "desc": "鞠躬",
+    "url": "/assets/douyin/鞠躬.webp"
   },
   "月亮": {
     "desc": "月亮",
     "url": "/assets/douyin/月亮.webp"
   },
+  "下雪": {
+    "desc": "下雪",
+    "url": "/assets/douyin/下雪.webp"
+  },
+  "黑线": {
+    "desc": "黑线",
+    "url": "/assets/douyin/黑线.webp"
+  },
+  "尼克": {
+    "desc": "尼克",
+    "url": "/assets/douyin/尼克.webp"
+  },
+  "笑哭": {
+    "desc": "笑哭",
+    "url": "/assets/douyin/笑哭.webp"
+  },
+  "躺平": {
+    "desc": "躺平",
+    "url": "/assets/douyin/躺平.webp"
+  },
   "给跪了": {
     "desc": "给跪了",
     "url": "/assets/douyin/给跪了.webp"
+  },
+  "朱迪": {
+    "desc": "朱迪",
+    "url": "/assets/douyin/朱迪.webp"
+  },
+  "九转大肠": {
+    "desc": "九转大肠",
+    "url": "/assets/douyin/九转大肠.webp"
   },
   "蕉绿": {
     "desc": "蕉绿",
     "url": "/assets/douyin/蕉绿.webp"
   },
-  "扎心": {
-    "desc": "扎心",
-    "url": "/assets/douyin/扎心.webp"
+  "生病": {
+    "desc": "生病",
+    "url": "/assets/douyin/生病.webp"
+  },
+  "敲木鱼": {
+    "desc": "敲木鱼",
+    "url": "/assets/douyin/敲木鱼.webp"
+  },
+  "雾霾": {
+    "desc": "雾霾",
+    "url": "/assets/douyin/雾霾.webp"
+  },
+  "奸笑": {
+    "desc": "奸笑",
+    "url": "/assets/douyin/奸笑.webp"
   },
   "胡瓜": {
     "desc": "胡瓜",
     "url": "/assets/douyin/胡瓜.webp"
   },
+  "盖瑞": {
+    "desc": "盖瑞",
+    "url": "/assets/douyin/盖瑞.webp"
+  },
+  "扎心": {
+    "desc": "扎心",
+    "url": "/assets/douyin/扎心.webp"
+  },
+  "夏奇羊": {
+    "desc": "夏奇羊",
+    "url": "/assets/douyin/夏奇羊.webp"
+  },
+  "不你不想": {
+    "desc": "不你不想",
+    "url": "/assets/douyin/不你不想.webp"
+  },
+  "马市长": {
+    "desc": "马市长",
+    "url": "/assets/douyin/马市长.webp"
+  },
   "yyds": {
     "desc": "yyds",
     "url": "/assets/douyin/yyds.webp"
+  },
+  "得意": {
+    "desc": "得意",
+    "url": "/assets/douyin/得意.webp"
+  },
+  "憨笑": {
+    "desc": "憨笑",
+    "url": "/assets/douyin/憨笑.webp"
+  },
+  "kisskiss": {
+    "desc": "kisskiss",
+    "url": "/assets/douyin/kisskiss.webp"
   },
   "emo": {
     "desc": "emo",
     "url": "/assets/douyin/emo.webp"
   },
+  "一头乱麻": {
+    "desc": "一头乱麻",
+    "url": "/assets/douyin/一头乱麻.webp"
+  },
+  "坏笑": {
+    "desc": "坏笑",
+    "url": "/assets/douyin/坏笑.webp"
+  },
   "开心兔": {
     "desc": "开心兔",
     "url": "/assets/douyin/开心兔.webp"
+  },
+  "抓狂": {
+    "desc": "抓狂",
+    "url": "/assets/douyin/抓狂.webp"
+  },
+  "你不大行": {
+    "desc": "你不大行",
+    "url": "/assets/douyin/你不大行.webp"
+  },
+  "噢买尬": {
+    "desc": "噢买尬",
+    "url": "/assets/douyin/噢买尬.webp"
+  },
+  "泪奔": {
+    "desc": "泪奔",
+    "url": "/assets/douyin/泪奔.webp"
+  },
+  "宕机": {
+    "desc": "宕机",
+    "url": "/assets/douyin/宕机.webp"
   },
   "招财兔": {
     "desc": "招财兔",
@@ -1139,9 +1367,33 @@
     "desc": "打call",
     "url": "/assets/douyin/打call.webp"
   },
+  "还得是我": {
+    "desc": "还得是我",
+    "url": "/assets/douyin/还得是我.webp"
+  },
+  "钱": {
+    "desc": "钱",
+    "url": "/assets/douyin/钱.webp"
+  },
   "栓Q": {
     "desc": "栓Q",
     "url": "/assets/douyin/栓Q.webp"
+  },
+  "亲亲": {
+    "desc": "亲亲",
+    "url": "/assets/douyin/亲亲.webp"
+  },
+  "6": {
+    "desc": "6",
+    "url": "/assets/douyin/6.webp"
+  },
+  "吻": {
+    "desc": "吻",
+    "url": "/assets/douyin/吻.webp"
+  },
+  "脸疼": {
+    "desc": "脸疼",
+    "url": "/assets/douyin/脸疼.webp"
   },
   "无语": {
     "desc": "无语",
@@ -1151,6 +1403,22 @@
     "desc": "雪人",
     "url": "/assets/douyin/雪人.webp"
   },
+  "恐惧": {
+    "desc": "恐惧",
+    "url": "/assets/douyin/恐惧.webp"
+  },
+  "苦涩": {
+    "desc": "苦涩",
+    "url": "/assets/douyin/苦涩.webp"
+  },
+  "愉快": {
+    "desc": "愉快",
+    "url": "/assets/douyin/愉快.webp"
+  },
+  "他急了": {
+    "desc": "他急了",
+    "url": "/assets/douyin/他急了.webp"
+  },
   "雪花": {
     "desc": "雪花",
     "url": "/assets/douyin/雪花.webp"
@@ -1159,328 +1427,60 @@
     "desc": "圣诞树",
     "url": "/assets/douyin/圣诞树.webp"
   },
+  "笑": {
+    "desc": "笑",
+    "url": "/assets/douyin/笑.webp"
+  },
+  "逞强落泪": {
+    "desc": "逞强落泪",
+    "url": "/assets/douyin/逞强落泪.webp"
+  },
   "平安果": {
     "desc": "平安果",
     "url": "/assets/douyin/平安果.webp"
+  },
+  "快哭了": {
+    "desc": "快哭了",
+    "url": "/assets/douyin/快哭了.webp"
+  },
+  "求机位-黄脸": {
+    "desc": "求机位-黄脸",
+    "url": "/assets/douyin/求机位-黄脸.webp"
   },
   "圣诞帽": {
     "desc": "圣诞帽",
     "url": "/assets/douyin/圣诞帽.webp"
   },
+  "翻白眼": {
+    "desc": "翻白眼",
+    "url": "/assets/douyin/翻白眼.webp"
+  },
   "气球": {
     "desc": "气球",
     "url": "/assets/douyin/气球.webp"
+  },
+  "求机位1": {
+    "desc": "求机位1",
+    "url": "/assets/douyin/求机位1.webp"
+  },
+  "求机位2": {
+    "desc": "求机位2",
+    "url": "/assets/douyin/求机位2.webp"
+  },
+  "傲慢": {
+    "desc": "傲慢",
+    "url": "/assets/douyin/傲慢.webp"
   },
   "干杯": {
     "desc": "干杯",
     "url": "/assets/douyin/干杯.webp"
   },
-  "烟花": {
-    "desc": "烟花",
-    "url": "/assets/douyin/烟花.webp"
-  },
-  "福": {
-    "desc": "福",
-    "url": "/assets/douyin/福.webp"
-  },
-  "candy": {
-    "desc": "candy",
-    "url": "/assets/douyin/candy.webp"
-  },
-  "糖葫芦": {
-    "desc": "糖葫芦",
-    "url": "/assets/douyin/糖葫芦.webp"
-  },
-  "虎头": {
-    "desc": "虎头",
-    "url": "/assets/douyin/虎头.webp"
-  },
-  "饺子": {
-    "desc": "饺子",
-    "url": "/assets/douyin/饺子.webp"
-  },
-  "鞭炮": {
-    "desc": "鞭炮",
-    "url": "/assets/douyin/鞭炮.webp"
-  },
-  "元宝": {
-    "desc": "元宝",
-    "url": "/assets/douyin/元宝.webp"
-  },
-  "灯笼": {
-    "desc": "灯笼",
-    "url": "/assets/douyin/灯笼.webp"
-  },
-  "锦鲤": {
-    "desc": "锦鲤",
-    "url": "/assets/douyin/锦鲤.webp"
-  },
-  "巧克力": {
-    "desc": "巧克力",
-    "url": "/assets/douyin/巧克力.webp"
-  },
-  "汤圆": {
-    "desc": "汤圆",
-    "url": "/assets/douyin/汤圆.webp"
-  },
-  "情书": {
-    "desc": "情书",
-    "url": "/assets/douyin/情书.webp"
-  },
-  "iloveyou": {
-    "desc": "iloveyou",
-    "url": "/assets/douyin/iloveyou.webp"
-  },
-  "戒指": {
-    "desc": "戒指",
-    "url": "/assets/douyin/戒指.webp"
-  },
-  "派对": {
-    "desc": "派对",
-    "url": "/assets/douyin/派对.webp"
-  },
-  "过年鼠": {
-    "desc": "过年鼠",
-    "url": "/assets/douyin/过年鼠.webp"
-  },
-  "小黄鸭": {
-    "desc": "小黄鸭",
-    "url": "/assets/douyin/小黄鸭.webp"
-  },
-  "棒棒糖": {
-    "desc": "棒棒糖",
-    "url": "/assets/douyin/棒棒糖.webp"
-  },
-  "纸飞机": {
-    "desc": "纸飞机",
-    "url": "/assets/douyin/纸飞机.webp"
-  },
-  "必胜": {
-    "desc": "必胜",
-    "url": "/assets/douyin/必胜.webp"
-  },
-  "粽子": {
-    "desc": "粽子",
-    "url": "/assets/douyin/粽子.webp"
-  },
-  "象": {
-    "desc": "象",
-    "url": "/assets/douyin/象.webp"
-  },
-  "小红花": {
-    "desc": "小红花",
-    "url": "/assets/douyin/小红花.webp"
-  },
-  "罗三炮": {
-    "desc": "罗三炮",
-    "url": "/assets/douyin/罗三炮.webp"
-  },
-  "戳一戳": {
-    "desc": "戳一戳",
-    "url": "/assets/douyin/戳一戳.webp"
-  },
-  "🎌": {
-    "desc": "🎌",
-    "url": "/assets/douyin/🎌.webp"
-  },
-  "爱了爱了": {
-    "desc": "爱了爱了",
-    "url": "/assets/douyin/爱了爱了.webp"
-  },
-  "狗头坏笑": {
-    "desc": "狗头坏笑",
-    "url": "/assets/douyin/狗头坏笑.webp"
-  },
-  "绝了": {
-    "desc": "绝了",
-    "url": "/assets/douyin/绝了.webp"
-  },
-  "厉害了": {
-    "desc": "厉害了",
-    "url": "/assets/douyin/厉害了.webp"
-  },
-  "么么哒": {
-    "desc": "么么哒",
-    "url": "/assets/douyin/么么哒.webp"
-  },
-  "啪啪打脸": {
-    "desc": "啪啪打脸",
-    "url": "/assets/douyin/啪啪打脸.webp"
-  },
-  "小心心": {
-    "desc": "小心心",
-    "url": "/assets/douyin/小心心.webp"
-  },
-  "在线吃瓜": {
-    "desc": "在线吃瓜",
-    "url": "/assets/douyin/在线吃瓜.webp"
-  },
-  "来聊天": {
-    "desc": "来聊天",
-    "url": "/assets/douyin/来聊天.webp"
-  },
-  "电量耗尽": {
-    "desc": "电量耗尽",
-    "url": "/assets/douyin/电量耗尽.webp"
-  },
-  "别发癫了": {
-    "desc": "别发癫了",
-    "url": "/assets/douyin/别发癫了.webp"
-  },
-  "nonono": {
-    "desc": "nonono",
-    "url": "/assets/douyin/nonono.webp"
-  },
-  "看赴山海": {
-    "desc": "看赴山海",
-    "url": "/assets/douyin/看赴山海.webp"
-  },
-  "敬礼": {
-    "desc": "敬礼",
-    "url": "/assets/douyin/敬礼.webp"
-  },
-  "红旗": {
-    "desc": "红旗",
-    "url": "/assets/douyin/红旗.webp"
-  },
-  "吃月饼": {
-    "desc": "吃月饼",
-    "url": "/assets/douyin/吃月饼.webp"
-  },
-  "玉兔": {
-    "desc": "玉兔",
-    "url": "/assets/douyin/玉兔.webp"
-  },
-  "斜刘海": {
-    "desc": "斜刘海",
-    "url": "/assets/douyin/斜刘海.webp"
-  },
-  "绿发": {
-    "desc": "绿发",
-    "url": "/assets/douyin/绿发.webp"
-  },
-  "黄发": {
-    "desc": "黄发",
-    "url": "/assets/douyin/黄发.webp"
-  },
-  "装酷": {
-    "desc": "装酷",
-    "url": "/assets/douyin/装酷.webp"
-  },
-  "粉发": {
-    "desc": "粉发",
-    "url": "/assets/douyin/粉发.webp"
-  },
-  "求好运": {
-    "desc": "求好运",
-    "url": "/assets/douyin/求好运.webp"
-  },
-  "超人": {
-    "desc": "超人",
-    "url": "/assets/douyin/超人.webp"
-  },
-  "小丑": {
-    "desc": "小丑",
-    "url": "/assets/douyin/小丑.webp"
-  },
-  "小鬼": {
-    "desc": "小鬼",
-    "url": "/assets/douyin/小鬼.webp"
-  },
-  "雪球": {
-    "desc": "雪球",
-    "url": "/assets/douyin/雪球.webp"
-  },
-  "喜羊羊": {
-    "desc": "喜羊羊",
-    "url": "/assets/douyin/喜羊羊.webp"
-  },
-  "美羊羊": {
-    "desc": "美羊羊",
-    "url": "/assets/douyin/美羊羊.webp"
-  },
-  "懒羊羊": {
-    "desc": "懒羊羊",
-    "url": "/assets/douyin/懒羊羊.webp"
-  },
-  "暖羊羊": {
-    "desc": "暖羊羊",
-    "url": "/assets/douyin/暖羊羊.webp"
-  },
-  "沸羊羊": {
-    "desc": "沸羊羊",
-    "url": "/assets/douyin/沸羊羊.webp"
-  },
-  "灰太狼": {
-    "desc": "灰太狼",
-    "url": "/assets/douyin/灰太狼.webp"
-  },
-  "红太狼": {
-    "desc": "红太狼",
-    "url": "/assets/douyin/红太狼.webp"
-  },
-  "举重": {
-    "desc": "举重",
-    "url": "/assets/douyin/举重.webp"
-  },
-  "乒乓球": {
-    "desc": "乒乓球",
-    "url": "/assets/douyin/乒乓球.webp"
-  },
-  "篮球": {
-    "desc": "篮球",
-    "url": "/assets/douyin/篮球.webp"
-  },
-  "激情": {
-    "desc": "激情",
-    "url": "/assets/douyin/激情.webp"
-  },
-  "奖牌": {
-    "desc": "奖牌",
-    "url": "/assets/douyin/奖牌.webp"
-  },
-  "毛雪人": {
-    "desc": "毛雪人",
-    "url": "/assets/douyin/毛雪人.webp"
-  },
-  "毛手套": {
-    "desc": "毛手套",
-    "url": "/assets/douyin/毛手套.webp"
-  },
-  "火锅": {
-    "desc": "火锅",
-    "url": "/assets/douyin/火锅.webp"
-  },
-  "奶茶": {
-    "desc": "奶茶",
-    "url": "/assets/douyin/奶茶.webp"
-  },
-  "追剧": {
-    "desc": "追剧",
-    "url": "/assets/douyin/追剧.webp"
-  },
-  "下雪": {
-    "desc": "下雪",
-    "url": "/assets/douyin/下雪.webp"
-  },
-  "尼克": {
-    "desc": "尼克",
-    "url": "/assets/douyin/尼克.webp"
-  },
-  "朱迪": {
-    "desc": "朱迪",
-    "url": "/assets/douyin/朱迪.webp"
-  },
-  "盖瑞": {
-    "desc": "盖瑞",
-    "url": "/assets/douyin/盖瑞.webp"
-  },
-  "夏奇羊": {
-    "desc": "夏奇羊",
-    "url": "/assets/douyin/夏奇羊.webp"
-  },
-  "马市长": {
-    "desc": "马市长",
-    "url": "/assets/douyin/马市长.webp"
+  "互粉": {
+    "desc": "互粉",
+    "url": "/assets/douyin/互粉.webp"
+  },
+  "求机位3": {
+    "desc": "求机位3",
+    "url": "/assets/douyin/求机位3.webp"
   }
 }

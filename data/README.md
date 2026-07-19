@@ -15,3 +15,7 @@ operationName: "visionBaseEmoticons"
 query: "query visionBaseEmoticons {\n  visionBaseEmoticons {\n    iconUrls\n    __typename\n  }\n}\n"
 variables: {}
 ```
+
+## douyin
+
+`https://www.douyin.com/aweme/v1/web/emoji/list`
