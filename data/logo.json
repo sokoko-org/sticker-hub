@@ -82,5 +82,9 @@
   "5eplay": {
     "desc": "5eplay",
     "url": "/assets/logo/5eplay.webp"
+  },
+  "doubao": {
+    "desc":"豆包",
+    "url": "/assets/logo/doubao.webp"
   }
 }
