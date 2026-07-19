@@ -4,25 +4,30 @@ import shutil
 from concurrent.futures import ProcessPoolExecutor, as_completed
 import os
 
+
 def resolve_encoder(name: str) -> str:
     """
     解析编码器路径：
     1. 优先检查当前目录下是否存在带 .exe（Windows）或不带后缀（Unix-like）的文件
     2. 其次在系统环境变量 PATH 中查找
     """
-    local_bin = Path(__file__).parent / f"{name}.exe" if os.name == 'nt' else Path(__file__).parent / name
+    local_bin = (
+        Path(__file__).parent / f"{name}.exe"
+        if os.name == "nt"
+        else Path(__file__).parent / name
+    )
     if local_bin.exists():
         return str(local_bin.resolve())
-    
-    system_bin = shutil.which(name)
-    if system_bin:
+
+    if system_bin := shutil.which(name):
         return system_bin
-        
+
     raise FileNotFoundError(
         f"\n未找到编码器 '{name}'！\n"
         f"请确保该工具已放置在当前脚本目录下，或已配置到系统PATH中\n"
         f"下载地址: https://developers.google.com/speed/webp/docs/precompiled"
     )
+
 
 try:
     CWEBP = resolve_encoder("cwebp")
@@ -32,22 +37,62 @@ except FileNotFoundError as e:
     exit(1)
 
 # 单张图片处理的最大容忍时间（秒）
-ENCODE_TIMEOUT = 60 
+ENCODE_TIMEOUT = 60
 
 
 def convert_png(src: Path, dst: Path):
-    cmd = [CWEBP, "-lossless", "-q", "100", "-z", "9", "-m", "6", "-exact", str(src), "-o", str(dst)]
+    cmd = [
+        CWEBP,
+        "-lossless",
+        "-q",
+        "100",
+        "-z",
+        "9",
+        "-m",
+        "6",
+        "-exact",
+        str(src),
+        "-o",
+        str(dst),
+    ]
     try:
-        res = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, timeout=ENCODE_TIMEOUT)
+        res = subprocess.run(
+            cmd,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            text=True,
+            timeout=ENCODE_TIMEOUT,
+        )
         return res.returncode == 0, res.stderr.strip()
     except subprocess.TimeoutExpired:
         return False, f"转换超时：超过了 {ENCODE_TIMEOUT} 秒未响应，可能文件已损坏"
 
 
 def convert_gif(src: Path, dst: Path):
-    cmd = [GIF2WEBP, "-lossless", "-q", "100", "-m", "6", "-min_size", "-kmin", "0", "-kmax", "1", str(src), "-o", str(dst)]
+    cmd = [
+        GIF2WEBP,
+        "-lossless",
+        "-q",
+        "100",
+        "-m",
+        "6",
+        "-min_size",
+        "-kmin",
+        "0",
+        "-kmax",
+        "1",
+        str(src),
+        "-o",
+        str(dst),
+    ]
     try:
-        res = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, timeout=ENCODE_TIMEOUT)
+        res = subprocess.run(
+            cmd,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            text=True,
+            timeout=ENCODE_TIMEOUT,
+        )
         return res.returncode == 0, res.stderr.strip()
     except subprocess.TimeoutExpired:
         return False, f"转换超时：超过了 {ENCODE_TIMEOUT} 秒未响应，可能文件已损坏"
@@ -61,7 +106,7 @@ def process_one(path_str: str, root_str: str):
     """
     path = Path(path_str)
     root = Path(root_str)
-    
+
     try:
         rel_path = str(path.relative_to(root))
     except ValueError:
@@ -83,12 +128,12 @@ def process_one(path_str: str, root_str: str):
     if not ok:
         if dst.exists():
             dst.unlink()
-        reason = err_msg if err_msg else "exe 转换失败(返回码非0)"
+        reason = err_msg or "exe 转换失败(返回码非0)"
         return -1, rel_path, f"[失败] {rel_path}", reason
 
     old_size = path.stat().st_size
     new_size = dst.stat().st_size
-    info = f"[完成] {rel_path} {old_size/1024:.1f}KB -> {new_size/1024:.1f}KB"
+    info = f"[完成] {rel_path} {old_size / 1024:.1f}KB -> {new_size / 1024:.1f}KB"
 
     path.unlink()
     return 1, rel_path, info, ""
@@ -102,7 +147,8 @@ def process_images(target):
         return
 
     all_files = [
-        str(p) for p in root.rglob("*") 
+        str(p)
+        for p in root.rglob("*")
         if p.suffix.lower() in (".png", ".gif", ".jpg", ".jpeg")
     ]
 
@@ -124,14 +170,14 @@ def process_images(target):
 
     with ProcessPoolExecutor(max_workers=max_workers) as executor:
         futures = {executor.submit(process_one, f, root_str): f for f in all_files}
-        
+
         for future in as_completed(futures):
             orig_file_path = futures[future]
             try:
                 status, rel_key, message, reason = future.result()
                 if message:
                     print(message)
-                
+
                 if status == 1:
                     success += 1
                 elif status == 0:
@@ -143,12 +189,12 @@ def process_images(target):
                 print(f"[异常] {fallback_key}: {e}")
                 failed_details[fallback_key] = f"Python err: {e}"
 
-    print("\n" + "="*40)
+    print("\n" + "=" * 40)
     print(f"总计找到文件: {total_files} 个")
     print(f"成功转换并删除: {success} 个")
     print(f"跳过处理文件: {len(skipped_details)} 个")
     print(f"失败/超时文件: {len(failed_details)} 个")
-    
+
     if skipped_details:
         print("\n【已跳过文件清单】")
         for rel_file, reason in skipped_details.items():
@@ -160,14 +206,14 @@ def process_images(target):
             print(f"  - 路径: {rel_file}")
             indented_reason = "\n".join([f"    {line}" for line in reason.splitlines()])
             print(f"    原因:\n{indented_reason}")
-    
-    print("="*40)
+
+    print("=" * 40)
 
 
 if __name__ == "__main__":
     print(f"检测到环境：cwebp -> {CWEBP}")
     print(f"检测到环境：gif2webp -> {GIF2WEBP}")
-    
+
     while True:
         print("\n输入目录(q退出):")
         x = input("> ").strip()

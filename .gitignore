@@ -4,3 +4,6 @@
 !.dev.vars.example
 .env*
 !.env.example
+cwebp.exe
+.gitignore
+gif2webp.exe
