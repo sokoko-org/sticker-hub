@@ -27,3 +27,9 @@ ref: `https://www.kuaishou.com/short-video/3xburnkmj3auazc`
 `https://www.douyin.com/aweme/v1/web/emoji/list`
 
 ref: `https://www.douyin.com/note/7591875747808560613`
+
+## coolapk
+
+`https://www.coolapk1s.com/_next/static/chunks/031a3e636a22d573.js`(可能会变)
+
+ref: `https://www.coolapk1s.com/feed/71586575`
