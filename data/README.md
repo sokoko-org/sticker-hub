@@ -33,3 +33,13 @@ ref: `https://www.douyin.com/note/7591875747808560613`
 `https://www.coolapk1s.com/_next/static/chunks/031a3e636a22d573.js`(可能会变)
 
 ref: `https://www.coolapk1s.com/feed/71586575`
+
+## logo
+
+`https://c.subeiz.com/`
+
+## heybox
+
+`https://api.xiaoheihe.cn/bbs/app/api/emojis/list`
+
+ref: `https://www.xiaoheihe.cn/app/bbs/link/175736343?link_id=175736343`

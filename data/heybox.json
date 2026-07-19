@@ -1,587 +1,7 @@
 {
-  "cy": {
-    "desc": "插眼",
-    "url": "/assets/heybox/cy.webp"
-  },
-  "cube_红包": {
-    "desc": "红包",
-    "url": "/assets/heybox/cube_红包.webp"
-  },
-  "cube_马年吉祥": {
-    "desc": "马年吉祥",
-    "url": "/assets/heybox/cube_马年吉祥.webp"
-  },
-  "cube_比耶": {
-    "desc": "比耶",
-    "url": "/assets/heybox/cube_比耶.webp"
-  },
-  "cube_玫瑰": {
-    "desc": "玫瑰",
-    "url": "/assets/heybox/cube_玫瑰.webp"
-  },
-  "cube_爱心": {
-    "desc": "爱心",
-    "url": "/assets/heybox/cube_爱心.webp"
-  },
-  "cube_柠檬": {
-    "desc": "柠檬",
-    "url": "/assets/heybox/cube_柠檬.webp"
-  },
-  "cube_菜doge": {
-    "desc": "菜doge",
-    "url": "/assets/heybox/cube_菜doge.webp"
-  },
-  "cube_吃瓜": {
-    "desc": "吃瓜",
-    "url": "/assets/heybox/cube_吃瓜.webp"
-  },
-  "cube_害羞": {
-    "desc": "害羞",
-    "url": "/assets/heybox/cube_害羞.webp"
-  },
-  "cube_2026": {
-    "desc": "2026",
-    "url": "/assets/heybox/cube_2026.webp"
-  },
-  "cube_喜+1": {
-    "desc": "喜+1",
-    "url": "/assets/heybox/cube_喜+1.webp"
-  },
-  "cube_来财": {
-    "desc": "来财",
-    "url": "/assets/heybox/cube_来财.webp"
-  },
-  "cube_我方了": {
-    "desc": "我方了",
-    "url": "/assets/heybox/cube_我方了.webp"
-  },
-  "cube_时间旅者": {
-    "desc": "时间旅者",
-    "url": "/assets/heybox/cube_时间旅者.webp"
-  },
-  "cube_猛男微笑": {
-    "desc": "猛男微笑",
-    "url": "/assets/heybox/cube_猛男微笑.webp"
-  },
-  "cube_剑星渡鸦": {
-    "desc": "剑星渡鸦",
-    "url": "/assets/heybox/cube_剑星渡鸦.webp"
-  },
-  "cube_剑星伊芙": {
-    "desc": "剑星伊芙",
-    "url": "/assets/heybox/cube_剑星伊芙.webp"
-  },
-  "cube_悟 空": {
-    "desc": "悟 空",
-    "url": "/assets/heybox/cube_悟 空.webp"
-  },
-  "cube_吃鸡啦": {
-    "desc": "吃鸡啦",
-    "url": "/assets/heybox/cube_吃鸡啦.webp"
-  },
-  "cube_鸡毙你": {
-    "desc": "鸡毙你",
-    "url": "/assets/heybox/cube_鸡毙你.webp"
-  },
-  "cube_毁灭战士": {
-    "desc": "毁灭战士",
-    "url": "/assets/heybox/cube_毁灭战士.webp"
-  },
-  "cube_P的谎言": {
-    "desc": "P的谎言",
-    "url": "/assets/heybox/cube_P的谎言.webp"
-  },
-  "cube_良民": {
-    "desc": "良民",
-    "url": "/assets/heybox/cube_良民.webp"
-  },
-  "cube_浪人砍一刀": {
-    "desc": "浪人砍一刀",
-    "url": "/assets/heybox/cube_浪人砍一刀.webp"
-  },
-  "cube_嬉水女王": {
-    "desc": "嬉水女王",
-    "url": "/assets/heybox/cube_嬉水女王.webp"
-  },
-  "cube_欧润吉": {
-    "desc": "欧润吉",
-    "url": "/assets/heybox/cube_欧润吉.webp"
-  },
-  "cube_+1": {
-    "desc": "+1",
-    "url": "/assets/heybox/cube_+1.webp"
-  },
-  "cube_-1": {
-    "desc": "-1",
-    "url": "/assets/heybox/cube_-1.webp"
-  },
-  "cube_点赞": {
-    "desc": "点赞",
-    "url": "/assets/heybox/cube_点赞.webp"
-  },
-  "cube_盒十": {
-    "desc": "盒十",
-    "url": "/assets/heybox/cube_盒十.webp"
-  },
-  "cube_耶": {
-    "desc": "耶",
-    "url": "/assets/heybox/cube_耶.webp"
-  },
-  "cube_鼓掌": {
-    "desc": "鼓掌",
-    "url": "/assets/heybox/cube_鼓掌.webp"
-  },
-  "cube_碰拳": {
-    "desc": "碰拳",
-    "url": "/assets/heybox/cube_碰拳.webp"
-  },
-  "cube_摸摸头": {
-    "desc": "摸摸头",
-    "url": "/assets/heybox/cube_摸摸头.webp"
-  },
-  "cube_电牛": {
-    "desc": "电牛",
-    "url": "/assets/heybox/cube_电牛.webp"
-  },
-  "cube_摘墨镜": {
-    "desc": "摘墨镜",
-    "url": "/assets/heybox/cube_摘墨镜.webp"
-  },
-  "cube_窝囊": {
-    "desc": "窝囊",
-    "url": "/assets/heybox/cube_窝囊.webp"
-  },
-  "cube_小鸡": {
-    "desc": "小鸡",
-    "url": "/assets/heybox/cube_小鸡.webp"
-  },
-  "cube_僵尸": {
-    "desc": "僵尸",
-    "url": "/assets/heybox/cube_僵尸.webp"
-  },
-  "cube_2025": {
-    "desc": "2025",
-    "url": "/assets/heybox/cube_2025.webp"
-  },
-  "cube_doge": {
-    "desc": "doge",
-    "url": "/assets/heybox/cube_doge.webp"
-  },
-  "cube_滑稽": {
-    "desc": "滑稽",
-    "url": "/assets/heybox/cube_滑稽.webp"
-  },
-  "cube_感动": {
-    "desc": "感动",
-    "url": "/assets/heybox/cube_感动.webp"
-  },
-  "cube_微笑": {
-    "desc": "微笑",
-    "url": "/assets/heybox/cube_微笑.webp"
-  },
-  "cube_乖": {
-    "desc": "乖",
-    "url": "/assets/heybox/cube_乖.webp"
-  },
-  "cube_打脸": {
-    "desc": "打脸",
-    "url": "/assets/heybox/cube_打脸.webp"
-  },
-  "cube_闭嘴": {
-    "desc": "闭嘴",
-    "url": "/assets/heybox/cube_闭嘴.webp"
-  },
-  "cube_晕": {
-    "desc": "晕",
-    "url": "/assets/heybox/cube_晕.webp"
-  },
-  "cube_笑cry": {
-    "desc": "笑cry",
-    "url": "/assets/heybox/cube_笑cry.webp"
-  },
-  "cube_喜欢": {
-    "desc": "喜欢",
-    "url": "/assets/heybox/cube_喜欢.webp"
-  },
-  "cube_捂脸哭": {
-    "desc": "捂脸哭",
-    "url": "/assets/heybox/cube_捂脸哭.webp"
-  },
-  "cube_惊讶": {
-    "desc": "惊讶",
-    "url": "/assets/heybox/cube_惊讶.webp"
-  },
-  "cube_开心": {
-    "desc": "开心",
-    "url": "/assets/heybox/cube_开心.webp"
-  },
-  "cube_哭泣": {
-    "desc": "哭泣",
-    "url": "/assets/heybox/cube_哭泣.webp"
-  },
-  "cube_酷": {
-    "desc": "酷",
-    "url": "/assets/heybox/cube_酷.webp"
-  },
-  "cube_困": {
-    "desc": "困",
-    "url": "/assets/heybox/cube_困.webp"
-  },
-  "cube_喷水": {
-    "desc": "喷水",
-    "url": "/assets/heybox/cube_喷水.webp"
-  },
-  "cube_赞": {
-    "desc": "赞",
-    "url": "/assets/heybox/cube_赞.webp"
-  },
-  "cube_学习": {
-    "desc": "学习",
-    "url": "/assets/heybox/cube_学习.webp"
-  },
-  "cube_生气": {
-    "desc": "生气",
-    "url": "/assets/heybox/cube_生气.webp"
-  },
-  "cube_睡觉": {
-    "desc": "睡觉",
-    "url": "/assets/heybox/cube_睡觉.webp"
-  },
-  "cube_叹气": {
-    "desc": "叹气",
-    "url": "/assets/heybox/cube_叹气.webp"
-  },
-  "cube_摊手": {
-    "desc": "摊手",
-    "url": "/assets/heybox/cube_摊手.webp"
-  },
-  "cube_吐": {
-    "desc": "吐",
-    "url": "/assets/heybox/cube_吐.webp"
-  },
-  "cube_哇": {
-    "desc": "哇",
-    "url": "/assets/heybox/cube_哇.webp"
-  },
-  "cube_并不简单": {
-    "desc": "并不简单",
-    "url": "/assets/heybox/cube_并不简单.webp"
-  },
-  "cube_委屈": {
-    "desc": "委屈",
-    "url": "/assets/heybox/cube_委屈.webp"
-  },
-  "cube_加油": {
-    "desc": "加油",
-    "url": "/assets/heybox/cube_加油.webp"
-  },
-  "cube_凄凉": {
-    "desc": "凄凉",
-    "url": "/assets/heybox/cube_凄凉.webp"
-  },
-  "cube_沧桑": {
-    "desc": "沧桑",
-    "url": "/assets/heybox/cube_沧桑.webp"
-  },
-  "cube_吓": {
-    "desc": "吓",
-    "url": "/assets/heybox/cube_吓.webp"
-  },
-  "cube_咕咕": {
-    "desc": "咕咕",
-    "url": "/assets/heybox/cube_咕咕.webp"
-  },
-  "cube_黑人问号": {
-    "desc": "黑人问号",
-    "url": "/assets/heybox/cube_黑人问号.webp"
-  },
-  "cube_怒": {
-    "desc": "怒",
-    "url": "/assets/heybox/cube_怒.webp"
-  },
-  "cube_汗": {
-    "desc": "汗",
-    "url": "/assets/heybox/cube_汗.webp"
-  },
-  "cube_握草": {
-    "desc": "握草",
-    "url": "/assets/heybox/cube_握草.webp"
-  },
-  "cube_鹅": {
-    "desc": "鹅",
-    "url": "/assets/heybox/cube_鹅.webp"
-  },
-  "cube_wota": {
-    "desc": "wota",
-    "url": "/assets/heybox/cube_wota.webp"
-  },
-  "cube_比心": {
-    "desc": "比心",
-    "url": "/assets/heybox/cube_比心.webp"
-  },
-  "cube_阳": {
-    "desc": "阳",
-    "url": "/assets/heybox/cube_阳.webp"
-  },
-  "cube_我懂你": {
-    "desc": "我懂你",
-    "url": "/assets/heybox/cube_我懂你.webp"
-  },
-  "cube_你懂我": {
-    "desc": "你懂我",
-    "url": "/assets/heybox/cube_你懂我.webp"
-  },
-  "cube_庆祝-圣诞": {
-    "desc": "庆祝-圣诞",
-    "url": "/assets/heybox/cube_庆祝-圣诞.webp"
-  },
-  "cube_2023": {
-    "desc": "2023",
-    "url": "/assets/heybox/cube_2023.webp"
-  },
-  "cube_H币": {
-    "desc": "H币",
-    "url": "/assets/heybox/cube_H币.webp"
-  },
-  "cube_上学-乐": {
-    "desc": "上学-乐",
-    "url": "/assets/heybox/cube_上学-乐.webp"
-  },
-  "cube_这是什么鸟": {
-    "desc": "这是什么鸟",
-    "url": "/assets/heybox/cube_这是什么鸟.webp"
-  },
-  "cube_庆祝": {
-    "desc": "庆祝",
-    "url": "/assets/heybox/cube_庆祝.webp"
-  },
-  "cube_圣诞树": {
-    "desc": "圣诞树",
-    "url": "/assets/heybox/cube_圣诞树.webp"
-  },
-  "cube_超人": {
-    "desc": "超人",
-    "url": "/assets/heybox/cube_超人.webp"
-  },
-  "cube_打咩": {
-    "desc": "打咩",
-    "url": "/assets/heybox/cube_打咩.webp"
-  },
-  "cube_上学-丧": {
-    "desc": "上学-丧",
-    "url": "/assets/heybox/cube_上学-丧.webp"
-  },
-  "cube_2024": {
-    "desc": "2024",
-    "url": "/assets/heybox/cube_2024.webp"
-  },
-  "cube_吹口哨": {
-    "desc": "吹口哨",
-    "url": "/assets/heybox/cube_吹口哨.webp"
-  },
-  "cube_太酷啦": {
-    "desc": "太酷啦",
-    "url": "/assets/heybox/cube_太酷啦.webp"
-  },
-  "cube_蛋糕": {
-    "desc": "蛋糕",
-    "url": "/assets/heybox/cube_蛋糕.webp"
-  },
-  "heygirl_喝奶茶": {
-    "desc": "喝奶茶",
-    "url": "/assets/heybox/heygirl_喝奶茶.webp"
-  },
-  "heygirl_哈哈": {
-    "desc": "哈哈",
-    "url": "/assets/heybox/heygirl_哈哈.webp"
-  },
-  "heygirl_滑稽": {
-    "desc": "滑稽",
-    "url": "/assets/heybox/heygirl_滑稽.webp"
-  },
-  "heygirl_开可乐": {
-    "desc": "开可乐",
-    "url": "/assets/heybox/heygirl_开可乐.webp"
-  },
-  "heygirl_偷看": {
-    "desc": "偷看",
-    "url": "/assets/heybox/heygirl_偷看.webp"
-  },
-  "heygirl_挨刀": {
-    "desc": "挨刀",
-    "url": "/assets/heybox/heygirl_挨刀.webp"
-  },
-  "heygirl_记下来": {
-    "desc": "记下来",
-    "url": "/assets/heybox/heygirl_记下来.webp"
-  },
-  "heygirl_惊": {
-    "desc": "惊",
-    "url": "/assets/heybox/heygirl_惊.webp"
-  },
-  "heygirl_敲开心": {
-    "desc": "敲开心",
-    "url": "/assets/heybox/heygirl_敲开心.webp"
-  },
-  "heygirl_这…": {
-    "desc": "这…",
-    "url": "/assets/heybox/heygirl_这….webp"
-  },
-  "heygirl_无语": {
-    "desc": "无语",
-    "url": "/assets/heybox/heygirl_无语.webp"
-  },
-  "heygirl_茄化": {
-    "desc": "茄化",
-    "url": "/assets/heybox/heygirl_茄化.webp"
-  },
-  "heygirl_吃瓜": {
-    "desc": "吃瓜",
-    "url": "/assets/heybox/heygirl_吃瓜.webp"
-  },
-  "heygirl_rua!": {
-    "desc": "rua!",
-    "url": "/assets/heybox/heygirl_rua!.webp"
-  },
-  "heygirl_秃": {
-    "desc": "秃",
-    "url": "/assets/heybox/heygirl_秃.webp"
-  },
-  "heygirl_苦酒入喉": {
-    "desc": "苦酒入喉",
-    "url": "/assets/heybox/heygirl_苦酒入喉.webp"
-  },
-  "heygirl_害羞": {
-    "desc": "害羞",
-    "url": "/assets/heybox/heygirl_害羞.webp"
-  },
-  "heygirl_捏脸": {
-    "desc": "捏脸",
-    "url": "/assets/heybox/heygirl_捏脸.webp"
-  },
-  "heygirl_喜欢": {
-    "desc": "喜欢",
-    "url": "/assets/heybox/heygirl_喜欢.webp"
-  },
-  "heygirl_痴": {
-    "desc": "痴",
-    "url": "/assets/heybox/heygirl_痴.webp"
-  },
-  "heygirl_疑问": {
-    "desc": "疑问",
-    "url": "/assets/heybox/heygirl_疑问.webp"
-  },
-  "heygirl_白嫖怪": {
-    "desc": "白嫖怪",
-    "url": "/assets/heybox/heygirl_白嫖怪.webp"
-  },
-  "heygirl_哭": {
-    "desc": "哭",
-    "url": "/assets/heybox/heygirl_哭.webp"
-  },
-  "heygirl_诶嘿": {
-    "desc": "诶嘿",
-    "url": "/assets/heybox/heygirl_诶嘿.webp"
-  },
-  "grandemoji_做个好梦": {
-    "desc": "做个好梦",
-    "url": "/assets/heybox/grandemoji_做个好梦.webp"
-  },
-  "grandemoji_呀嘞呀嘞": {
-    "desc": "呀嘞呀嘞",
-    "url": "/assets/heybox/grandemoji_呀嘞呀嘞.webp"
-  },
   "grandemoji_awsl": {
     "desc": "awsl",
     "url": "/assets/heybox/grandemoji_awsl.webp"
-  },
-  "grandemoji_万能盒娘": {
-    "desc": "万能盒娘",
-    "url": "/assets/heybox/grandemoji_万能盒娘.webp"
-  },
-  "grandemoji_整挺好": {
-    "desc": "整挺好",
-    "url": "/assets/heybox/grandemoji_整挺好.webp"
-  },
-  "grandemoji_mur化": {
-    "desc": "mur化",
-    "url": "/assets/heybox/grandemoji_mur化.webp"
-  },
-  "grandemoji_摸不着头脑": {
-    "desc": "摸不着头脑",
-    "url": "/assets/heybox/grandemoji_摸不着头脑.webp"
-  },
-  "grandemoji_盒弹来袭": {
-    "desc": "盒弹来袭",
-    "url": "/assets/heybox/grandemoji_盒弹来袭.webp"
-  },
-  "grandemoji_交个朋友": {
-    "desc": "交个朋友",
-    "url": "/assets/heybox/grandemoji_交个朋友.webp"
-  },
-  "grandemoji_我很可爱": {
-    "desc": "我很可爱",
-    "url": "/assets/heybox/grandemoji_我很可爱.webp"
-  },
-  "grandemoji_躺平": {
-    "desc": "躺平",
-    "url": "/assets/heybox/grandemoji_躺平.webp"
-  },
-  "grandemoji_痴": {
-    "desc": "痴",
-    "url": "/assets/heybox/grandemoji_痴.webp"
-  },
-  "grandemoji_缩": {
-    "desc": "缩",
-    "url": "/assets/heybox/grandemoji_缩.webp"
-  },
-  "grandemoji_啥玩意": {
-    "desc": "啥玩意",
-    "url": "/assets/heybox/grandemoji_啥玩意.webp"
-  },
-  "grandemoji_爬": {
-    "desc": "爬",
-    "url": "/assets/heybox/grandemoji_爬.webp"
-  },
-  "grandemoji_爬了": {
-    "desc": "爬了",
-    "url": "/assets/heybox/grandemoji_爬了.webp"
-  },
-  "bigemoji_比心": {
-    "desc": "比心",
-    "url": "/assets/heybox/bigemoji_比心.webp"
-  },
-  "bigemoji_暗中观察": {
-    "desc": "暗中观察",
-    "url": "/assets/heybox/bigemoji_暗中观察.webp"
-  },
-  "bigemoji_滑稽": {
-    "desc": "滑稽",
-    "url": "/assets/heybox/bigemoji_滑稽.webp"
-  },
-  "bigemoji_？": {
-    "desc": "？",
-    "url": "/assets/heybox/bigemoji_？.webp"
-  },
-  "bigemoji_开可乐": {
-    "desc": "开可乐",
-    "url": "/assets/heybox/bigemoji_开可乐.webp"
-  },
-  "bigemoji_喜加一": {
-    "desc": "喜加一",
-    "url": "/assets/heybox/bigemoji_喜加一.webp"
-  },
-  "bigemoji_哈哈": {
-    "desc": "哈哈",
-    "url": "/assets/heybox/bigemoji_哈哈.webp"
-  },
-  "bigemoji_厉害": {
-    "desc": "厉害",
-    "url": "/assets/heybox/bigemoji_厉害.webp"
-  },
-  "bigemoji_求带": {
-    "desc": "求带",
-    "url": "/assets/heybox/bigemoji_求带.webp"
   },
   "bigemoji_羡慕": {
     "desc": "羡慕",
@@ -591,24 +11,616 @@
     "desc": "吃瓜",
     "url": "/assets/heybox/bigemoji_吃瓜.webp"
   },
+  "cube_汗": {
+    "desc": "汗",
+    "url": "/assets/heybox/cube_汗.webp"
+  },
+  "grandemoji_万能盒娘": {
+    "desc": "万能盒娘",
+    "url": "/assets/heybox/grandemoji_万能盒娘.webp"
+  },
+  "cube_嬉水女王": {
+    "desc": "嬉水女王",
+    "url": "/assets/heybox/cube_嬉水女王.webp"
+  },
+  "grandemoji_整挺好": {
+    "desc": "整挺好",
+    "url": "/assets/heybox/grandemoji_整挺好.webp"
+  },
+  "cube_盒十": {
+    "desc": "盒十",
+    "url": "/assets/heybox/cube_盒十.webp"
+  },
+  "cube_上学-丧": {
+    "desc": "上学-丧",
+    "url": "/assets/heybox/cube_上学-丧.webp"
+  },
+  "heygirl_诶嘿": {
+    "desc": "诶嘿",
+    "url": "/assets/heybox/heygirl_诶嘿.webp"
+  },
   "bigemoji_打折": {
     "desc": "打折",
     "url": "/assets/heybox/bigemoji_打折.webp"
+  },
+  "cube_委屈": {
+    "desc": "委屈",
+    "url": "/assets/heybox/cube_委屈.webp"
+  },
+  "cube_电牛": {
+    "desc": "电牛",
+    "url": "/assets/heybox/cube_电牛.webp"
+  },
+  "cube_柠檬": {
+    "desc": "柠檬",
+    "url": "/assets/heybox/cube_柠檬.webp"
+  },
+  "heygirl_惊": {
+    "desc": "惊",
+    "url": "/assets/heybox/heygirl_惊.webp"
+  },
+  "cube_凄凉": {
+    "desc": "凄凉",
+    "url": "/assets/heybox/cube_凄凉.webp"
+  },
+  "grandemoji_mur化": {
+    "desc": "mur化",
+    "url": "/assets/heybox/grandemoji_mur化.webp"
+  },
+  "cube_2025": {
+    "desc": "2025",
+    "url": "/assets/heybox/cube_2025.webp"
+  },
+  "cube_僵尸": {
+    "desc": "僵尸",
+    "url": "/assets/heybox/cube_僵尸.webp"
   },
   "bigemoji_委屈": {
     "desc": "委屈",
     "url": "/assets/heybox/bigemoji_委屈.webp"
   },
+  "cube_山姆无奈": {
+    "desc": "山姆无奈",
+    "url": "/assets/heybox/cube_山姆无奈.webp"
+  },
+  "heygirl_记下来": {
+    "desc": "记下来",
+    "url": "/assets/heybox/heygirl_记下来.webp"
+  },
+  "grandemoji_摸不着头脑": {
+    "desc": "摸不着头脑",
+    "url": "/assets/heybox/grandemoji_摸不着头脑.webp"
+  },
+  "cube_马年吉祥": {
+    "desc": "马年吉祥",
+    "url": "/assets/heybox/cube_马年吉祥.webp"
+  },
+  "cube_wota": {
+    "desc": "wota",
+    "url": "/assets/heybox/cube_wota.webp"
+  },
+  "cube_打脸": {
+    "desc": "打脸",
+    "url": "/assets/heybox/cube_打脸.webp"
+  },
+  "cube_打咩": {
+    "desc": "打咩",
+    "url": "/assets/heybox/cube_打咩.webp"
+  },
   "bigemoji_做梦": {
     "desc": "做梦",
     "url": "/assets/heybox/bigemoji_做梦.webp"
+  },
+  "heygirl_挨刀": {
+    "desc": "挨刀",
+    "url": "/assets/heybox/heygirl_挨刀.webp"
+  },
+  "grandemoji_盒弹来袭": {
+    "desc": "盒弹来袭",
+    "url": "/assets/heybox/grandemoji_盒弹来袭.webp"
+  },
+  "cube_洛的点赞": {
+    "desc": "洛的点赞",
+    "url": "/assets/heybox/cube_洛的点赞.webp"
+  },
+  "cube_摊手": {
+    "desc": "摊手",
+    "url": "/assets/heybox/cube_摊手.webp"
+  },
+  "cube_小鸡": {
+    "desc": "小鸡",
+    "url": "/assets/heybox/cube_小鸡.webp"
   },
   "bigemoji_风纪委员": {
     "desc": "风纪委员",
     "url": "/assets/heybox/bigemoji_风纪委员.webp"
   },
+  "heygirl_偷看": {
+    "desc": "偷看",
+    "url": "/assets/heybox/heygirl_偷看.webp"
+  },
+  "cube_吹口哨": {
+    "desc": "吹口哨",
+    "url": "/assets/heybox/cube_吹口哨.webp"
+  },
+  "grandemoji_交个朋友": {
+    "desc": "交个朋友",
+    "url": "/assets/heybox/grandemoji_交个朋友.webp"
+  },
+  "cube_咕咕": {
+    "desc": "咕咕",
+    "url": "/assets/heybox/cube_咕咕.webp"
+  },
+  "cube_哇": {
+    "desc": "哇",
+    "url": "/assets/heybox/cube_哇.webp"
+  },
+  "cube_并不简单": {
+    "desc": "并不简单",
+    "url": "/assets/heybox/cube_并不简单.webp"
+  },
+  "cube_蛋糕": {
+    "desc": "蛋糕",
+    "url": "/assets/heybox/cube_蛋糕.webp"
+  },
+  "heygirl_开可乐": {
+    "desc": "开可乐",
+    "url": "/assets/heybox/heygirl_开可乐.webp"
+  },
   "bigemoji_摔": {
     "desc": "摔",
     "url": "/assets/heybox/bigemoji_摔.webp"
+  },
+  "cube_灵光一闪": {
+    "desc": "灵光一闪",
+    "url": "/assets/heybox/cube_灵光一闪.webp"
+  },
+  "cube_猛男微笑": {
+    "desc": "猛男微笑",
+    "url": "/assets/heybox/cube_猛男微笑.webp"
+  },
+  "grandemoji_我很可爱": {
+    "desc": "我很可爱",
+    "url": "/assets/heybox/grandemoji_我很可爱.webp"
+  },
+  "cube_吐": {
+    "desc": "吐",
+    "url": "/assets/heybox/cube_吐.webp"
+  },
+  "cube_沧桑": {
+    "desc": "沧桑",
+    "url": "/assets/heybox/cube_沧桑.webp"
+  },
+  "cube_2026": {
+    "desc": "2026",
+    "url": "/assets/heybox/cube_2026.webp"
+  },
+  "grandemoji_躺平": {
+    "desc": "躺平",
+    "url": "/assets/heybox/grandemoji_躺平.webp"
+  },
+  "cube_困": {
+    "desc": "困",
+    "url": "/assets/heybox/cube_困.webp"
+  },
+  "cube_H币": {
+    "desc": "H币",
+    "url": "/assets/heybox/cube_H币.webp"
+  },
+  "heygirl_滑稽": {
+    "desc": "滑稽",
+    "url": "/assets/heybox/heygirl_滑稽.webp"
+  },
+  "cube_摘墨镜": {
+    "desc": "摘墨镜",
+    "url": "/assets/heybox/cube_摘墨镜.webp"
+  },
+  "cube_超人": {
+    "desc": "超人",
+    "url": "/assets/heybox/cube_超人.webp"
+  },
+  "cube_喜+1": {
+    "desc": "喜+1",
+    "url": "/assets/heybox/cube_喜+1.webp"
+  },
+  "grandemoji_痴": {
+    "desc": "痴",
+    "url": "/assets/heybox/grandemoji_痴.webp"
+  },
+  "heygirl_哈哈": {
+    "desc": "哈哈",
+    "url": "/assets/heybox/heygirl_哈哈.webp"
+  },
+  "cube_喜欢": {
+    "desc": "喜欢",
+    "url": "/assets/heybox/cube_喜欢.webp"
+  },
+  "cube_圣诞树": {
+    "desc": "圣诞树",
+    "url": "/assets/heybox/cube_圣诞树.webp"
+  },
+  "cube_来财": {
+    "desc": "来财",
+    "url": "/assets/heybox/cube_来财.webp"
+  },
+  "cube_酷": {
+    "desc": "酷",
+    "url": "/assets/heybox/cube_酷.webp"
+  },
+  "cube_点赞": {
+    "desc": "点赞",
+    "url": "/assets/heybox/cube_点赞.webp"
+  },
+  "heygirl_喝奶茶": {
+    "desc": "喝奶茶",
+    "url": "/assets/heybox/heygirl_喝奶茶.webp"
+  },
+  "cube_哭泣": {
+    "desc": "哭泣",
+    "url": "/assets/heybox/cube_哭泣.webp"
+  },
+  "cube_吃鸡啦": {
+    "desc": "吃鸡啦",
+    "url": "/assets/heybox/cube_吃鸡啦.webp"
+  },
+  "cube_鹅": {
+    "desc": "鹅",
+    "url": "/assets/heybox/cube_鹅.webp"
+  },
+  "grandemoji_缩": {
+    "desc": "缩",
+    "url": "/assets/heybox/grandemoji_缩.webp"
+  },
+  "cube_+1": {
+    "desc": "+1",
+    "url": "/assets/heybox/cube_+1.webp"
+  },
+  "cube_悟空": {
+    "desc": "悟空",
+    "url": "/assets/heybox/cube_悟空.webp"
+  },
+  "cube_剑星伊芙": {
+    "desc": "剑星伊芙",
+    "url": "/assets/heybox/cube_剑星伊芙.webp"
+  },
+  "grandemoji_啥玩意": {
+    "desc": "啥玩意",
+    "url": "/assets/heybox/grandemoji_啥玩意.webp"
+  },
+  "heygirl_敲开心": {
+    "desc": "敲开心",
+    "url": "/assets/heybox/heygirl_敲开心.webp"
+  },
+  "cube_滑稽": {
+    "desc": "滑稽",
+    "url": "/assets/heybox/cube_滑稽.webp"
+  },
+  "cube_叹气": {
+    "desc": "叹气",
+    "url": "/assets/heybox/cube_叹气.webp"
+  },
+  "cube_耶": {
+    "desc": "耶",
+    "url": "/assets/heybox/cube_耶.webp"
+  },
+  "cube_赞": {
+    "desc": "赞",
+    "url": "/assets/heybox/cube_赞.webp"
+  },
+  "cube_太酷啦": {
+    "desc": "太酷啦",
+    "url": "/assets/heybox/cube_太酷啦.webp"
+  },
+  "cube_黑人问号": {
+    "desc": "黑人问号",
+    "url": "/assets/heybox/cube_黑人问号.webp"
+  },
+  "heygirl_这…": {
+    "desc": "这…",
+    "url": "/assets/heybox/heygirl_这….webp"
+  },
+  "grandemoji_爬": {
+    "desc": "爬",
+    "url": "/assets/heybox/grandemoji_爬.webp"
+  },
+  "cube_感动": {
+    "desc": "感动",
+    "url": "/assets/heybox/cube_感动.webp"
+  },
+  "cube_喷水": {
+    "desc": "喷水",
+    "url": "/assets/heybox/cube_喷水.webp"
+  },
+  "bigemoji_求带": {
+    "desc": "求带",
+    "url": "/assets/heybox/bigemoji_求带.webp"
+  },
+  "cube_害羞": {
+    "desc": "害羞",
+    "url": "/assets/heybox/cube_害羞.webp"
+  },
+  "heygirl_哭": {
+    "desc": "哭",
+    "url": "/assets/heybox/heygirl_哭.webp"
+  },
+  "cube_鼓掌": {
+    "desc": "鼓掌",
+    "url": "/assets/heybox/cube_鼓掌.webp"
+  },
+  "cube_你懂我": {
+    "desc": "你懂我",
+    "url": "/assets/heybox/cube_你懂我.webp"
+  },
+  "heygirl_无语": {
+    "desc": "无语",
+    "url": "/assets/heybox/heygirl_无语.webp"
+  },
+  "cube_捂脸哭": {
+    "desc": "捂脸哭",
+    "url": "/assets/heybox/cube_捂脸哭.webp"
+  },
+  "grandemoji_爬了": {
+    "desc": "爬了",
+    "url": "/assets/heybox/grandemoji_爬了.webp"
+  },
+  "cube_红包": {
+    "desc": "红包",
+    "url": "/assets/heybox/cube_红包.webp"
+  },
+  "cube_生气": {
+    "desc": "生气",
+    "url": "/assets/heybox/cube_生气.webp"
+  },
+  "cube_吃瓜": {
+    "desc": "吃瓜",
+    "url": "/assets/heybox/cube_吃瓜.webp"
+  },
+  "heygirl_茄化": {
+    "desc": "茄化",
+    "url": "/assets/heybox/heygirl_茄化.webp"
+  },
+  "cube_玫瑰": {
+    "desc": "玫瑰",
+    "url": "/assets/heybox/cube_玫瑰.webp"
+  },
+  "cube_doge": {
+    "desc": "doge",
+    "url": "/assets/heybox/cube_doge.webp"
+  },
+  "bigemoji_比心": {
+    "desc": "比心",
+    "url": "/assets/heybox/bigemoji_比心.webp"
+  },
+  "cube_闭嘴": {
+    "desc": "闭嘴",
+    "url": "/assets/heybox/cube_闭嘴.webp"
+  },
+  "cube_我懂你": {
+    "desc": "我懂你",
+    "url": "/assets/heybox/cube_我懂你.webp"
+  },
+  "heygirl_吃瓜": {
+    "desc": "吃瓜",
+    "url": "/assets/heybox/heygirl_吃瓜.webp"
+  },
+  "cube_良民": {
+    "desc": "良民",
+    "url": "/assets/heybox/cube_良民.webp"
+  },
+  "cube_比耶": {
+    "desc": "比耶",
+    "url": "/assets/heybox/cube_比耶.webp"
+  },
+  "cube_碰拳": {
+    "desc": "碰拳",
+    "url": "/assets/heybox/cube_碰拳.webp"
+  },
+  "cube_-1": {
+    "desc": "-1",
+    "url": "/assets/heybox/cube_-1.webp"
+  },
+  "bigemoji_暗中观察": {
+    "desc": "暗中观察",
+    "url": "/assets/heybox/bigemoji_暗中观察.webp"
+  },
+  "cube_惊讶": {
+    "desc": "惊讶",
+    "url": "/assets/heybox/cube_惊讶.webp"
+  },
+  "cube_晕": {
+    "desc": "晕",
+    "url": "/assets/heybox/cube_晕.webp"
+  },
+  "cube_睡觉": {
+    "desc": "睡觉",
+    "url": "/assets/heybox/cube_睡觉.webp"
+  },
+  "bigemoji_滑稽": {
+    "desc": "滑稽",
+    "url": "/assets/heybox/bigemoji_滑稽.webp"
+  },
+  "heygirl_rua!": {
+    "desc": "rua!",
+    "url": "/assets/heybox/heygirl_rua!.webp"
+  },
+  "cube_窝囊": {
+    "desc": "窝囊",
+    "url": "/assets/heybox/cube_窝囊.webp"
+  },
+  "cube_2023": {
+    "desc": "2023",
+    "url": "/assets/heybox/cube_2023.webp"
+  },
+  "cube_爱心": {
+    "desc": "爱心",
+    "url": "/assets/heybox/cube_爱心.webp"
+  },
+  "cube_比心": {
+    "desc": "比心",
+    "url": "/assets/heybox/cube_比心.webp"
+  },
+  "heygirl_秃": {
+    "desc": "秃",
+    "url": "/assets/heybox/heygirl_秃.webp"
+  },
+  "cube_鸡毙你": {
+    "desc": "鸡毙你",
+    "url": "/assets/heybox/cube_鸡毙你.webp"
+  },
+  "cube_乖": {
+    "desc": "乖",
+    "url": "/assets/heybox/cube_乖.webp"
+  },
+  "cube_吓": {
+    "desc": "吓",
+    "url": "/assets/heybox/cube_吓.webp"
+  },
+  "cube_阳": {
+    "desc": "阳",
+    "url": "/assets/heybox/cube_阳.webp"
+  },
+  "bigemoji_？": {
+    "desc": "？",
+    "url": "/assets/heybox/bigemoji_？.webp"
+  },
+  "cube_握草": {
+    "desc": "握草",
+    "url": "/assets/heybox/cube_握草.webp"
+  },
+  "heygirl_苦酒入喉": {
+    "desc": "苦酒入喉",
+    "url": "/assets/heybox/heygirl_苦酒入喉.webp"
+  },
+  "bigemoji_开可乐": {
+    "desc": "开可乐",
+    "url": "/assets/heybox/bigemoji_开可乐.webp"
+  },
+  "cube_笑cry": {
+    "desc": "笑cry",
+    "url": "/assets/heybox/cube_笑cry.webp"
+  },
+  "cube_2024": {
+    "desc": "2024",
+    "url": "/assets/heybox/cube_2024.webp"
+  },
+  "cube_怒": {
+    "desc": "怒",
+    "url": "/assets/heybox/cube_怒.webp"
+  },
+  "heygirl_害羞": {
+    "desc": "害羞",
+    "url": "/assets/heybox/heygirl_害羞.webp"
+  },
+  "cube_我方了": {
+    "desc": "我方了",
+    "url": "/assets/heybox/cube_我方了.webp"
+  },
+  "cube_菜doge": {
+    "desc": "菜doge",
+    "url": "/assets/heybox/cube_菜doge.webp"
+  },
+  "cube_开心": {
+    "desc": "开心",
+    "url": "/assets/heybox/cube_开心.webp"
+  },
+  "bigemoji_喜加一": {
+    "desc": "喜加一",
+    "url": "/assets/heybox/bigemoji_喜加一.webp"
+  },
+  "cube_浪人砍一刀": {
+    "desc": "浪人砍一刀",
+    "url": "/assets/heybox/cube_浪人砍一刀.webp"
+  },
+  "cube_毁灭战士": {
+    "desc": "毁灭战士",
+    "url": "/assets/heybox/cube_毁灭战士.webp"
+  },
+  "heygirl_喜欢": {
+    "desc": "喜欢",
+    "url": "/assets/heybox/heygirl_喜欢.webp"
+  },
+  "cube_加油": {
+    "desc": "加油",
+    "url": "/assets/heybox/cube_加油.webp"
+  },
+  "grandemoji_做个好梦": {
+    "desc": "做个好梦",
+    "url": "/assets/heybox/grandemoji_做个好梦.webp"
+  },
+  "cube_微笑": {
+    "desc": "微笑",
+    "url": "/assets/heybox/cube_微笑.webp"
+  },
+  "bigemoji_哈哈": {
+    "desc": "哈哈",
+    "url": "/assets/heybox/bigemoji_哈哈.webp"
+  },
+  "cube_学习": {
+    "desc": "学习",
+    "url": "/assets/heybox/cube_学习.webp"
+  },
+  "heygirl_捏脸": {
+    "desc": "捏脸",
+    "url": "/assets/heybox/heygirl_捏脸.webp"
+  },
+  "grandemoji_呀嘞呀嘞": {
+    "desc": "呀嘞呀嘞",
+    "url": "/assets/heybox/grandemoji_呀嘞呀嘞.webp"
+  },
+  "cube_上学-乐": {
+    "desc": "上学-乐",
+    "url": "/assets/heybox/cube_上学-乐.webp"
+  },
+  "heygirl_痴": {
+    "desc": "痴",
+    "url": "/assets/heybox/heygirl_痴.webp"
+  },
+  "cube_庆祝-圣诞": {
+    "desc": "庆祝-圣诞",
+    "url": "/assets/heybox/cube_庆祝-圣诞.webp"
+  },
+  "bigemoji_厉害": {
+    "desc": "厉害",
+    "url": "/assets/heybox/bigemoji_厉害.webp"
+  },
+  "heygirl_疑问": {
+    "desc": "疑问",
+    "url": "/assets/heybox/heygirl_疑问.webp"
+  },
+  "cube_时间旅者": {
+    "desc": "时间旅者",
+    "url": "/assets/heybox/cube_时间旅者.webp"
+  },
+  "cube_欧润吉": {
+    "desc": "欧润吉",
+    "url": "/assets/heybox/cube_欧润吉.webp"
+  },
+  "cube_摸摸头": {
+    "desc": "摸摸头",
+    "url": "/assets/heybox/cube_摸摸头.webp"
+  },
+  "cube_剑星渡鸦": {
+    "desc": "剑星渡鸦",
+    "url": "/assets/heybox/cube_剑星渡鸦.webp"
+  },
+  "cube_P的谎言": {
+    "desc": "P的谎言",
+    "url": "/assets/heybox/cube_P的谎言.webp"
+  },
+  "cube_炒菜": {
+    "desc": "炒菜",
+    "url": "/assets/heybox/cube_炒菜.webp"
+  },
+  "cube_这是什么鸟": {
+    "desc": "这是什么鸟",
+    "url": "/assets/heybox/cube_这是什么鸟.webp"
+  },
+  "heygirl_白嫖怪": {
+    "desc": "白嫖怪",
+    "url": "/assets/heybox/heygirl_白嫖怪.webp"
+  },
+  "cube_庆祝": {
+    "desc": "庆祝",
+    "url": "/assets/heybox/cube_庆祝.webp"
   }
 }
