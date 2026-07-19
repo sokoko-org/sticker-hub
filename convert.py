@@ -61,6 +61,8 @@ def convert_png(src: Path, dst: Path):
             stdout=subprocess.PIPE,
             stderr=subprocess.PIPE,
             text=True,
+            encoding="utf-8",
+            errors="backslashreplace",
             timeout=ENCODE_TIMEOUT,
         )
         return res.returncode == 0, res.stderr.strip()
@@ -91,6 +93,8 @@ def convert_gif(src: Path, dst: Path):
             stdout=subprocess.PIPE,
             stderr=subprocess.PIPE,
             text=True,
+            encoding="utf-8",
+            errors="backslashreplace",
             timeout=ENCODE_TIMEOUT,
         )
         return res.returncode == 0, res.stderr.strip()
