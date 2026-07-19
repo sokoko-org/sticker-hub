@@ -73,16 +73,10 @@ def convert_png(src: Path, dst: Path):
 def convert_gif(src: Path, dst: Path):
     cmd = [
         GIF2WEBP,
-        "-lossless",
         "-q",
         "100",
-        "-m",
-        "6",
+        "-mt",
         "-min_size",
-        "-kmin",
-        "0",
-        "-kmax",
-        "1",
         str(src),
         "-o",
         str(dst),
