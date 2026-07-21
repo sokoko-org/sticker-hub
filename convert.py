@@ -116,7 +116,7 @@ def process_one(path_str: str, root_str: str):
         return 0, rel_path, f"[跳过] {rel_path}", "目标 WebP 文件已存在"
 
     err_msg = ""
-    if path.suffix.lower() == ".png":
+    if path.suffix.lower() in {".png", ".jpg", ".jpeg"}:
         ok, err_msg = convert_png(path, dst)
     elif path.suffix.lower() == ".gif":
         ok, err_msg = convert_gif(path, dst)
