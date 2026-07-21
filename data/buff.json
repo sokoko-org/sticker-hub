@@ -1,291 +1,362 @@
 {
-  "印花姬_亏了_static": {
-    "desc": "印花姬_亏了(静态)",
-    "url": "/assets/buff/印花姬_亏了_static.webp"
-  },
-  "印花姬_你好_static": {
-    "desc": "印花姬_你好(静态)",
-    "url": "/assets/buff/印花姬_你好_static.webp"
-  },
-  "印花姬_加钱_static": {
-    "desc": "印花姬_加钱(静态)",
-    "url": "/assets/buff/印花姬_加钱_static.webp"
-  },
-  "印花姬_可刀_static": {
-    "desc": "印花姬_可刀(静态)",
-    "url": "/assets/buff/印花姬_可刀_static.webp"
-  },
-  "印花姬_合作愉快_static": {
-    "desc": "印花姬_合作愉快(静态)",
-    "url": "/assets/buff/印花姬_合作愉快_static.webp"
-  },
-  "印花姬_喜欢_static": {
-    "desc": "印花姬_喜欢(静态)",
-    "url": "/assets/buff/印花姬_喜欢_static.webp"
-  },
-  "印花姬_太贵了_static": {
-    "desc": "印花姬_太贵了(静态)",
-    "url": "/assets/buff/印花姬_太贵了_static.webp"
-  },
-  "印花姬_底价了_static": {
-    "desc": "印花姬_底价了(静态)",
-    "url": "/assets/buff/印花姬_底价了_static.webp"
-  },
-  "印花姬_底价多少_static": {
-    "desc": "印花姬_底价多少(静态)",
-    "url": "/assets/buff/印花姬_底价多少_static.webp"
-  },
-  "印花姬_想要_static": {
-    "desc": "印花姬_想要(静态)",
-    "url": "/assets/buff/印花姬_想要_static.webp"
-  },
-  "印花姬_我是学生_static": {
-    "desc": "印花姬_我是学生(静态)",
-    "url": "/assets/buff/印花姬_我是学生_static.webp"
-  },
-  "印花姬_求求了": {
-    "desc": "印花姬_求求了",
-    "url": "/assets/buff/印花姬_求求了.webp"
-  },
-  "印花姬_求求了_static": {
-    "desc": "印花姬_求求了(静态)",
-    "url": "/assets/buff/印花姬_求求了_static.webp"
-  },
-  "印花姬_清仓_static": {
-    "desc": "印花姬_清仓(静态)",
-    "url": "/assets/buff/印花姬_清仓_static.webp"
-  },
-  "印花姬_老板大气_static": {
-    "desc": "印花姬_老板大气(静态)",
-    "url": "/assets/buff/印花姬_老板大气_static.webp"
-  },
-  "印花姬_谢谢_static": {
-    "desc": "印花姬_谢谢(静态)",
-    "url": "/assets/buff/印花姬_谢谢_static.webp"
-  },
-  "印花姬_赚了_static": {
-    "desc": "印花姬_赚了(静态)",
-    "url": "/assets/buff/印花姬_赚了_static.webp"
-  },
-  "小冰_CNCS_static": {
-    "desc": "小冰_CNCS(静态)",
-    "url": "/assets/buff/小冰_CNCS_static.webp"
-  },
-  "小冰_hide": { "desc": "小冰_hide", "url": "/assets/buff/小冰_hide.webp" },
-  "小冰_hide_static": {
-    "desc": "小冰_hide(静态)",
-    "url": "/assets/buff/小冰_hide_static.webp"
-  },
-  "小冰_久等_static": {
-    "desc": "小冰_久等(静态)",
-    "url": "/assets/buff/小冰_久等_static.webp"
-  },
-  "小冰_出院_static": {
-    "desc": "小冰_出院(静态)",
-    "url": "/assets/buff/小冰_出院_static.webp"
-  },
-  "小冰_加仓": { "desc": "小冰_加仓", "url": "/assets/buff/小冰_加仓.webp" },
-  "小冰_加仓_static": {
-    "desc": "小冰_加仓(静态)",
-    "url": "/assets/buff/小冰_加仓_static.webp"
-  },
-  "小冰_拿下_static": {
-    "desc": "小冰_拿下(静态)",
-    "url": "/assets/buff/小冰_拿下_static.webp"
-  },
-  "小冰_可爱_static": {
-    "desc": "小冰_可爱(静态)",
-    "url": "/assets/buff/小冰_可爱_static.webp"
-  },
-  "小冰_同意": {
-    "desc": "小冰_同意",
-    "url": "/assets/buff/小冰_同意.webp"
-  },
-  "小冰_同意_static": {
-    "desc": "小冰_同意(静态)",
-    "url": "/assets/buff/小冰_同意_static.webp"
-  },
-  "小冰_启动！_static": {
-    "desc": "小冰_启动！(静态)",
-    "url": "/assets/buff/小冰_启动！_static.webp"
-  },
-  "小冰_呆住": { "desc": "小冰_呆住", "url": "/assets/buff/小冰_呆住.webp" },
-  "小冰_呆住_static": {
-    "desc": "小冰_呆住(静态)",
-    "url": "/assets/buff/小冰_呆住_static.webp"
-  },
-  "小冰_哇~_static": {
-    "desc": "小冰_哇~(静态)",
-    "url": "/assets/buff/小冰_哇~_static.webp"
-  },
-  "小冰_哭泣": { "desc": "小冰_哭泣", "url": "/assets/buff/小冰_哭泣.webp" },
-  "小冰_哭泣_static": {
-    "desc": "小冰_哭泣(静态)",
-    "url": "/assets/buff/小冰_哭泣_static.webp"
-  },
-  "小冰_大的来了_static": {
-    "desc": "小冰_大的来了(静态)",
-    "url": "/assets/buff/小冰_大的来了_static.webp"
-  },
-  "小冰_委屈": {
-    "desc": "小冰_委屈",
-    "url": "/assets/buff/小冰_委屈.webp"
-  },
-  "小冰_委屈_static": {
-    "desc": "小冰_委屈(静态)",
-    "url": "/assets/buff/小冰_委屈_static.webp"
-  },
-  "小冰_寄了_static": {
-    "desc": "小冰_寄了(静态)",
-    "url": "/assets/buff/小冰_寄了_static.webp"
-  },
-  "小冰_尊重_static": {
-    "desc": "小冰_尊重(静态)",
-    "url": "/assets/buff/小冰_尊重_static.webp"
-  },
-  "小冰_尴尬_static": {
-    "desc": "小冰_尴尬(静态)",
-    "url": "/assets/buff/小冰_尴尬_static.webp"
-  },
-  "小冰_开心_static": {
-    "desc": "小冰_开心(静态)",
-    "url": "/assets/buff/小冰_开心_static.webp"
-  },
-  "小冰_快发货_static": {
-    "desc": "小冰_快发货(静态)",
-    "url": "/assets/buff/小冰_快发货_static.webp"
-  },
-  "小冰_思考_static": {
-    "desc": "小冰_思考(静态)",
-    "url": "/assets/buff/小冰_思考_static.webp"
-  },
-  "小冰_我吗_static": {
-    "desc": "小冰_我吗(静态)",
-    "url": "/assets/buff/小冰_我吗_static.webp"
-  },
-  "小冰_抱抱_static": {
-    "desc": "小冰_抱抱(静态)",
-    "url": "/assets/buff/小冰_抱抱_static.webp"
-  },
-  "小冰_拒绝_static": {
-    "desc": "小冰_拒绝(静态)",
-    "url": "/assets/buff/小冰_拒绝_static.webp"
-  },
-  "小冰_收到_static": {
-    "desc": "小冰_收到(静态)",
-    "url": "/assets/buff/小冰_收到_static.webp"
-  },
-  "小冰_无语_static": {
-    "desc": "小冰_无语(静态)",
-    "url": "/assets/buff/小冰_无语_static.webp"
-  },
-  "小冰_没问题_static": {
-    "desc": "小冰_没问题(静态)",
-    "url": "/assets/buff/小冰_没问题_static.webp"
-  },
-  "小冰_注意_static": {
-    "desc": "小冰_注意(静态)",
-    "url": "/assets/buff/小冰_注意_static.webp"
-  },
-  "小冰_点赞_static": {
-    "desc": "小冰_点赞(静态)",
-    "url": "/assets/buff/小冰_点赞_static.webp"
-  },
-  "小冰_燃": { "desc": "小冰_燃", "url": "/assets/buff/小冰_燃.webp" },
-  "小冰_燃_static": {
-    "desc": "小冰_燃(静态)",
-    "url": "/assets/buff/小冰_燃_static.webp"
-  },
-  "小冰_生气_static": {
-    "desc": "小冰_生气(静态)",
-    "url": "/assets/buff/小冰_生气_static.webp"
-  },
-  "小冰_质疑_static": {
-    "desc": "小冰_质疑(静态)",
-    "url": "/assets/buff/小冰_质疑_static.webp"
-  },
-  "小冰_非人类_static": {
-    "desc": "小冰_非人类(静态)",
-    "url": "/assets/buff/小冰_非人类_static.webp"
-  },
-  "小燃_OK_static": {
-    "desc": "小燃_OK(静态)",
-    "url": "/assets/buff/小燃_OK_static.webp"
-  },
-  "小燃_你去打洞_static": {
-    "desc": "小燃_你去打洞(静态)",
-    "url": "/assets/buff/小燃_你去打洞_static.webp"
-  },
-  "小燃_别别别": {
-    "desc": "小燃_别别别",
-    "url": "/assets/buff/小燃_别别别.webp"
-  },
-  "小燃_别别别_static": {
-    "desc": "小燃_别别别(静态)",
-    "url": "/assets/buff/小燃_别别别_static.webp"
-  },
-  "小燃_加油_static": {
-    "desc": "小燃_加油(静态)",
-    "url": "/assets/buff/小燃_加油_static.webp"
-  },
-  "小燃_围观": {
-    "desc": "小燃_围观",
-    "url": "/assets/buff/小燃_围观.webp"
-  },
-  "小燃_围观_static": {
-    "desc": "小燃_围观(静态)",
-    "url": "/assets/buff/小燃_围观_static.webp"
-  },
-  "小燃_在吗_static": {
-    "desc": "小燃_在吗(静态)",
-    "url": "/assets/buff/小燃_在吗_static.webp"
-  },
-  "小燃_在线等": {
-    "desc": "小燃_在线等",
-    "url": "/assets/buff/小燃_在线等.webp"
-  },
-  "小燃_在线等_static": {
-    "desc": "小燃_在线等(静态)",
-    "url": "/assets/buff/小燃_在线等_static.webp"
-  },
-  "小燃_好耶_static": {
-    "desc": "小燃_好耶(静态)",
-    "url": "/assets/buff/小燃_好耶_static.webp"
-  },
-  "小燃_开心_static": {
-    "desc": "小燃_开心(静态)",
-    "url": "/assets/buff/小燃_开心_static.webp"
-  },
-  "小燃_急出_static": {
-    "desc": "小燃_急出(静态)",
-    "url": "/assets/buff/小燃_急出_static.webp"
-  },
-  "小燃_急急急": {
-    "desc": "小燃_急急急",
-    "url": "/assets/buff/小燃_急急急.webp"
-  },
-  "小燃_急急急_static": {
-    "desc": "小燃_急急急(静态)",
-    "url": "/assets/buff/小燃_急急急_static.webp"
-  },
-  "小燃_支持_static": {
-    "desc": "小燃_支持(静态)",
-    "url": "/assets/buff/小燃_支持_static.webp"
-  },
-  "小燃_收货_static": {
-    "desc": "小燃_收货(静态)",
-    "url": "/assets/buff/小燃_收货_static.webp"
-  },
-  "小燃_比心_static": {
-    "desc": "小燃_比心(静态)",
-    "url": "/assets/buff/小燃_比心_static.webp"
-  },
-  "小燃_燃！_static": {
-    "desc": "小燃_燃！(静态)",
-    "url": "/assets/buff/小燃_燃！_static.webp"
-  },
-  "小燃_生气_static": {
-    "desc": "小燃_生气(静态)",
-    "url": "/assets/buff/小燃_生气_static.webp"
+  "印花集_亏了_static": {
+    "desc": "印花集_亏了(静态)|印花姬",
+    "url": "/assets/buff/印花集_亏了_static.webp"
+  },
+  "印花集_你好_static": {
+    "desc": "印花集_你好(静态)|印花姬",
+    "url": "/assets/buff/印花集_你好_static.webp"
+  },
+  "印花集_加钱_static": {
+    "desc": "印花集_加钱(静态)|印花姬",
+    "url": "/assets/buff/印花集_加钱_static.webp"
+  },
+  "印花集_可刀_static": {
+    "desc": "印花集_可刀(静态)|印花姬",
+    "url": "/assets/buff/印花集_可刀_static.webp"
+  },
+  "印花集_合作愉快_static": {
+    "desc": "印花集_合作愉快(静态)|印花姬",
+    "url": "/assets/buff/印花集_合作愉快_static.webp"
+  },
+  "印花集_喜欢_static": {
+    "desc": "印花集_喜欢(静态)|印花姬",
+    "url": "/assets/buff/印花集_喜欢_static.webp"
+  },
+  "印花集_太贵了_static": {
+    "desc": "印花集_太贵了(静态)|印花姬",
+    "url": "/assets/buff/印花集_太贵了_static.webp"
+  },
+  "印花集_底价了_static": {
+    "desc": "印花集_底价了(静态)|印花姬",
+    "url": "/assets/buff/印花集_底价了_static.webp"
+  },
+  "印花集_底价多少_static": {
+    "desc": "印花集_底价多少(静态)|印花姬",
+    "url": "/assets/buff/印花集_底价多少_static.webp"
+  },
+  "印花集_想要_static": {
+    "desc": "印花集_想要(静态)|印花姬",
+    "url": "/assets/buff/印花集_想要_static.webp"
+  },
+  "印花集_我是学生_static": {
+    "desc": "印花集_我是学生(静态)|印花姬",
+    "url": "/assets/buff/印花集_我是学生_static.webp"
+  },
+  "印花集_求求了_static": {
+    "desc": "印花集_求求了(静态)|印花姬",
+    "url": "/assets/buff/印花集_求求了_static.webp"
+  },
+  "印花集_清仓_static": {
+    "desc": "印花集_清仓(静态)|印花姬",
+    "url": "/assets/buff/印花集_清仓_static.webp"
+  },
+  "印花集_老板大气_static": {
+    "desc": "印花集_老板大气(静态)|印花姬",
+    "url": "/assets/buff/印花集_老板大气_static.webp"
+  },
+  "印花集_谢谢_static": {
+    "desc": "印花集_谢谢(静态)|印花姬",
+    "url": "/assets/buff/印花集_谢谢_static.webp"
+  },
+  "印花集_赚了_static": {
+    "desc": "印花集_赚了(静态)|印花姬",
+    "url": "/assets/buff/印花集_赚了_static.webp"
+  },
+  "可燃冰_CNCS_static": {
+    "desc": "可燃冰_CNCS(静态)|小冰",
+    "url": "/assets/buff/可燃冰_CNCS_static.webp"
+  },
+  "可燃冰_hide_static": {
+    "desc": "可燃冰_hide(静态)|小冰",
+    "url": "/assets/buff/可燃冰_hide_static.webp"
+  },
+  "可燃冰_久等_static": {
+    "desc": "可燃冰_久等(静态)|小冰",
+    "url": "/assets/buff/可燃冰_久等_static.webp"
+  },
+  "可燃冰_出院_static": {
+    "desc": "可燃冰_出院(静态)|小冰",
+    "url": "/assets/buff/可燃冰_出院_static.webp"
+  },
+  "可燃冰_加仓_static": {
+    "desc": "可燃冰_加仓(静态)|小冰",
+    "url": "/assets/buff/可燃冰_加仓_static.webp"
+  },
+  "可燃冰_拿下_static": {
+    "desc": "可燃冰_拿下(静态)|小冰",
+    "url": "/assets/buff/可燃冰_拿下_static.webp"
+  },
+  "可燃冰_可爱_static": {
+    "desc": "可燃冰_可爱(静态)|小冰",
+    "url": "/assets/buff/可燃冰_可爱_static.webp"
+  },
+  "可燃冰_同意_static": {
+    "desc": "可燃冰_同意(静态)|小冰",
+    "url": "/assets/buff/可燃冰_同意_static.webp"
+  },
+  "可燃冰_启动！_static": {
+    "desc": "可燃冰_启动！(静态)|小冰",
+    "url": "/assets/buff/可燃冰_启动！_static.webp"
+  },
+  "可燃冰_呆住_static": {
+    "desc": "可燃冰_呆住(静态)|小冰",
+    "url": "/assets/buff/可燃冰_呆住_static.webp"
+  },
+  "可燃冰_哇~_static": {
+    "desc": "可燃冰_哇~(静态)|小冰",
+    "url": "/assets/buff/可燃冰_哇~_static.webp"
+  },
+  "可燃冰_哭泣_static": {
+    "desc": "可燃冰_哭泣(静态)|小冰",
+    "url": "/assets/buff/可燃冰_哭泣_static.webp"
+  },
+  "可燃冰_哭泣": {
+    "desc": "可燃冰_哭泣|小冰",
+    "url": "/assets/buff/可燃冰_哭泣.webp"
+  },
+  "可燃冰_大的来了_static": {
+    "desc": "可燃冰_大的来了(静态)|小冰",
+    "url": "/assets/buff/可燃冰_大的来了_static.webp"
+  },
+  "可燃冰_委屈_static": {
+    "desc": "可燃冰_委屈(静态)|小冰",
+    "url": "/assets/buff/可燃冰_委屈_static.webp"
+  },
+  "可燃冰_喂_static": {
+    "desc": "可燃冰_喂(静态)|小冰",
+    "url": "/assets/buff/可燃冰_喂_static.webp"
+  },
+  "可燃冰_寄了_static": {
+    "desc": "可燃冰_寄了(静态)|小冰",
+    "url": "/assets/buff/可燃冰_寄了_static.webp"
+  },
+  "可燃冰_尊重_static": {
+    "desc": "可燃冰_尊重(静态)|小冰",
+    "url": "/assets/buff/可燃冰_尊重_static.webp"
+  },
+  "可燃冰_尴尬_static": {
+    "desc": "可燃冰_尴尬(静态)|小冰",
+    "url": "/assets/buff/可燃冰_尴尬_static.webp"
+  },
+  "可燃冰_开心_static": {
+    "desc": "可燃冰_开心(静态)|小冰",
+    "url": "/assets/buff/可燃冰_开心_static.webp"
+  },
+  "可燃冰_快发货_static": {
+    "desc": "可燃冰_快发货(静态)|小冰",
+    "url": "/assets/buff/可燃冰_快发货_static.webp"
+  },
+  "可燃冰_思考_static": {
+    "desc": "可燃冰_思考(静态)|小冰",
+    "url": "/assets/buff/可燃冰_思考_static.webp"
+  },
+  "可燃冰_我吗_static": {
+    "desc": "可燃冰_我吗(静态)|小冰",
+    "url": "/assets/buff/可燃冰_我吗_static.webp"
+  },
+  "可燃冰_抱抱_static": {
+    "desc": "可燃冰_抱抱(静态)|小冰",
+    "url": "/assets/buff/可燃冰_抱抱_static.webp"
+  },
+  "可燃冰_拒绝_static": {
+    "desc": "可燃冰_拒绝(静态)|小冰",
+    "url": "/assets/buff/可燃冰_拒绝_static.webp"
+  },
+  "可燃冰_收到_static": {
+    "desc": "可燃冰_收到(静态)|小冰",
+    "url": "/assets/buff/可燃冰_收到_static.webp"
+  },
+  "可燃冰_无语_static": {
+    "desc": "可燃冰_无语(静态)|小冰",
+    "url": "/assets/buff/可燃冰_无语_static.webp"
+  },
+  "可燃冰_没问题_static": {
+    "desc": "可燃冰_没问题(静态)|小冰",
+    "url": "/assets/buff/可燃冰_没问题_static.webp"
+  },
+  "可燃冰_注意_static": {
+    "desc": "可燃冰_注意(静态)|小冰",
+    "url": "/assets/buff/可燃冰_注意_static.webp"
+  },
+  "可燃冰_点赞_static": {
+    "desc": "可燃冰_点赞(静态)|小冰",
+    "url": "/assets/buff/可燃冰_点赞_static.webp"
+  },
+  "可燃冰_燃_static": {
+    "desc": "可燃冰_燃(静态)|小冰",
+    "url": "/assets/buff/可燃冰_燃_static.webp"
+  },
+  "可燃冰_生气_static": {
+    "desc": "可燃冰_生气(静态)|小冰",
+    "url": "/assets/buff/可燃冰_生气_static.webp"
+  },
+  "可燃冰_质疑_static": {
+    "desc": "可燃冰_质疑(静态)|小冰",
+    "url": "/assets/buff/可燃冰_质疑_static.webp"
+  },
+  "可燃冰_非人类_static": {
+    "desc": "可燃冰_非人类(静态)|小冰",
+    "url": "/assets/buff/可燃冰_非人类_static.webp"
+  },
+  "咆哮_OK_static": {
+    "desc": "咆哮_OK(静态)|小燃",
+    "url": "/assets/buff/咆哮_OK_static.webp"
+  },
+  "咆哮_你去打洞_static": {
+    "desc": "咆哮_你去打洞(静态)|小燃",
+    "url": "/assets/buff/咆哮_你去打洞_static.webp"
+  },
+  "咆哮_别别别_static": {
+    "desc": "咆哮_别别别(静态)|小燃",
+    "url": "/assets/buff/咆哮_别别别_static.webp"
+  },
+  "咆哮_加油_static": {
+    "desc": "咆哮_加油(静态)|小燃",
+    "url": "/assets/buff/咆哮_加油_static.webp"
+  },
+  "咆哮_围观_static": {
+    "desc": "咆哮_围观(静态)|小燃",
+    "url": "/assets/buff/咆哮_围观_static.webp"
+  },
+  "咆哮_在吗_static": {
+    "desc": "咆哮_在吗(静态)|小燃",
+    "url": "/assets/buff/咆哮_在吗_static.webp"
+  },
+  "咆哮_在线等_static": {
+    "desc": "咆哮_在线等(静态)|小燃",
+    "url": "/assets/buff/咆哮_在线等_static.webp"
+  },
+  "咆哮_好耶_static": {
+    "desc": "咆哮_好耶(静态)|小燃",
+    "url": "/assets/buff/咆哮_好耶_static.webp"
+  },
+  "咆哮_开心_static": {
+    "desc": "咆哮_开心(静态)|小燃",
+    "url": "/assets/buff/咆哮_开心_static.webp"
+  },
+  "咆哮_急出_static": {
+    "desc": "咆哮_急出(静态)|小燃",
+    "url": "/assets/buff/咆哮_急出_static.webp"
+  },
+  "咆哮_急急急_static": {
+    "desc": "咆哮_急急急(静态)|小燃",
+    "url": "/assets/buff/咆哮_急急急_static.webp"
+  },
+  "咆哮_支持_static": {
+    "desc": "咆哮_支持(静态)|小燃",
+    "url": "/assets/buff/咆哮_支持_static.webp"
+  },
+  "咆哮_收货_static": {
+    "desc": "咆哮_收货(静态)|小燃",
+    "url": "/assets/buff/咆哮_收货_static.webp"
+  },
+  "咆哮_比心_static": {
+    "desc": "咆哮_比心(静态)|小燃",
+    "url": "/assets/buff/咆哮_比心_static.webp"
+  },
+  "咆哮_燃！_static": {
+    "desc": "咆哮_燃！(静态)|小燃",
+    "url": "/assets/buff/咆哮_燃！_static.webp"
+  },
+  "咆哮_生气_static": {
+    "desc": "咆哮_生气(静态)|小燃",
+    "url": "/assets/buff/咆哮_生气_static.webp"
+  },
+  "二西印花集_1打9_static": {
+    "desc": "二西印花集_1打9(静态)",
+    "url": "/assets/buff/二西印花集_1打9_static.webp"
+  },
+  "二西印花集_插眼_static": {
+    "desc": "二西印花集_插眼(静态)",
+    "url": "/assets/buff/二西印花集_插眼_static.webp"
+  },
+  "二西印花集_大甩卖_static": {
+    "desc": "二西印花集_大甩卖(静态)",
+    "url": "/assets/buff/二西印花集_大甩卖_static.webp"
+  },
+  "二西印花集_倒霉蛋_static": {
+    "desc": "二西印花集_倒霉蛋(静态)",
+    "url": "/assets/buff/二西印花集_倒霉蛋_static.webp"
+  },
+  "二西印花集_翻白眼_static": {
+    "desc": "二西印花集_翻白眼(静态)",
+    "url": "/assets/buff/二西印花集_翻白眼_static.webp"
+  },
+  "二西印花集_加BUFF_static": {
+    "desc": "二西印花集_加BUFF(静态)",
+    "url": "/assets/buff/二西印花集_加BUFF_static.webp"
+  },
+  "二西印花集_拷打_static": {
+    "desc": "二西印花集_拷打(静态)",
+    "url": "/assets/buff/二西印花集_拷打_static.webp"
+  },
+  "二西印花集_快发货_static": {
+    "desc": "二西印花集_快发货(静态)",
+    "url": "/assets/buff/二西印花集_快发货_static.webp"
+  },
+  "二西印花集_老六_static": {
+    "desc": "二西印花集_老六(静态)",
+    "url": "/assets/buff/二西印花集_老六_static.webp"
+  },
+  "二西印花集_炼金_static": {
+    "desc": "二西印花集_炼金(静态)",
+    "url": "/assets/buff/二西印花集_炼金_static.webp"
+  },
+  "二西印花集_荣_static": {
+    "desc": "二西印花集_荣(静态)",
+    "url": "/assets/buff/二西印花集_荣_static.webp"
+  },
+  "二西印花集_沙发_static": {
+    "desc": "二西印花集_沙发(静态)",
+    "url": "/assets/buff/二西印花集_沙发_static.webp"
+  },
+  "二西印花集_偷笑_static": {
+    "desc": "二西印花集_偷笑(静态)",
+    "url": "/assets/buff/二西印花集_偷笑_static.webp"
+  },
+  "二西印花集_屠龙刀_static": {
+    "desc": "二西印花集_屠龙刀(静态)",
+    "url": "/assets/buff/二西印花集_屠龙刀_static.webp"
+  },
+  "二西印花集_小道消息_static": {
+    "desc": "二西印花集_小道消息(静态)",
+    "url": "/assets/buff/二西印花集_小道消息_static.webp"
+  },
+  "二西印花集_谢谢老板_static": {
+    "desc": "二西印花集_谢谢老板(静态)",
+    "url": "/assets/buff/二西印花集_谢谢老板_static.webp"
+  },
+  "二西印花集_炸炉_static": {
+    "desc": "二西印花集_炸炉(静态)",
+    "url": "/assets/buff/二西印花集_炸炉_static.webp"
+  },
+  "二西印花集_直接拍_static": {
+    "desc": "二西印花集_直接拍(静态)",
+    "url": "/assets/buff/二西印花集_直接拍_static.webp"
+  },
+  "二西印花集_最低多少_static": {
+    "desc": "二西印花集_最低多少(静态)",
+    "url": "/assets/buff/二西印花集_最低多少_static.webp"
+  },
+  "二西印花集_坐牢_static": {
+    "desc": "二西印花集_坐牢(静态)",
+    "url": "/assets/buff/二西印花集_坐牢_static.webp"
+  },
+  "二西印花集_A大消息_static": {
+    "desc": "二西印花集_A大消息(静态)",
+    "url": "/assets/buff/二西印花集_A大消息_static.webp"
+  },
+  "二西印花集_rush b_static": {
+    "desc": "二西印花集_rush b(静态)",
+    "url": "/assets/buff/二西印花集_rush b_static.webp"
+  },
+  "二西印花集_TOP1_static": {
+    "desc": "二西印花集_TOP1(静态)",
+    "url": "/assets/buff/二西印花集_TOP1_static.webp"
+  },
+  "二西印花集_V50_static": {
+    "desc": "二西印花集_V50(静态)",
+    "url": "/assets/buff/二西印花集_V50_static.webp"
   }
 }

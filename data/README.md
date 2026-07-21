@@ -59,3 +59,9 @@ ref: `https://www.xiaoheihe.cn/app/bbs/link/175736343?link_id=175736343`
 `https://www.zhihu.com/api/v4/sticker-groups/1114161698310770688`
 
 ref: `https://www.zhihu.com/question/2020960087150184372/answer/2026012625377531433`
+
+## buff
+
+分组 `https://buff.163.com/api/topic/available_emoji_category`
+
+data `https://buff.163.com/api/topic/available_emoji?page_size=100`
