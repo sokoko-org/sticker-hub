@@ -84,7 +84,11 @@
     "url": "/assets/logo/5eplay.webp"
   },
   "doubao": {
-    "desc":"豆包",
+    "desc": "豆包",
     "url": "/assets/logo/doubao.webp"
+  },
+  "linuxdo": {
+    "desc": "Linux Do",
+    "url": "/assets/logo/linuxdo.webp"
   }
 }
