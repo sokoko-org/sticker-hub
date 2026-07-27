@@ -90,5 +90,9 @@
   "linuxdo": {
     "desc": "Linux Do",
     "url": "/assets/logo/linuxdo.webp"
+  },
+  "wmpvp": {
+    "desc": "完美世界电竞",
+    "url": "/assets/logo/wmpvp.webp"
   }
 }
