@@ -1,0 +1,10 @@
+/assets/*
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=604800, s-maxage=604800, immutable
+
+/data/*
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=604800, s-maxage=604800, immutable
+
+/*
+  Cache-Control: no-cache
