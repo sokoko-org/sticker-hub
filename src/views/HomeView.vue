@@ -6,13 +6,19 @@ import { absolutePublicUrl } from "../utils/assets";
 
 const { showToast } = useToast();
 
+function endpointUrl(endpoint) {
+  return absolutePublicUrl(endpoint)
+    .replace(/%7B/gi, "{")
+    .replace(/%7D/gi, "}");
+}
+
 async function copyEndpoint(endpoint) {
-  await navigator.clipboard.writeText(absolutePublicUrl(endpoint));
+  await navigator.clipboard.writeText(endpointUrl(endpoint));
   showToast("接口格式已复制");
 }
 
 function endpointParts(endpoint) {
-  return absolutePublicUrl(endpoint).split(/(\{[^}]+\})/g);
+  return endpointUrl(endpoint).split(/(\{[^}]+\})/g);
 }
 </script>
 
