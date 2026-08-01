@@ -1,10 +1,16 @@
 /assets/*
   Access-Control-Allow-Origin: *
-  Cache-Control: public, max-age=604800, s-maxage=604800, immutable
+  Cache-Control: public, max-age=604800, s-maxage=31536000, stale-while-revalidate=86400
 
 /data/*
   Access-Control-Allow-Origin: *
-  Cache-Control: public, max-age=604800, s-maxage=604800, immutable
+  Cache-Control: public, max-age=0, s-maxage=300, stale-while-revalidate=3600
 
-/*
+/
+  Cache-Control: no-cache
+
+/index.html
+  Cache-Control: no-cache
+
+/platform/*
   Cache-Control: no-cache
