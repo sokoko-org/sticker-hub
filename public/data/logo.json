@@ -95,8 +95,12 @@
     "desc": "完美世界电竞",
     "url": "/assets/logo/wmpvp.webp"
   },
-  "zlb":{
-    "desc":"壁吧专楼吧",
+  "zlb": {
+    "desc": "壁吧专楼吧",
     "url": "/assets/logo/zlb.webp"
+  },
+  "taptap": {
+    "desc": "TapTap",
+    "url": "/assets/logo/taptap.webp"
   }
 }
