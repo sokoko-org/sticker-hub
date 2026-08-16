@@ -106,5 +106,9 @@
   "ds": {
     "desc": "网易大神",
     "url": "/assets/logo/ds.webp"
+  },
+  "youtube": {
+    "desc": "YouTube",
+    "url": "/assets/logo/youtube.webp"
   }
 }
