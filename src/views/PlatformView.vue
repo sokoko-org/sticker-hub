@@ -27,7 +27,16 @@ const entries = computed(() => {
   });
 });
 const resourceCount = computed(() => Object.values(faces.value).filter((face) => face.url).length);
-const selectedFace = computed(() => (props.faceId ? faces.value[props.faceId] : null));
+
+function hasFace(id) {
+  return Boolean(id) && Object.prototype.hasOwnProperty.call(faces.value, id);
+}
+
+const selectedFace = computed(() => (hasFace(props.faceId) ? faces.value[props.faceId] : null));
+
+function redirectIfMissingFace() {
+  if (props.faceId && !hasFace(props.faceId)) router.replace({ name: "not-found" });
+}
 
 async function loadFaces(force = false) {
   if (!platform.value) {
@@ -38,6 +47,7 @@ async function loadFaces(force = false) {
   errorMessage.value = "";
   if (!force && cache.has(props.platformId)) {
     faces.value = cache.get(props.platformId);
+    redirectIfMissingFace();
     return;
   }
   loading.value = true;
@@ -47,6 +57,7 @@ async function loadFaces(force = false) {
     const data = await response.json();
     cache.set(props.platformId, data);
     faces.value = data;
+    redirectIfMissingFace();
   } catch (error) {
     console.error(error);
     faces.value = {};
@@ -60,7 +71,7 @@ function openFace(id) {
   router.push({ name: "platform", params: { platformId: props.platformId, faceId: id } });
 }
 
-watch(() => props.platformId, () => loadFaces(), { immediate: true });
+watch(() => [props.platformId, props.faceId], () => loadFaces(), { immediate: true });
 </script>
 
 <template>
