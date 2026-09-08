@@ -28,9 +28,11 @@ ref: `https://www.kuaishou.com/short-video/3xburnkmj3auazc`
 
 ## douyin
 
-`https://www.douyin.com/aweme/v1/web/emoji/list`
+`https://api.amemv.com/aweme/v1/im/resources/emoji/?device_platform=android&version_name=17.4.0`
 
-ref: `https://www.douyin.com/note/7591875747808560613`
+~~`https://www.douyin.com/aweme/v1/web/emoji/list`~~
+
+~~ref: `https://www.douyin.com/note/7591875747808560613`~~
 
 ## coolapk
 
