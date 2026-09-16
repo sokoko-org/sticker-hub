@@ -1,4 +1,8 @@
 {
+  "acfun": {
+    "desc": "AcFun",
+    "url": "/assets/logo/acfun.webp"
+  },
   "bilibili": {
     "desc": "哔哩哔哩",
     "url": "/assets/logo/bilibili.webp"
