@@ -1,39 +1,71 @@
 {
-  "哭笑": {
-    "desc": "哭笑",
-    "url": "/assets/kuaishou/哭笑.webp"
+  "长蛋挞上": {
+    "desc": "长蛋挞上",
+    "url": "/assets/kuaishou/长蛋挞上.webp"
   },
   "親吻": {
     "desc": "親吻",
     "url": "/assets/kuaishou/親吻.webp"
   },
-  "awkward": {
-    "desc": "awkward",
-    "url": "/assets/kuaishou/awkward.webp"
-  },
   "抓狂": {
     "desc": "抓狂",
     "url": "/assets/kuaishou/抓狂.webp"
-  },
-  "boom": {
-    "desc": "boom",
-    "url": "/assets/kuaishou/boom.webp"
   },
   "左哼哼": {
     "desc": "左哼哼",
     "url": "/assets/kuaishou/左哼哼.webp"
   },
-  "cryLaugh": {
-    "desc": "cryLaugh",
-    "url": "/assets/kuaishou/cryLaugh.webp"
-  },
   "KissKiss": {
     "desc": "KissKiss",
     "url": "/assets/kuaishou/KissKiss.webp"
   },
+  "不看": {
+    "desc": "不看",
+    "url": "/assets/kuaishou/不看.webp"
+  },
   "crazy": {
     "desc": "crazy",
     "url": "/assets/kuaishou/crazy.webp"
+  },
+  "left": {
+    "desc": "left",
+    "url": "/assets/kuaishou/left.webp"
+  },
+  "必勝": {
+    "desc": "必勝",
+    "url": "/assets/kuaishou/必勝.webp"
+  },
+  "boom": {
+    "desc": "boom",
+    "url": "/assets/kuaishou/boom.webp"
+  },
+  "cryLaugh": {
+    "desc": "cryLaugh",
+    "url": "/assets/kuaishou/cryLaugh.webp"
+  },
+  "嘣": {
+    "desc": "嘣",
+    "url": "/assets/kuaishou/嘣.webp"
+  },
+  "哭笑": {
+    "desc": "哭笑",
+    "url": "/assets/kuaishou/哭笑.webp"
+  },
+  "必胜": {
+    "desc": "必胜",
+    "url": "/assets/kuaishou/必胜.webp"
+  },
+  "長蛋撻上": {
+    "desc": "長蛋撻上",
+    "url": "/assets/kuaishou/長蛋撻上.webp"
+  },
+  "awkward": {
+    "desc": "awkward",
+    "url": "/assets/kuaishou/awkward.webp"
+  },
+  "Longeggtart1": {
+    "desc": "Longeggtart1",
+    "url": "/assets/kuaishou/Longeggtart1.webp"
   },
   "调皮": {
     "desc": "调皮",
@@ -42,26 +74,6 @@
   "奸笑哪吒": {
     "desc": "奸笑哪吒",
     "url": "/assets/kuaishou/奸笑哪吒.webp"
-  },
-  "必胜": {
-    "desc": "必胜",
-    "url": "/assets/kuaishou/必胜.webp"
-  },
-  "不看": {
-    "desc": "不看",
-    "url": "/assets/kuaishou/不看.webp"
-  },
-  "left": {
-    "desc": "left",
-    "url": "/assets/kuaishou/left.webp"
-  },
-  "嘣": {
-    "desc": "嘣",
-    "url": "/assets/kuaishou/嘣.webp"
-  },
-  "必勝": {
-    "desc": "必勝",
-    "url": "/assets/kuaishou/必勝.webp"
   },
   "nolook": {
     "desc": "nolook",
@@ -82,6 +94,10 @@
   "win": {
     "desc": "win",
     "url": "/assets/kuaishou/win.webp"
+  },
+  "超长蛋挞": {
+    "desc": "超长蛋挞",
+    "url": "/assets/kuaishou/超长蛋挞.webp"
   },
   "調皮": {
     "desc": "調皮",
@@ -107,25 +123,29 @@
     "desc": "狗糧",
     "url": "/assets/kuaishou/狗糧.webp"
   },
-  "hard": {
-    "desc": "hard",
-    "url": "/assets/kuaishou/hard.webp"
-  },
   "naughty": {
     "desc": "naughty",
     "url": "/assets/kuaishou/naughty.webp"
+  },
+  "hard": {
+    "desc": "hard",
+    "url": "/assets/kuaishou/hard.webp"
   },
   "网红猫": {
     "desc": "网红猫",
     "url": "/assets/kuaishou/网红猫.webp"
   },
-  "度假": {
-    "desc": "度假",
-    "url": "/assets/kuaishou/度假.webp"
+  "超長蛋撻": {
+    "desc": "超長蛋撻",
+    "url": "/assets/kuaishou/超長蛋撻.webp"
   },
   "進度99": {
     "desc": "進度99",
     "url": "/assets/kuaishou/進度99.webp"
+  },
+  "度假": {
+    "desc": "度假",
+    "url": "/assets/kuaishou/度假.webp"
   },
   "涂指甲": {
     "desc": "涂指甲",
@@ -143,29 +163,37 @@
     "desc": "难过",
     "url": "/assets/kuaishou/难过.webp"
   },
-  "網紅貓": {
-    "desc": "網紅貓",
-    "url": "/assets/kuaishou/網紅貓.webp"
-  },
-  "Progress99": {
-    "desc": "Progress99",
-    "url": "/assets/kuaishou/Progress99.webp"
-  },
-  "塗指甲": {
-    "desc": "塗指甲",
-    "url": "/assets/kuaishou/塗指甲.webp"
-  },
-  "化妆": {
-    "desc": "化妆",
-    "url": "/assets/kuaishou/化妆.webp"
+  "Longeggtart2": {
+    "desc": "Longeggtart2",
+    "url": "/assets/kuaishou/Longeggtart2.webp"
   },
   "Vacation": {
     "desc": "Vacation",
     "url": "/assets/kuaishou/Vacation.webp"
   },
+  "網紅貓": {
+    "desc": "網紅貓",
+    "url": "/assets/kuaishou/網紅貓.webp"
+  },
+  "塗指甲": {
+    "desc": "塗指甲",
+    "url": "/assets/kuaishou/塗指甲.webp"
+  },
+  "Progress99": {
+    "desc": "Progress99",
+    "url": "/assets/kuaishou/Progress99.webp"
+  },
+  "化妆": {
+    "desc": "化妆",
+    "url": "/assets/kuaishou/化妆.webp"
+  },
   "get": {
     "desc": "get",
     "url": "/assets/kuaishou/get.webp"
+  },
+  "长蛋挞下": {
+    "desc": "长蛋挞下",
+    "url": "/assets/kuaishou/长蛋挞下.webp"
   },
   "難過": {
     "desc": "難過",
@@ -175,25 +203,25 @@
     "desc": "kitty",
     "url": "/assets/kuaishou/kitty.webp"
   },
-  "emo": {
-    "desc": "emo",
-    "url": "/assets/kuaishou/emo.webp"
+  "knee": {
+    "desc": "knee",
+    "url": "/assets/kuaishou/knee.webp"
   },
   "nail": {
     "desc": "nail",
     "url": "/assets/kuaishou/nail.webp"
   },
-  "knee": {
-    "desc": "knee",
-    "url": "/assets/kuaishou/knee.webp"
-  },
-  "吃饭": {
-    "desc": "吃饭",
-    "url": "/assets/kuaishou/吃饭.webp"
+  "emo": {
+    "desc": "emo",
+    "url": "/assets/kuaishou/emo.webp"
   },
   "化妝": {
     "desc": "化妝",
     "url": "/assets/kuaishou/化妝.webp"
+  },
+  "長蛋撻下": {
+    "desc": "長蛋撻下",
+    "url": "/assets/kuaishou/長蛋撻下.webp"
   },
   "sad": {
     "desc": "sad",
@@ -203,9 +231,9 @@
     "desc": "ok",
     "url": "/assets/kuaishou/ok.webp"
   },
-  "不听": {
-    "desc": "不听",
-    "url": "/assets/kuaishou/不听.webp"
+  "吃饭": {
+    "desc": "吃饭",
+    "url": "/assets/kuaishou/吃饭.webp"
   },
   "跪下": {
     "desc": "跪下",
@@ -223,6 +251,10 @@
     "desc": "吃飯",
     "url": "/assets/kuaishou/吃飯.webp"
   },
+  "不听": {
+    "desc": "不听",
+    "url": "/assets/kuaishou/不听.webp"
+  },
   "抱抱": {
     "desc": "抱抱",
     "url": "/assets/kuaishou/抱抱.webp"
@@ -235,13 +267,13 @@
     "desc": "不聽",
     "url": "/assets/kuaishou/不聽.webp"
   },
+  "Longeggtart3": {
+    "desc": "Longeggtart3",
+    "url": "/assets/kuaishou/Longeggtart3.webp"
+  },
   "爆炸": {
     "desc": "爆炸",
     "url": "/assets/kuaishou/爆炸.webp"
-  },
-  "打電話": {
-    "desc": "打電話",
-    "url": "/assets/kuaishou/打電話.webp"
   },
   "思考": {
     "desc": "思考",
@@ -251,9 +283,17 @@
     "desc": "eat",
     "url": "/assets/kuaishou/eat.webp"
   },
+  "打電話": {
+    "desc": "打電話",
+    "url": "/assets/kuaishou/打電話.webp"
+  },
   "hug": {
     "desc": "hug",
     "url": "/assets/kuaishou/hug.webp"
+  },
+  "鹅头": {
+    "desc": "鹅头",
+    "url": "/assets/kuaishou/鹅头.webp"
   },
   "紅臉哪吒": {
     "desc": "紅臉哪吒",
@@ -278,6 +318,10 @@
   "手柄": {
     "desc": "手柄",
     "url": "/assets/kuaishou/手柄.webp"
+  },
+  "鵝頭": {
+    "desc": "鵝頭",
+    "url": "/assets/kuaishou/鵝頭.webp"
   },
   "都市丽人": {
     "desc": "都市丽人",
@@ -307,6 +351,10 @@
     "desc": "gamepad",
     "url": "/assets/kuaishou/gamepad.webp"
   },
+  "GooseHead": {
+    "desc": "GooseHead",
+    "url": "/assets/kuaishou/GooseHead.webp"
+  },
   "都市麗人": {
     "desc": "都市麗人",
     "url": "/assets/kuaishou/都市麗人.webp"
@@ -335,6 +383,10 @@
     "desc": "坑",
     "url": "/assets/kuaishou/坑.webp"
   },
+  "长鹅": {
+    "desc": "长鹅",
+    "url": "/assets/kuaishou/长鹅.webp"
+  },
   "CityLady": {
     "desc": "CityLady",
     "url": "/assets/kuaishou/CityLady.webp"
@@ -347,10 +399,6 @@
     "desc": "红脸蛋",
     "url": "/assets/kuaishou/红脸蛋.webp"
   },
-  "BloomingWealth": {
-    "desc": "BloomingWealth",
-    "url": "/assets/kuaishou/BloomingWealth.webp"
-  },
   "amazing": {
     "desc": "amazing",
     "url": "/assets/kuaishou/amazing.webp"
@@ -359,9 +407,17 @@
     "desc": "follow",
     "url": "/assets/kuaishou/follow.webp"
   },
+  "BloomingWealth": {
+    "desc": "BloomingWealth",
+    "url": "/assets/kuaishou/BloomingWealth.webp"
+  },
   "hole": {
     "desc": "hole",
     "url": "/assets/kuaishou/hole.webp"
+  },
+  "長鵝": {
+    "desc": "長鵝",
+    "url": "/assets/kuaishou/長鵝.webp"
   },
   "呕吐": {
     "desc": "呕吐",
@@ -391,6 +447,10 @@
     "desc": "麦克风",
     "url": "/assets/kuaishou/麦克风.webp"
   },
+  "GooseNeck": {
+    "desc": "GooseNeck",
+    "url": "/assets/kuaishou/GooseNeck.webp"
+  },
   "嘔吐": {
     "desc": "嘔吐",
     "url": "/assets/kuaishou/嘔吐.webp"
@@ -403,13 +463,13 @@
     "desc": "redface",
     "url": "/assets/kuaishou/redface.webp"
   },
-  "馬上安排": {
-    "desc": "馬上安排",
-    "url": "/assets/kuaishou/馬上安排.webp"
-  },
   "燈籠": {
     "desc": "燈籠",
     "url": "/assets/kuaishou/燈籠.webp"
+  },
+  "馬上安排": {
+    "desc": "馬上安排",
+    "url": "/assets/kuaishou/馬上安排.webp"
   },
   "發": {
     "desc": "發",
@@ -418,6 +478,10 @@
   "麥克風": {
     "desc": "麥克風",
     "url": "/assets/kuaishou/麥克風.webp"
+  },
+  "鹅身": {
+    "desc": "鹅身",
+    "url": "/assets/kuaishou/鹅身.webp"
   },
   "vomit": {
     "desc": "vomit",
@@ -431,17 +495,21 @@
     "desc": "哼唧哪吒",
     "url": "/assets/kuaishou/哼唧哪吒.webp"
   },
+  "rich": {
+    "desc": "rich",
+    "url": "/assets/kuaishou/rich.webp"
+  },
   "latern": {
     "desc": "latern",
     "url": "/assets/kuaishou/latern.webp"
   },
+  "鵝身": {
+    "desc": "鵝身",
+    "url": "/assets/kuaishou/鵝身.webp"
+  },
   "immediately": {
     "desc": "immediately",
     "url": "/assets/kuaishou/immediately.webp"
-  },
-  "rich": {
-    "desc": "rich",
-    "url": "/assets/kuaishou/rich.webp"
   },
   "microphone": {
     "desc": "microphone",
@@ -459,10 +527,6 @@
     "desc": "WhineNezha",
     "url": "/assets/kuaishou/WhineNezha.webp"
   },
-  "敬礼": {
-    "desc": "敬礼",
-    "url": "/assets/kuaishou/敬礼.webp"
-  },
   "酷": {
     "desc": "酷",
     "url": "/assets/kuaishou/酷.webp"
@@ -474,6 +538,14 @@
   "湿巾": {
     "desc": "湿巾",
     "url": "/assets/kuaishou/湿巾.webp"
+  },
+  "敬礼": {
+    "desc": "敬礼",
+    "url": "/assets/kuaishou/敬礼.webp"
+  },
+  "GooseBody": {
+    "desc": "GooseBody",
+    "url": "/assets/kuaishou/GooseBody.webp"
   },
   "疑問": {
     "desc": "疑問",
@@ -503,6 +575,10 @@
     "desc": "濕巾",
     "url": "/assets/kuaishou/濕巾.webp"
   },
+  "冰": {
+    "desc": "冰",
+    "url": "/assets/kuaishou/冰.webp"
+  },
   "curious": {
     "desc": "curious",
     "url": "/assets/kuaishou/curious.webp"
@@ -531,6 +607,18 @@
     "desc": "wetwipes",
     "url": "/assets/kuaishou/wetwipes.webp"
   },
+  "Ice": {
+    "desc": "Ice",
+    "url": "/assets/kuaishou/Ice.webp"
+  },
+  "天啊": {
+    "desc": "天啊",
+    "url": "/assets/kuaishou/天啊.webp"
+  },
+  "你好": {
+    "desc": "你好",
+    "url": "/assets/kuaishou/你好.webp"
+  },
   "偷笑": {
     "desc": "偷笑",
     "url": "/assets/kuaishou/偷笑.webp"
@@ -539,21 +627,9 @@
     "desc": "SayHi",
     "url": "/assets/kuaishou/SayHi.webp"
   },
-  "天啊": {
-    "desc": "天啊",
-    "url": "/assets/kuaishou/天啊.webp"
-  },
   "right": {
     "desc": "right",
     "url": "/assets/kuaishou/right.webp"
-  },
-  "你好": {
-    "desc": "你好",
-    "url": "/assets/kuaishou/你好.webp"
-  },
-  "疯狂工作": {
-    "desc": "疯狂工作",
-    "url": "/assets/kuaishou/疯狂工作.webp"
   },
   "元旦快乐": {
     "desc": "元旦快乐",
@@ -563,13 +639,17 @@
     "desc": "titter",
     "url": "/assets/kuaishou/titter.webp"
   },
+  "疯狂工作": {
+    "desc": "疯狂工作",
+    "url": "/assets/kuaishou/疯狂工作.webp"
+  },
+  "冰冰": {
+    "desc": "冰冰",
+    "url": "/assets/kuaishou/冰冰.webp"
+  },
   "雾霾": {
     "desc": "雾霾",
     "url": "/assets/kuaishou/雾霾.webp"
-  },
-  "sneak": {
-    "desc": "sneak",
-    "url": "/assets/kuaishou/sneak.webp"
   },
   "Hello": {
     "desc": "Hello",
@@ -579,6 +659,10 @@
     "desc": "狗",
     "url": "/assets/kuaishou/狗.webp"
   },
+  "sneak": {
+    "desc": "sneak",
+    "url": "/assets/kuaishou/sneak.webp"
+  },
   "元旦快樂": {
     "desc": "元旦快樂",
     "url": "/assets/kuaishou/元旦快樂.webp"
@@ -586,10 +670,6 @@
   "瘋狂工作": {
     "desc": "瘋狂工作",
     "url": "/assets/kuaishou/瘋狂工作.webp"
-  },
-  "汗": {
-    "desc": "汗",
-    "url": "/assets/kuaishou/汗.webp"
   },
   "霧霾": {
     "desc": "霧霾",
@@ -603,9 +683,17 @@
     "desc": "老司机",
     "url": "/assets/kuaishou/老司机.webp"
   },
+  "IceIce": {
+    "desc": "IceIce",
+    "url": "/assets/kuaishou/IceIce.webp"
+  },
   "dog": {
     "desc": "dog",
     "url": "/assets/kuaishou/dog.webp"
+  },
+  "汗": {
+    "desc": "汗",
+    "url": "/assets/kuaishou/汗.webp"
   },
   "HappyNewYear": {
     "desc": "HappyNewYear",
@@ -614,6 +702,10 @@
   "hustle": {
     "desc": "hustle",
     "url": "/assets/kuaishou/hustle.webp"
+  },
+  "冰冰冰": {
+    "desc": "冰冰冰",
+    "url": "/assets/kuaishou/冰冰冰.webp"
   },
   "sweaty": {
     "desc": "sweaty",
@@ -643,17 +735,13 @@
     "desc": "勤洗手",
     "url": "/assets/kuaishou/勤洗手.webp"
   },
-  "可怜": {
-    "desc": "可怜",
-    "url": "/assets/kuaishou/可怜.webp"
-  },
-  "上號": {
-    "desc": "上號",
-    "url": "/assets/kuaishou/上號.webp"
-  },
   "火": {
     "desc": "火",
     "url": "/assets/kuaishou/火.webp"
+  },
+  "可怜": {
+    "desc": "可怜",
+    "url": "/assets/kuaishou/可怜.webp"
   },
   "sophisticated": {
     "desc": "sophisticated",
@@ -671,13 +759,21 @@
     "desc": "washhands",
     "url": "/assets/kuaishou/washhands.webp"
   },
+  "IceIceIce": {
+    "desc": "IceIceIce",
+    "url": "/assets/kuaishou/IceIceIce.webp"
+  },
+  "呆毛": {
+    "desc": "呆毛",
+    "url": "/assets/kuaishou/呆毛.webp"
+  },
+  "上號": {
+    "desc": "上號",
+    "url": "/assets/kuaishou/上號.webp"
+  },
   "fire": {
     "desc": "fire",
     "url": "/assets/kuaishou/fire.webp"
-  },
-  "可憐": {
-    "desc": "可憐",
-    "url": "/assets/kuaishou/可憐.webp"
   },
   "GameTime": {
     "desc": "GameTime",
@@ -695,9 +791,17 @@
     "desc": "右拳",
     "url": "/assets/kuaishou/右拳.webp"
   },
+  "ahoge": {
+    "desc": "ahoge",
+    "url": "/assets/kuaishou/ahoge.webp"
+  },
   "呆住": {
     "desc": "呆住",
     "url": "/assets/kuaishou/呆住.webp"
+  },
+  "可憐": {
+    "desc": "可憐",
+    "url": "/assets/kuaishou/可憐.webp"
   },
   "poor": {
     "desc": "poor",
@@ -715,6 +819,14 @@
     "desc": "双鸡",
     "url": "/assets/kuaishou/双鸡.webp"
   },
+  "rightFist": {
+    "desc": "rightFist",
+    "url": "/assets/kuaishou/rightFist.webp"
+  },
+  "拽呆毛": {
+    "desc": "拽呆毛",
+    "url": "/assets/kuaishou/拽呆毛.webp"
+  },
   "stunned": {
     "desc": "stunned",
     "url": "/assets/kuaishou/stunned.webp"
@@ -722,10 +834,6 @@
   "错了": {
     "desc": "错了",
     "url": "/assets/kuaishou/错了.webp"
-  },
-  "rightFist": {
-    "desc": "rightFist",
-    "url": "/assets/kuaishou/rightFist.webp"
   },
   "disdain": {
     "desc": "disdain",
@@ -742,6 +850,10 @@
   "yes": {
     "desc": "yes",
     "url": "/assets/kuaishou/yes.webp"
+  },
+  "Stupidhair": {
+    "desc": "Stupidhair",
+    "url": "/assets/kuaishou/Stupidhair.webp"
   },
   "比心": {
     "desc": "比心",
@@ -767,6 +879,14 @@
     "desc": "遥遥领先",
     "url": "/assets/kuaishou/遥遥领先.webp"
   },
+  "吃月饼": {
+    "desc": "吃月饼",
+    "url": "/assets/kuaishou/吃月饼.webp"
+  },
+  "捂脸": {
+    "desc": "捂脸",
+    "url": "/assets/kuaishou/捂脸.webp"
+  },
   "handheart": {
     "desc": "handheart",
     "url": "/assets/kuaishou/handheart.webp"
@@ -775,13 +895,13 @@
     "desc": "抠鼻",
     "url": "/assets/kuaishou/抠鼻.webp"
   },
-  "luck": {
-    "desc": "luck",
-    "url": "/assets/kuaishou/luck.webp"
-  },
   "單身哈": {
     "desc": "單身哈",
     "url": "/assets/kuaishou/單身哈.webp"
+  },
+  "luck": {
+    "desc": "luck",
+    "url": "/assets/kuaishou/luck.webp"
   },
   "学习": {
     "desc": "学习",
@@ -790,6 +910,14 @@
   "遙遙領先": {
     "desc": "遙遙領先",
     "url": "/assets/kuaishou/遙遙領先.webp"
+  },
+  "吃月餅": {
+    "desc": "吃月餅",
+    "url": "/assets/kuaishou/吃月餅.webp"
+  },
+  "捂臉": {
+    "desc": "捂臉",
+    "url": "/assets/kuaishou/捂臉.webp"
   },
   "发呆": {
     "desc": "发呆",
@@ -815,6 +943,14 @@
     "desc": "ahead",
     "url": "/assets/kuaishou/ahead.webp"
   },
+  "EatingMooncakes": {
+    "desc": "EatingMooncakes",
+    "url": "/assets/kuaishou/EatingMooncakes.webp"
+  },
+  "facepalm": {
+    "desc": "facepalm",
+    "url": "/assets/kuaishou/facepalm.webp"
+  },
   "發呆": {
     "desc": "發呆",
     "url": "/assets/kuaishou/發呆.webp"
@@ -822,10 +958,6 @@
   "dignose": {
     "desc": "dignose",
     "url": "/assets/kuaishou/dignose.webp"
-  },
-  "摸头": {
-    "desc": "摸头",
-    "url": "/assets/kuaishou/摸头.webp"
   },
   "overworking": {
     "desc": "overworking",
@@ -835,25 +967,37 @@
     "desc": "learning",
     "url": "/assets/kuaishou/learning.webp"
   },
+  "花灯": {
+    "desc": "花灯",
+    "url": "/assets/kuaishou/花灯.webp"
+  },
   "板砖": {
     "desc": "板砖",
     "url": "/assets/kuaishou/板砖.webp"
   },
-  "daydream": {
-    "desc": "daydream",
-    "url": "/assets/kuaishou/daydream.webp"
+  "龇牙": {
+    "desc": "龇牙",
+    "url": "/assets/kuaishou/龇牙.webp"
   },
   "进度0": {
     "desc": "进度0",
     "url": "/assets/kuaishou/进度0.webp"
   },
-  "摸頭": {
-    "desc": "摸頭",
-    "url": "/assets/kuaishou/摸頭.webp"
+  "摸头": {
+    "desc": "摸头",
+    "url": "/assets/kuaishou/摸头.webp"
   },
   "please": {
     "desc": "please",
     "url": "/assets/kuaishou/please.webp"
+  },
+  "daydream": {
+    "desc": "daydream",
+    "url": "/assets/kuaishou/daydream.webp"
+  },
+  "摸頭": {
+    "desc": "摸頭",
+    "url": "/assets/kuaishou/摸頭.webp"
   },
   "sweat": {
     "desc": "sweat",
@@ -862,6 +1006,14 @@
   "板磚": {
     "desc": "板磚",
     "url": "/assets/kuaishou/板磚.webp"
+  },
+  "[花燈": {
+    "desc": "[花燈",
+    "url": "/assets/kuaishou/[花燈.webp"
+  },
+  "齜牙": {
+    "desc": "齜牙",
+    "url": "/assets/kuaishou/齜牙.webp"
   },
   "吹口哨": {
     "desc": "吹口哨",
@@ -887,9 +1039,13 @@
     "desc": "brick",
     "url": "/assets/kuaishou/brick.webp"
   },
-  "whistle": {
-    "desc": "whistle",
-    "url": "/assets/kuaishou/whistle.webp"
+  "FestiveLanterns": {
+    "desc": "FestiveLanterns",
+    "url": "/assets/kuaishou/FestiveLanterns.webp"
+  },
+  "grin": {
+    "desc": "grin",
+    "url": "/assets/kuaishou/grin.webp"
   },
   "Progress0": {
     "desc": "Progress0",
@@ -898,6 +1054,10 @@
   "晕": {
     "desc": "晕",
     "url": "/assets/kuaishou/晕.webp"
+  },
+  "whistle": {
+    "desc": "whistle",
+    "url": "/assets/kuaishou/whistle.webp"
   },
   "拜托": {
     "desc": "拜托",
@@ -911,6 +1071,14 @@
     "desc": "点赞",
     "url": "/assets/kuaishou/点赞.webp"
   },
+  "国旗": {
+    "desc": "国旗",
+    "url": "/assets/kuaishou/国旗.webp"
+  },
+  "大哭": {
+    "desc": "大哭",
+    "url": "/assets/kuaishou/大哭.webp"
+  },
   "上吊": {
     "desc": "上吊",
     "url": "/assets/kuaishou/上吊.webp"
@@ -923,17 +1091,25 @@
     "desc": "暈",
     "url": "/assets/kuaishou/暈.webp"
   },
-  "叉号": {
-    "desc": "叉号",
-    "url": "/assets/kuaishou/叉号.webp"
-  },
   "Goodevening": {
     "desc": "Goodevening",
     "url": "/assets/kuaishou/Goodevening.webp"
   },
+  "叉号": {
+    "desc": "叉号",
+    "url": "/assets/kuaishou/叉号.webp"
+  },
   "點贊": {
     "desc": "點贊",
     "url": "/assets/kuaishou/點贊.webp"
+  },
+  "國旗": {
+    "desc": "國旗",
+    "url": "/assets/kuaishou/國旗.webp"
+  },
+  "cry": {
+    "desc": "cry",
+    "url": "/assets/kuaishou/cry.webp"
   },
   "hanging": {
     "desc": "hanging",
@@ -963,17 +1139,25 @@
     "desc": "猪头",
     "url": "/assets/kuaishou/猪头.webp"
   },
-  "强颜欢笑": {
-    "desc": "强颜欢笑",
-    "url": "/assets/kuaishou/强颜欢笑.webp"
+  "NationalFag": {
+    "desc": "NationalFag",
+    "url": "/assets/kuaishou/NationalFag.webp"
   },
   "rainbow": {
     "desc": "rainbow",
     "url": "/assets/kuaishou/rainbow.webp"
   },
+  "强颜欢笑": {
+    "desc": "强颜欢笑",
+    "url": "/assets/kuaishou/强颜欢笑.webp"
+  },
   "cross": {
     "desc": "cross",
     "url": "/assets/kuaishou/cross.webp"
+  },
+  "赞": {
+    "desc": "赞",
+    "url": "/assets/kuaishou/赞.webp"
   },
   "元寶": {
     "desc": "元寶",
@@ -983,9 +1167,13 @@
     "desc": "稳",
     "url": "/assets/kuaishou/稳.webp"
   },
-  "吐彩虹": {
-    "desc": "吐彩虹",
-    "url": "/assets/kuaishou/吐彩虹.webp"
+  "国旗敬礼": {
+    "desc": "国旗敬礼",
+    "url": "/assets/kuaishou/国旗敬礼.webp"
+  },
+  "讚": {
+    "desc": "讚",
+    "url": "/assets/kuaishou/讚.webp"
   },
   "強顏歡笑": {
     "desc": "強顏歡笑",
@@ -995,6 +1183,10 @@
     "desc": "豬頭",
     "url": "/assets/kuaishou/豬頭.webp"
   },
+  "吐彩虹": {
+    "desc": "吐彩虹",
+    "url": "/assets/kuaishou/吐彩虹.webp"
+  },
   "放假啦": {
     "desc": "放假啦",
     "url": "/assets/kuaishou/放假啦.webp"
@@ -1003,13 +1195,17 @@
     "desc": "gold",
     "url": "/assets/kuaishou/gold.webp"
   },
+  "國旗敬禮": {
+    "desc": "國旗敬禮",
+    "url": "/assets/kuaishou/國旗敬禮.webp"
+  },
   "穩": {
     "desc": "穩",
     "url": "/assets/kuaishou/穩.webp"
   },
-  "欢迎": {
-    "desc": "欢迎",
-    "url": "/assets/kuaishou/欢迎.webp"
+  "like": {
+    "desc": "like",
+    "url": "/assets/kuaishou/like.webp"
   },
   "forcesmile": {
     "desc": "forcesmile",
@@ -1018,6 +1214,10 @@
   "pig": {
     "desc": "pig",
     "url": "/assets/kuaishou/pig.webp"
+  },
+  "欢迎": {
+    "desc": "欢迎",
+    "url": "/assets/kuaishou/欢迎.webp"
   },
   "VacationTime": {
     "desc": "VacationTime",
@@ -1031,13 +1231,17 @@
     "desc": "stable",
     "url": "/assets/kuaishou/stable.webp"
   },
+  "FlagSalute": {
+    "desc": "FlagSalute",
+    "url": "/assets/kuaishou/FlagSalute.webp"
+  },
   "pray": {
     "desc": "pray",
     "url": "/assets/kuaishou/pray.webp"
   },
-  "歡迎": {
-    "desc": "歡迎",
-    "url": "/assets/kuaishou/歡迎.webp"
+  "奸笑": {
+    "desc": "奸笑",
+    "url": "/assets/kuaishou/奸笑.webp"
   },
   "囧": {
     "desc": "囧",
@@ -1051,45 +1255,65 @@
     "desc": "閉嘴",
     "url": "/assets/kuaishou/閉嘴.webp"
   },
-  "welcome": {
-    "desc": "welcome",
-    "url": "/assets/kuaishou/welcome.webp"
+  "歡迎": {
+    "desc": "歡迎",
+    "url": "/assets/kuaishou/歡迎.webp"
+  },
+  "拼豆微笑": {
+    "desc": "拼豆微笑",
+    "url": "/assets/kuaishou/拼豆微笑.webp"
   },
   "祈禱": {
     "desc": "祈禱",
     "url": "/assets/kuaishou/祈禱.webp"
   },
-  "充满干劲": {
-    "desc": "充满干劲",
-    "url": "/assets/kuaishou/充满干劲.webp"
-  },
   "oops": {
     "desc": "oops",
     "url": "/assets/kuaishou/oops.webp"
+  },
+  "welcome": {
+    "desc": "welcome",
+    "url": "/assets/kuaishou/welcome.webp"
+  },
+  "充满干劲": {
+    "desc": "充满干劲",
+    "url": "/assets/kuaishou/充满干劲.webp"
   },
   "muscle": {
     "desc": "muscle",
     "url": "/assets/kuaishou/muscle.webp"
   },
-  "充滿幹勁": {
-    "desc": "充滿幹勁",
-    "url": "/assets/kuaishou/充滿幹勁.webp"
+  "treacherous": {
+    "desc": "treacherous",
+    "url": "/assets/kuaishou/treacherous.webp"
   },
   "shutup": {
     "desc": "shutup",
     "url": "/assets/kuaishou/shutup.webp"
   },
-  "awkard": {
-    "desc": "awkard",
-    "url": "/assets/kuaishou/awkard.webp"
+  "充滿幹勁": {
+    "desc": "充滿幹勁",
+    "url": "/assets/kuaishou/充滿幹勁.webp"
+  },
+  "拼荳微笑": {
+    "desc": "拼荳微笑",
+    "url": "/assets/kuaishou/拼荳微笑.webp"
+  },
+  "微笑": {
+    "desc": "微笑",
+    "url": "/assets/kuaishou/微笑.webp"
+  },
+  "祈祷": {
+    "desc": "祈祷",
+    "url": "/assets/kuaishou/祈祷.webp"
   },
   "eatmelon": {
     "desc": "eatmelon",
     "url": "/assets/kuaishou/eatmelon.webp"
   },
-  "祈祷": {
-    "desc": "祈祷",
-    "url": "/assets/kuaishou/祈祷.webp"
+  "awkard": {
+    "desc": "awkard",
+    "url": "/assets/kuaishou/awkard.webp"
   },
   "猪鼻子": {
     "desc": "猪鼻子",
@@ -1103,9 +1327,13 @@
     "desc": "energetic",
     "url": "/assets/kuaishou/energetic.webp"
   },
-  "尷尬": {
-    "desc": "尷尬",
-    "url": "/assets/kuaishou/尷尬.webp"
+  "SmilingPixelArt": {
+    "desc": "SmilingPixelArt",
+    "url": "/assets/kuaishou/SmilingPixelArt.webp"
+  },
+  "smile": {
+    "desc": "smile",
+    "url": "/assets/kuaishou/smile.webp"
   },
   "心心": {
     "desc": "心心",
@@ -1114,6 +1342,10 @@
   "吃瓜": {
     "desc": "吃瓜",
     "url": "/assets/kuaishou/吃瓜.webp"
+  },
+  "尷尬": {
+    "desc": "尷尬",
+    "url": "/assets/kuaishou/尷尬.webp"
   },
   "豬鼻子": {
     "desc": "豬鼻子",
@@ -1127,6 +1359,18 @@
     "desc": "羊驼",
     "url": "/assets/kuaishou/羊驼.webp"
   },
+  "方脸": {
+    "desc": "方脸",
+    "url": "/assets/kuaishou/方脸.webp"
+  },
+  "猪蹄": {
+    "desc": "猪蹄",
+    "url": "/assets/kuaishou/猪蹄.webp"
+  },
+  "生气": {
+    "desc": "生气",
+    "url": "/assets/kuaishou/生气.webp"
+  },
   "尴尬": {
     "desc": "尴尬",
     "url": "/assets/kuaishou/尴尬.webp"
@@ -1134,10 +1378,6 @@
   "thanks": {
     "desc": "thanks",
     "url": "/assets/kuaishou/thanks.webp"
-  },
-  "猪蹄": {
-    "desc": "猪蹄",
-    "url": "/assets/kuaishou/猪蹄.webp"
   },
   "pignose": {
     "desc": "pignose",
@@ -1151,45 +1391,61 @@
     "desc": "羊駝",
     "url": "/assets/kuaishou/羊駝.webp"
   },
-  "先睡了": {
-    "desc": "先睡了",
-    "url": "/assets/kuaishou/先睡了.webp"
+  "方臉": {
+    "desc": "方臉",
+    "url": "/assets/kuaishou/方臉.webp"
+  },
+  "生氣": {
+    "desc": "生氣",
+    "url": "/assets/kuaishou/生氣.webp"
   },
   "豬蹄": {
     "desc": "豬蹄",
     "url": "/assets/kuaishou/豬蹄.webp"
   },
+  "先睡了": {
+    "desc": "先睡了",
+    "url": "/assets/kuaishou/先睡了.webp"
+  },
   "祈福": {
     "desc": "祈福",
     "url": "/assets/kuaishou/祈福.webp"
-  },
-  "Hi": {
-    "desc": "Hi",
-    "url": "/assets/kuaishou/Hi.webp"
   },
   "摸鱼": {
     "desc": "摸鱼",
     "url": "/assets/kuaishou/摸鱼.webp"
   },
-  "goodnight": {
-    "desc": "goodnight",
-    "url": "/assets/kuaishou/goodnight.webp"
+  "Hi": {
+    "desc": "Hi",
+    "url": "/assets/kuaishou/Hi.webp"
   },
   "alpaca": {
     "desc": "alpaca",
     "url": "/assets/kuaishou/alpaca.webp"
   },
-  "pigfoot": {
-    "desc": "pigfoot",
-    "url": "/assets/kuaishou/pigfoot.webp"
-  },
-  "Bless": {
-    "desc": "Bless",
-    "url": "/assets/kuaishou/Bless.webp"
+  "SquareFace": {
+    "desc": "SquareFace",
+    "url": "/assets/kuaishou/SquareFace.webp"
   },
   "摸魚": {
     "desc": "摸魚",
     "url": "/assets/kuaishou/摸魚.webp"
+  },
+  "pigfoot": {
+    "desc": "pigfoot",
+    "url": "/assets/kuaishou/pigfoot.webp"
+  },
+  "goodnight": {
+    "desc": "goodnight",
+    "url": "/assets/kuaishou/goodnight.webp"
+  },
+  "angry": {
+    "desc": "angry",
+    "url": "/assets/kuaishou/angry.webp"
+  },
+  "Bless": {
+    "desc": "Bless",
+    "url": "/assets/kuaishou/Bless.webp"
   },
   "加1": {
     "desc": "加1",
@@ -1207,13 +1463,13 @@
     "desc": "slacking",
     "url": "/assets/kuaishou/slacking.webp"
   },
-  "美滋滋": {
-    "desc": "美滋滋",
-    "url": "/assets/kuaishou/美滋滋.webp"
-  },
   "抱拳": {
     "desc": "抱拳",
     "url": "/assets/kuaishou/抱拳.webp"
+  },
+  "美滋滋": {
+    "desc": "美滋滋",
+    "url": "/assets/kuaishou/美滋滋.webp"
   },
   "疲惫": {
     "desc": "疲惫",
@@ -1239,10 +1495,6 @@
     "desc": "fistBump",
     "url": "/assets/kuaishou/fistBump.webp"
   },
-  "blissful": {
-    "desc": "blissful",
-    "url": "/assets/kuaishou/blissful.webp"
-  },
   "疲憊": {
     "desc": "疲憊",
     "url": "/assets/kuaishou/疲憊.webp"
@@ -1250,6 +1502,10 @@
   "我在": {
     "desc": "我在",
     "url": "/assets/kuaishou/我在.webp"
+  },
+  "blissful": {
+    "desc": "blissful",
+    "url": "/assets/kuaishou/blissful.webp"
   },
   "听音乐": {
     "desc": "听音乐",
@@ -1259,6 +1515,10 @@
     "desc": "憨笑哪吒",
     "url": "/assets/kuaishou/憨笑哪吒.webp"
   },
+  "wronged": {
+    "desc": "wronged",
+    "url": "/assets/kuaishou/wronged.webp"
+  },
   "dirtytalk": {
     "desc": "dirtytalk",
     "url": "/assets/kuaishou/dirtytalk.webp"
@@ -1267,14 +1527,6 @@
     "desc": "握手",
     "url": "/assets/kuaishou/握手.webp"
   },
-  "weary": {
-    "desc": "weary",
-    "url": "/assets/kuaishou/weary.webp"
-  },
-  "wronged": {
-    "desc": "wronged",
-    "url": "/assets/kuaishou/wronged.webp"
-  },
   "Iamhere": {
     "desc": "Iamhere",
     "url": "/assets/kuaishou/Iamhere.webp"
@@ -1282,6 +1534,10 @@
   "聽音樂": {
     "desc": "聽音樂",
     "url": "/assets/kuaishou/聽音樂.webp"
+  },
+  "weary": {
+    "desc": "weary",
+    "url": "/assets/kuaishou/weary.webp"
   },
   "SimperNezha": {
     "desc": "SimperNezha",
@@ -1295,37 +1551,45 @@
     "desc": "怒言",
     "url": "/assets/kuaishou/怒言.webp"
   },
-  "shakeHands": {
-    "desc": "shakeHands",
-    "url": "/assets/kuaishou/shakeHands.webp"
-  },
   "wipenose": {
     "desc": "wipenose",
     "url": "/assets/kuaishou/wipenose.webp"
+  },
+  "shakeHands": {
+    "desc": "shakeHands",
+    "url": "/assets/kuaishou/shakeHands.webp"
   },
   "进度50": {
     "desc": "进度50",
     "url": "/assets/kuaishou/进度50.webp"
   },
-  "色": {
-    "desc": "色",
-    "url": "/assets/kuaishou/色.webp"
-  },
   "music": {
     "desc": "music",
     "url": "/assets/kuaishou/music.webp"
+  },
+  "色": {
+    "desc": "色",
+    "url": "/assets/kuaishou/色.webp"
   },
   "StayingUpLate": {
     "desc": "StayingUpLate",
     "url": "/assets/kuaishou/StayingUpLate.webp"
   },
+  "骷髅": {
+    "desc": "骷髅",
+    "url": "/assets/kuaishou/骷髅.webp"
+  },
+  "flirting": {
+    "desc": "flirting",
+    "url": "/assets/kuaishou/flirting.webp"
+  },
   "福字": {
     "desc": "福字",
     "url": "/assets/kuaishou/福字.webp"
   },
-  "骷髅": {
-    "desc": "骷髅",
-    "url": "/assets/kuaishou/骷髅.webp"
+  "拽姐": {
+    "desc": "拽姐",
+    "url": "/assets/kuaishou/拽姐.webp"
   },
   "擦鼻涕": {
     "desc": "擦鼻涕",
@@ -1335,21 +1599,13 @@
     "desc": "進度50",
     "url": "/assets/kuaishou/進度50.webp"
   },
-  "fighting": {
-    "desc": "fighting",
-    "url": "/assets/kuaishou/fighting.webp"
-  },
-  "flirting": {
-    "desc": "flirting",
-    "url": "/assets/kuaishou/flirting.webp"
-  },
-  "拽姐": {
-    "desc": "拽姐",
-    "url": "/assets/kuaishou/拽姐.webp"
-  },
   "fortune": {
     "desc": "fortune",
     "url": "/assets/kuaishou/fortune.webp"
+  },
+  "fighting": {
+    "desc": "fighting",
+    "url": "/assets/kuaishou/fighting.webp"
   },
   "骷髏": {
     "desc": "骷髏",
@@ -1359,13 +1615,13 @@
     "desc": "我爱你",
     "url": "/assets/kuaishou/我爱你.webp"
   },
-  "加油": {
-    "desc": "加油",
-    "url": "/assets/kuaishou/加油.webp"
-  },
   "Progress50": {
     "desc": "Progress50",
     "url": "/assets/kuaishou/Progress50.webp"
+  },
+  "加油": {
+    "desc": "加油",
+    "url": "/assets/kuaishou/加油.webp"
   },
   "爱心": {
     "desc": "爱心",
@@ -1375,6 +1631,10 @@
     "desc": "SassyQueen",
     "url": "/assets/kuaishou/SassyQueen.webp"
   },
+  "我愛你": {
+    "desc": "我愛你",
+    "url": "/assets/kuaishou/我愛你.webp"
+  },
   "求求了": {
     "desc": "求求了",
     "url": "/assets/kuaishou/求求了.webp"
@@ -1382,10 +1642,6 @@
   "skeleton": {
     "desc": "skeleton",
     "url": "/assets/kuaishou/skeleton.webp"
-  },
-  "我愛你": {
-    "desc": "我愛你",
-    "url": "/assets/kuaishou/我愛你.webp"
   },
   "龙": {
     "desc": "龙",
@@ -1403,14 +1659,6 @@
     "desc": "早啊",
     "url": "/assets/kuaishou/早啊.webp"
   },
-  "plea": {
-    "desc": "plea",
-    "url": "/assets/kuaishou/plea.webp"
-  },
-  "快哭了": {
-    "desc": "快哭了",
-    "url": "/assets/kuaishou/快哭了.webp"
-  },
   "loveu": {
     "desc": "loveu",
     "url": "/assets/kuaishou/loveu.webp"
@@ -1419,37 +1667,45 @@
     "desc": "龍",
     "url": "/assets/kuaishou/龍.webp"
   },
+  "plea": {
+    "desc": "plea",
+    "url": "/assets/kuaishou/plea.webp"
+  },
   "leftfist": {
     "desc": "leftfist",
     "url": "/assets/kuaishou/leftfist.webp"
   },
-  "heart": {
-    "desc": "heart",
-    "url": "/assets/kuaishou/heart.webp"
-  },
-  "almostcry": {
-    "desc": "almostcry",
-    "url": "/assets/kuaishou/almostcry.webp"
-  },
-  "morning": {
-    "desc": "morning",
-    "url": "/assets/kuaishou/morning.webp"
-  },
-  "fade": {
-    "desc": "fade",
-    "url": "/assets/kuaishou/fade.webp"
-  },
-  "惊讶": {
-    "desc": "惊讶",
-    "url": "/assets/kuaishou/惊讶.webp"
+  "快哭了": {
+    "desc": "快哭了",
+    "url": "/assets/kuaishou/快哭了.webp"
   },
   "dragon": {
     "desc": "dragon",
     "url": "/assets/kuaishou/dragon.webp"
   },
+  "heart": {
+    "desc": "heart",
+    "url": "/assets/kuaishou/heart.webp"
+  },
+  "惊讶": {
+    "desc": "惊讶",
+    "url": "/assets/kuaishou/惊讶.webp"
+  },
+  "almostcry": {
+    "desc": "almostcry",
+    "url": "/assets/kuaishou/almostcry.webp"
+  },
+  "fade": {
+    "desc": "fade",
+    "url": "/assets/kuaishou/fade.webp"
+  },
   "收到": {
     "desc": "收到",
     "url": "/assets/kuaishou/收到.webp"
+  },
+  "morning": {
+    "desc": "morning",
+    "url": "/assets/kuaishou/morning.webp"
   },
   "玫瑰": {
     "desc": "玫瑰",
@@ -1459,13 +1715,13 @@
     "desc": "做作业",
     "url": "/assets/kuaishou/做作业.webp"
   },
-  "驚訝": {
-    "desc": "驚訝",
-    "url": "/assets/kuaishou/驚訝.webp"
-  },
   "发财": {
     "desc": "发财",
     "url": "/assets/kuaishou/发财.webp"
+  },
+  "驚訝": {
+    "desc": "驚訝",
+    "url": "/assets/kuaishou/驚訝.webp"
   },
   "花謝了": {
     "desc": "花謝了",
@@ -1503,10 +1759,6 @@
     "desc": "期待",
     "url": "/assets/kuaishou/期待.webp"
   },
-  "莫吉托": {
-    "desc": "莫吉托",
-    "url": "/assets/kuaishou/莫吉托.webp"
-  },
   "shiba": {
     "desc": "shiba",
     "url": "/assets/kuaishou/shiba.webp"
@@ -1515,17 +1767,21 @@
     "desc": "Homework",
     "url": "/assets/kuaishou/Homework.webp"
   },
-  "对不起": {
-    "desc": "对不起",
-    "url": "/assets/kuaishou/对不起.webp"
-  },
   "GetRich": {
     "desc": "GetRich",
     "url": "/assets/kuaishou/GetRich.webp"
   },
+  "莫吉托": {
+    "desc": "莫吉托",
+    "url": "/assets/kuaishou/莫吉托.webp"
+  },
   "nostrils": {
     "desc": "nostrils",
     "url": "/assets/kuaishou/nostrils.webp"
+  },
+  "对不起": {
+    "desc": "对不起",
+    "url": "/assets/kuaishou/对不起.webp"
   },
   "皇冠": {
     "desc": "皇冠",
@@ -1555,21 +1811,21 @@
     "desc": "大鼻孔",
     "url": "/assets/kuaishou/大鼻孔.webp"
   },
-  "crown": {
-    "desc": "crown",
-    "url": "/assets/kuaishou/crown.webp"
-  },
-  "口红": {
-    "desc": "口红",
-    "url": "/assets/kuaishou/口红.webp"
-  },
   "尊嘟假嘟": {
     "desc": "尊嘟假嘟",
     "url": "/assets/kuaishou/尊嘟假嘟.webp"
   },
+  "crown": {
+    "desc": "crown",
+    "url": "/assets/kuaishou/crown.webp"
+  },
   "tease": {
     "desc": "tease",
     "url": "/assets/kuaishou/tease.webp"
+  },
+  "口红": {
+    "desc": "口红",
+    "url": "/assets/kuaishou/口红.webp"
   },
   "Sorry": {
     "desc": "Sorry",
@@ -1595,14 +1851,6 @@
     "desc": "Really",
     "url": "/assets/kuaishou/Really.webp"
   },
-  "我看行": {
-    "desc": "我看行",
-    "url": "/assets/kuaishou/我看行.webp"
-  },
-  "curl": {
-    "desc": "curl",
-    "url": "/assets/kuaishou/curl.webp"
-  },
   "扎心": {
     "desc": "扎心",
     "url": "/assets/kuaishou/扎心.webp"
@@ -1611,9 +1859,17 @@
     "desc": "despise",
     "url": "/assets/kuaishou/despise.webp"
   },
+  "我看行": {
+    "desc": "我看行",
+    "url": "/assets/kuaishou/我看行.webp"
+  },
   "難受": {
     "desc": "難受",
     "url": "/assets/kuaishou/難受.webp"
+  },
+  "curl": {
+    "desc": "curl",
+    "url": "/assets/kuaishou/curl.webp"
   },
   "lipstick": {
     "desc": "lipstick",
@@ -1651,14 +1907,6 @@
     "desc": "CanNotFinish",
     "url": "/assets/kuaishou/CanNotFinish.webp"
   },
-  "头盔": {
-    "desc": "头盔",
-    "url": "/assets/kuaishou/头盔.webp"
-  },
-  "优秀": {
-    "desc": "优秀",
-    "url": "/assets/kuaishou/优秀.webp"
-  },
   "starryeyed": {
     "desc": "starryeyed",
     "url": "/assets/kuaishou/starryeyed.webp"
@@ -1666,6 +1914,14 @@
   "redpacket": {
     "desc": "redpacket",
     "url": "/assets/kuaishou/redpacket.webp"
+  },
+  "头盔": {
+    "desc": "头盔",
+    "url": "/assets/kuaishou/头盔.webp"
+  },
+  "优秀": {
+    "desc": "优秀",
+    "url": "/assets/kuaishou/优秀.webp"
   },
   "boss": {
     "desc": "boss",
@@ -1687,13 +1943,13 @@
     "desc": "優秀",
     "url": "/assets/kuaishou/優秀.webp"
   },
-  "wanttoeat": {
-    "desc": "wanttoeat",
-    "url": "/assets/kuaishou/wanttoeat.webp"
-  },
   "紅包": {
     "desc": "紅包",
     "url": "/assets/kuaishou/紅包.webp"
+  },
+  "wanttoeat": {
+    "desc": "wanttoeat",
+    "url": "/assets/kuaishou/wanttoeat.webp"
   },
   "庆祝": {
     "desc": "庆祝",
@@ -1703,13 +1959,13 @@
     "desc": "watergun",
     "url": "/assets/kuaishou/watergun.webp"
   },
-  "helmet": {
-    "desc": "helmet",
-    "url": "/assets/kuaishou/helmet.webp"
-  },
   "snort": {
     "desc": "snort",
     "url": "/assets/kuaishou/snort.webp"
+  },
+  "helmet": {
+    "desc": "helmet",
+    "url": "/assets/kuaishou/helmet.webp"
   },
   "good": {
     "desc": "good",
@@ -1751,13 +2007,13 @@
     "desc": "celebrate",
     "url": "/assets/kuaishou/celebrate.webp"
   },
-  "新年快乐": {
-    "desc": "新年快乐",
-    "url": "/assets/kuaishou/新年快乐.webp"
-  },
   "愛你": {
     "desc": "愛你",
     "url": "/assets/kuaishou/愛你.webp"
+  },
+  "新年快乐": {
+    "desc": "新年快乐",
+    "url": "/assets/kuaishou/新年快乐.webp"
   },
   "不說": {
     "desc": "不說",
@@ -1767,13 +2023,13 @@
     "desc": "StayPositive",
     "url": "/assets/kuaishou/StayPositive.webp"
   },
-  "酸了": {
-    "desc": "酸了",
-    "url": "/assets/kuaishou/酸了.webp"
-  },
   "鼓掌": {
     "desc": "鼓掌",
     "url": "/assets/kuaishou/鼓掌.webp"
+  },
+  "酸了": {
+    "desc": "酸了",
+    "url": "/assets/kuaishou/酸了.webp"
   },
   "新年快樂": {
     "desc": "新年快樂",
@@ -1795,33 +2051,41 @@
     "desc": "打call",
     "url": "/assets/kuaishou/打call.webp"
   },
-  "拽妹儿": {
-    "desc": "拽妹儿",
-    "url": "/assets/kuaishou/拽妹儿.webp"
+  "哦": {
+    "desc": "哦",
+    "url": "/assets/kuaishou/哦.webp"
   },
-  "HappySpringFestival": {
-    "desc": "HappySpringFestival",
-    "url": "/assets/kuaishou/HappySpringFestival.webp"
-  },
-  "clap": {
-    "desc": "clap",
-    "url": "/assets/kuaishou/clap.webp"
-  },
-  "豬豬": {
-    "desc": "豬豬",
-    "url": "/assets/kuaishou/豬豬.webp"
+  "oh": {
+    "desc": "oh",
+    "url": "/assets/kuaishou/oh.webp"
   },
   "羞涩": {
     "desc": "羞涩",
     "url": "/assets/kuaishou/羞涩.webp"
   },
-  "knife": {
-    "desc": "knife",
-    "url": "/assets/kuaishou/knife.webp"
-  },
   "ComeOn": {
     "desc": "ComeOn",
     "url": "/assets/kuaishou/ComeOn.webp"
+  },
+  "拽妹儿": {
+    "desc": "拽妹儿",
+    "url": "/assets/kuaishou/拽妹儿.webp"
+  },
+  "clap": {
+    "desc": "clap",
+    "url": "/assets/kuaishou/clap.webp"
+  },
+  "HappySpringFestival": {
+    "desc": "HappySpringFestival",
+    "url": "/assets/kuaishou/HappySpringFestival.webp"
+  },
+  "豬豬": {
+    "desc": "豬豬",
+    "url": "/assets/kuaishou/豬豬.webp"
+  },
+  "knife": {
+    "desc": "knife",
+    "url": "/assets/kuaishou/knife.webp"
   },
   "拽妹兒": {
     "desc": "拽妹兒",
@@ -1835,17 +2099,17 @@
     "desc": "老鼠",
     "url": "/assets/kuaishou/老鼠.webp"
   },
-  "菜刀": {
-    "desc": "菜刀",
-    "url": "/assets/kuaishou/菜刀.webp"
+  "Piggy": {
+    "desc": "Piggy",
+    "url": "/assets/kuaishou/Piggy.webp"
   },
   "羞澀": {
     "desc": "羞澀",
     "url": "/assets/kuaishou/羞澀.webp"
   },
-  "Piggy": {
-    "desc": "Piggy",
-    "url": "/assets/kuaishou/Piggy.webp"
+  "菜刀": {
+    "desc": "菜刀",
+    "url": "/assets/kuaishou/菜刀.webp"
   },
   "坏笑": {
     "desc": "坏笑",
@@ -1867,10 +2131,6 @@
     "desc": "略略略",
     "url": "/assets/kuaishou/略略略.webp"
   },
-  "shy": {
-    "desc": "shy",
-    "url": "/assets/kuaishou/shy.webp"
-  },
   "对号": {
     "desc": "对号",
     "url": "/assets/kuaishou/对号.webp"
@@ -1882,6 +2142,10 @@
   "忙疯了": {
     "desc": "忙疯了",
     "url": "/assets/kuaishou/忙疯了.webp"
+  },
+  "shy": {
+    "desc": "shy",
+    "url": "/assets/kuaishou/shy.webp"
   },
   "celebrity": {
     "desc": "celebrity",
@@ -1935,14 +2199,6 @@
     "desc": "稍等",
     "url": "/assets/kuaishou/稍等.webp"
   },
-  "BusyCrazy": {
-    "desc": "BusyCrazy",
-    "url": "/assets/kuaishou/BusyCrazy.webp"
-  },
-  "camera": {
-    "desc": "camera",
-    "url": "/assets/kuaishou/camera.webp"
-  },
   "乾杯": {
     "desc": "乾杯",
     "url": "/assets/kuaishou/乾杯.webp"
@@ -1951,9 +2207,13 @@
     "desc": "裂開",
     "url": "/assets/kuaishou/裂開.webp"
   },
-  "放轻松": {
-    "desc": "放轻松",
-    "url": "/assets/kuaishou/放轻松.webp"
+  "BusyCrazy": {
+    "desc": "BusyCrazy",
+    "url": "/assets/kuaishou/BusyCrazy.webp"
+  },
+  "camera": {
+    "desc": "camera",
+    "url": "/assets/kuaishou/camera.webp"
   },
   "stupid": {
     "desc": "stupid",
@@ -1967,6 +2227,10 @@
     "desc": "Wait",
     "url": "/assets/kuaishou/Wait.webp"
   },
+  "放轻松": {
+    "desc": "放轻松",
+    "url": "/assets/kuaishou/放轻松.webp"
+  },
   "干杯": {
     "desc": "干杯",
     "url": "/assets/kuaishou/干杯.webp"
@@ -1975,25 +2239,13 @@
     "desc": "空投",
     "url": "/assets/kuaishou/空投.webp"
   },
-  "捂脸": {
-    "desc": "捂脸",
-    "url": "/assets/kuaishou/捂脸.webp"
-  },
-  "裝傻": {
-    "desc": "裝傻",
-    "url": "/assets/kuaishou/裝傻.webp"
-  },
   "furious": {
     "desc": "furious",
     "url": "/assets/kuaishou/furious.webp"
   },
-  "哦": {
-    "desc": "哦",
-    "url": "/assets/kuaishou/哦.webp"
-  },
-  "oh": {
-    "desc": "oh",
-    "url": "/assets/kuaishou/oh.webp"
+  "裝傻": {
+    "desc": "裝傻",
+    "url": "/assets/kuaishou/裝傻.webp"
   },
   "平底鍋": {
     "desc": "平底鍋",
@@ -2007,17 +2259,13 @@
     "desc": "放輕鬆",
     "url": "/assets/kuaishou/放輕鬆.webp"
   },
-  "airdrop": {
-    "desc": "airdrop",
-    "url": "/assets/kuaishou/airdrop.webp"
-  },
   "烟花": {
     "desc": "烟花",
     "url": "/assets/kuaishou/烟花.webp"
   },
-  "捂臉": {
-    "desc": "捂臉",
-    "url": "/assets/kuaishou/捂臉.webp"
+  "airdrop": {
+    "desc": "airdrop",
+    "url": "/assets/kuaishou/airdrop.webp"
   },
   "翻白眼": {
     "desc": "翻白眼",
@@ -2047,9 +2295,9 @@
     "desc": "早上好",
     "url": "/assets/kuaishou/早上好.webp"
   },
-  "facepalm": {
-    "desc": "facepalm",
-    "url": "/assets/kuaishou/facepalm.webp"
+  "rotate": {
+    "desc": "rotate",
+    "url": "/assets/kuaishou/rotate.webp"
   },
   "eyeroll": {
     "desc": "eyeroll",
@@ -2058,10 +2306,6 @@
   "贴贴": {
     "desc": "贴贴",
     "url": "/assets/kuaishou/贴贴.webp"
-  },
-  "rotate": {
-    "desc": "rotate",
-    "url": "/assets/kuaishou/rotate.webp"
   },
   "scare": {
     "desc": "scare",
@@ -2079,41 +2323,37 @@
     "desc": "goodmorning",
     "url": "/assets/kuaishou/goodmorning.webp"
   },
-  "龇牙": {
-    "desc": "龇牙",
-    "url": "/assets/kuaishou/龇牙.webp"
-  },
-  "貼貼": {
-    "desc": "貼貼",
-    "url": "/assets/kuaishou/貼貼.webp"
+  "旋轉": {
+    "desc": "旋轉",
+    "url": "/assets/kuaishou/旋轉.webp"
   },
   "666": {
     "desc": "666",
     "url": "/assets/kuaishou/666.webp"
   },
-  "旋轉": {
-    "desc": "旋轉",
-    "url": "/assets/kuaishou/旋轉.webp"
+  "貼貼": {
+    "desc": "貼貼",
+    "url": "/assets/kuaishou/貼貼.webp"
   },
   "vomitblood": {
     "desc": "vomitblood",
     "url": "/assets/kuaishou/vomitblood.webp"
   },
-  "cake": {
-    "desc": "cake",
-    "url": "/assets/kuaishou/cake.webp"
-  },
   "戴口罩": {
     "desc": "戴口罩",
     "url": "/assets/kuaishou/戴口罩.webp"
+  },
+  "cake": {
+    "desc": "cake",
+    "url": "/assets/kuaishou/cake.webp"
   },
   "猫": {
     "desc": "猫",
     "url": "/assets/kuaishou/猫.webp"
   },
-  "齜牙": {
-    "desc": "齜牙",
-    "url": "/assets/kuaishou/齜牙.webp"
+  "旋转": {
+    "desc": "旋转",
+    "url": "/assets/kuaishou/旋转.webp"
   },
   "落泪": {
     "desc": "落泪",
@@ -2123,21 +2363,13 @@
     "desc": "Cuddle",
     "url": "/assets/kuaishou/Cuddle.webp"
   },
-  "旋转": {
-    "desc": "旋转",
-    "url": "/assets/kuaishou/旋转.webp"
-  },
-  "嘘": {
-    "desc": "嘘",
-    "url": "/assets/kuaishou/嘘.webp"
-  },
   "吐血": {
     "desc": "吐血",
     "url": "/assets/kuaishou/吐血.webp"
   },
-  "grin": {
-    "desc": "grin",
-    "url": "/assets/kuaishou/grin.webp"
+  "嘘": {
+    "desc": "嘘",
+    "url": "/assets/kuaishou/嘘.webp"
   },
   "N95": {
     "desc": "N95",
@@ -2155,29 +2387,25 @@
     "desc": "心碎",
     "url": "/assets/kuaishou/心碎.webp"
   },
-  "钱": {
-    "desc": "钱",
-    "url": "/assets/kuaishou/钱.webp"
-  },
-  "再见": {
-    "desc": "再见",
-    "url": "/assets/kuaishou/再见.webp"
-  },
   "quiet": {
     "desc": "quiet",
     "url": "/assets/kuaishou/quiet.webp"
+  },
+  "钱": {
+    "desc": "钱",
+    "url": "/assets/kuaishou/钱.webp"
   },
   "减1": {
     "desc": "减1",
     "url": "/assets/kuaishou/减1.webp"
   },
+  "再见": {
+    "desc": "再见",
+    "url": "/assets/kuaishou/再见.webp"
+  },
   "cat": {
     "desc": "cat",
     "url": "/assets/kuaishou/cat.webp"
-  },
-  "大哭": {
-    "desc": "大哭",
-    "url": "/assets/kuaishou/大哭.webp"
   },
   "tears": {
     "desc": "tears",
@@ -2195,10 +2423,6 @@
     "desc": "再見",
     "url": "/assets/kuaishou/再見.webp"
   },
-  "赢麻了": {
-    "desc": "赢麻了",
-    "url": "/assets/kuaishou/赢麻了.webp"
-  },
   "減1": {
     "desc": "減1",
     "url": "/assets/kuaishou/減1.webp"
@@ -2207,29 +2431,29 @@
     "desc": "睡觉",
     "url": "/assets/kuaishou/睡觉.webp"
   },
-  "cry": {
-    "desc": "cry",
-    "url": "/assets/kuaishou/cry.webp"
-  },
   "出去丸": {
     "desc": "出去丸",
     "url": "/assets/kuaishou/出去丸.webp"
+  },
+  "赢麻了": {
+    "desc": "赢麻了",
+    "url": "/assets/kuaishou/赢麻了.webp"
   },
   "money": {
     "desc": "money",
     "url": "/assets/kuaishou/money.webp"
   },
-  "bye": {
-    "desc": "bye",
-    "url": "/assets/kuaishou/bye.webp"
+  "难过至极": {
+    "desc": "难过至极",
+    "url": "/assets/kuaishou/难过至极.webp"
   },
   "贏麻了": {
     "desc": "贏麻了",
     "url": "/assets/kuaishou/贏麻了.webp"
   },
-  "难过至极": {
-    "desc": "难过至极",
-    "url": "/assets/kuaishou/难过至极.webp"
+  "bye": {
+    "desc": "bye",
+    "url": "/assets/kuaishou/bye.webp"
   },
   "minus": {
     "desc": "minus",
@@ -2239,9 +2463,9 @@
     "desc": "睡覺",
     "url": "/assets/kuaishou/睡覺.webp"
   },
-  "赞": {
-    "desc": "赞",
-    "url": "/assets/kuaishou/赞.webp"
+  "ghost": {
+    "desc": "ghost",
+    "url": "/assets/kuaishou/ghost.webp"
   },
   "難過至極": {
     "desc": "難過至極",
@@ -2251,10 +2475,6 @@
     "desc": "出去玩",
     "url": "/assets/kuaishou/出去玩.webp"
   },
-  "ghost": {
-    "desc": "ghost",
-    "url": "/assets/kuaishou/ghost.webp"
-  },
   "一起嗨皮": {
     "desc": "一起嗨皮",
     "url": "/assets/kuaishou/一起嗨皮.webp"
@@ -2263,29 +2483,25 @@
     "desc": "won",
     "url": "/assets/kuaishou/won.webp"
   },
+  "拍一拍": {
+    "desc": "拍一拍",
+    "url": "/assets/kuaishou/拍一拍.webp"
+  },
   "sleep": {
     "desc": "sleep",
     "url": "/assets/kuaishou/sleep.webp"
   },
-  "拍一拍": {
-    "desc": "拍一拍",
-    "url": "/assets/kuaishou/拍一拍.webp"
+  "出魂兒": {
+    "desc": "出魂兒",
+    "url": "/assets/kuaishou/出魂兒.webp"
   },
   "devastated": {
     "desc": "devastated",
     "url": "/assets/kuaishou/devastated.webp"
   },
-  "讚": {
-    "desc": "讚",
-    "url": "/assets/kuaishou/讚.webp"
-  },
   "HaveFun": {
     "desc": "HaveFun",
     "url": "/assets/kuaishou/HaveFun.webp"
-  },
-  "出魂兒": {
-    "desc": "出魂兒",
-    "url": "/assets/kuaishou/出魂兒.webp"
   },
   "joyful": {
     "desc": "joyful",
@@ -2299,13 +2515,13 @@
     "desc": "pat",
     "url": "/assets/kuaishou/pat.webp"
   },
+  "出魂儿": {
+    "desc": "出魂儿",
+    "url": "/assets/kuaishou/出魂儿.webp"
+  },
   "八倍镜": {
     "desc": "八倍镜",
     "url": "/assets/kuaishou/八倍镜.webp"
-  },
-  "like": {
-    "desc": "like",
-    "url": "/assets/kuaishou/like.webp"
   },
   "nosebleed": {
     "desc": "nosebleed",
@@ -2315,17 +2531,13 @@
     "desc": "simper",
     "url": "/assets/kuaishou/simper.webp"
   },
-  "出魂儿": {
-    "desc": "出魂儿",
-    "url": "/assets/kuaishou/出魂儿.webp"
+  "frown": {
+    "desc": "frown",
+    "url": "/assets/kuaishou/frown.webp"
   },
   "罵你": {
     "desc": "罵你",
     "url": "/assets/kuaishou/罵你.webp"
-  },
-  "frown": {
-    "desc": "frown",
-    "url": "/assets/kuaishou/frown.webp"
   },
   "安排": {
     "desc": "安排",
@@ -2334,10 +2546,6 @@
   "八倍鏡": {
     "desc": "八倍鏡",
     "url": "/assets/kuaishou/八倍鏡.webp"
-  },
-  "奸笑": {
-    "desc": "奸笑",
-    "url": "/assets/kuaishou/奸笑.webp"
   },
   "流鼻血": {
     "desc": "流鼻血",
@@ -2367,21 +2575,17 @@
     "desc": "mirror",
     "url": "/assets/kuaishou/mirror.webp"
   },
+  "黑臉問": {
+    "desc": "黑臉問",
+    "url": "/assets/kuaishou/黑臉問.webp"
+  },
   "惊恐": {
     "desc": "惊恐",
     "url": "/assets/kuaishou/惊恐.webp"
   },
-  "treacherous": {
-    "desc": "treacherous",
-    "url": "/assets/kuaishou/treacherous.webp"
-  },
   "辣眼睛": {
     "desc": "辣眼睛",
     "url": "/assets/kuaishou/辣眼睛.webp"
-  },
-  "黑臉問": {
-    "desc": "黑臉問",
-    "url": "/assets/kuaishou/黑臉問.webp"
   },
   "皱眉": {
     "desc": "皱眉",
@@ -2399,10 +2603,6 @@
     "desc": "胡思乱想",
     "url": "/assets/kuaishou/胡思乱想.webp"
   },
-  "微笑": {
-    "desc": "微笑",
-    "url": "/assets/kuaishou/微笑.webp"
-  },
   "驚恐": {
     "desc": "驚恐",
     "url": "/assets/kuaishou/驚恐.webp"
@@ -2411,17 +2611,13 @@
     "desc": "dazzling",
     "url": "/assets/kuaishou/dazzling.webp"
   },
-  "黑脸问": {
-    "desc": "黑脸问",
-    "url": "/assets/kuaishou/黑脸问.webp"
-  },
   "fossil": {
     "desc": "fossil",
     "url": "/assets/kuaishou/fossil.webp"
   },
-  "香子蘭蛋糕": {
-    "desc": "香子蘭蛋糕",
-    "url": "/assets/kuaishou/香子蘭蛋糕.webp"
+  "黑脸问": {
+    "desc": "黑脸问",
+    "url": "/assets/kuaishou/黑脸问.webp"
   },
   "氣球": {
     "desc": "氣球",
@@ -2431,9 +2627,13 @@
     "desc": "胡思亂想",
     "url": "/assets/kuaishou/胡思亂想.webp"
   },
-  "smile": {
-    "desc": "smile",
-    "url": "/assets/kuaishou/smile.webp"
+  "香子蘭蛋糕": {
+    "desc": "香子蘭蛋糕",
+    "url": "/assets/kuaishou/香子蘭蛋糕.webp"
+  },
+  "恋爱柴": {
+    "desc": "恋爱柴",
+    "url": "/assets/kuaishou/恋爱柴.webp"
   },
   "scared": {
     "desc": "scared",
@@ -2442,10 +2642,6 @@
   "元气满满": {
     "desc": "元气满满",
     "url": "/assets/kuaishou/元气满满.webp"
-  },
-  "恋爱柴": {
-    "desc": "恋爱柴",
-    "url": "/assets/kuaishou/恋爱柴.webp"
   },
   "石化": {
     "desc": "石化",
@@ -2463,9 +2659,9 @@
     "desc": "daydreaming",
     "url": "/assets/kuaishou/daydreaming.webp"
   },
-  "生气": {
-    "desc": "生气",
-    "url": "/assets/kuaishou/生气.webp"
+  "戀愛柴": {
+    "desc": "戀愛柴",
+    "url": "/assets/kuaishou/戀愛柴.webp"
   },
   "亲亲": {
     "desc": "亲亲",
@@ -2474,10 +2670,6 @@
   "元氣滿滿": {
     "desc": "元氣滿滿",
     "url": "/assets/kuaishou/元氣滿滿.webp"
-  },
-  "戀愛柴": {
-    "desc": "戀愛柴",
-    "url": "/assets/kuaishou/戀愛柴.webp"
   },
   "礼花": {
     "desc": "礼花",
@@ -2495,10 +2687,6 @@
     "desc": "狮子",
     "url": "/assets/kuaishou/狮子.webp"
   },
-  "生氣": {
-    "desc": "生氣",
-    "url": "/assets/kuaishou/生氣.webp"
-  },
   "親親": {
     "desc": "親親",
     "url": "/assets/kuaishou/親親.webp"
@@ -2507,17 +2695,21 @@
     "desc": "vibrant",
     "url": "/assets/kuaishou/vibrant.webp"
   },
+  "老鐵": {
+    "desc": "老鐵",
+    "url": "/assets/kuaishou/老鐵.webp"
+  },
   "RomanticShiba": {
     "desc": "RomanticShiba",
     "url": "/assets/kuaishou/RomanticShiba.webp"
   },
+  "獅子": {
+    "desc": "獅子",
+    "url": "/assets/kuaishou/獅子.webp"
+  },
   "禮花": {
     "desc": "禮花",
     "url": "/assets/kuaishou/禮花.webp"
-  },
-  "老鐵": {
-    "desc": "老鐵",
-    "url": "/assets/kuaishou/老鐵.webp"
   },
   "打臉": {
     "desc": "打臉",
@@ -2526,14 +2718,6 @@
   "冷汗": {
     "desc": "冷汗",
     "url": "/assets/kuaishou/冷汗.webp"
-  },
-  "angry": {
-    "desc": "angry",
-    "url": "/assets/kuaishou/angry.webp"
-  },
-  "獅子": {
-    "desc": "獅子",
-    "url": "/assets/kuaishou/獅子.webp"
   },
   "kiss": {
     "desc": "kiss",
@@ -2547,13 +2731,13 @@
     "desc": "party",
     "url": "/assets/kuaishou/party.webp"
   },
-  "打脸": {
-    "desc": "打脸",
-    "url": "/assets/kuaishou/打脸.webp"
-  },
   "bro": {
     "desc": "bro",
     "url": "/assets/kuaishou/bro.webp"
+  },
+  "打脸": {
+    "desc": "打脸",
+    "url": "/assets/kuaishou/打脸.webp"
   },
   "lion": {
     "desc": "lion",
