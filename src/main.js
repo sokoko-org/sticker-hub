@@ -10,4 +10,4 @@ createApp(App).use(router).mount("#app");
 
 inject();
 injectSpeedInsights();
-Clarity.init("yrazmdrzvn");
+Clarity.init("yray5qx1st");
