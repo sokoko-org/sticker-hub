@@ -71,6 +71,10 @@
     "desc": "酷狗音乐",
     "url": "/assets/logo/kugou.webp"
   },
+  "qqmusic": {
+    "desc": "QQ音乐",
+    "url": "/assets/logo/qqmusic.webp"
+  },
   "hupu": {
     "desc": "虎扑",
     "url": "/assets/logo/hupu.webp"
