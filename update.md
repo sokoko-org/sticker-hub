@@ -6,13 +6,11 @@ ref: `https://www.weibo.com/5819071204/QegwYsLtS`
 
 ## xiaohongshu
 
-`https://fe-static.xhscdn.com/formula-static/ranchi/public/js/2836.f259fdc.chunk.js`
-
-手机UA
+`https://fe-static.xhscdn.com/formula-static/ranchi/public/js/1937.8eb6e91.chunk.js`
 
 (可能会变)
 
-ref: `https://www.xiaohongshu.com/discovery/item/6469bbf6000000000703880d?xsec_token=ABA4zTPfVkPCL4SJgyGcsVYPhAGygqY9VDutx8D2KUWlU=`
+ref: 笔记页【手机UA】
 
 ## kuaishou
 

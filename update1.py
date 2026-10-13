@@ -64,7 +64,7 @@ async def fetch_one(
             desc = name
             result[name] = {
                 "desc": desc,
-                "url": f"/assets/coolapk/{name}.webp",
+                "url": f"/assets/rednote/{name}.webp",
             }
 
             log_info("ok", name, desc)
