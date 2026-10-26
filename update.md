@@ -44,11 +44,11 @@ ref: `https://www.coolapk1s.com/feed/71586575`
 
 ## heybox
 
-`https://api.xiaoheihe.cn/bbs/app/api/emojis/list`
+`https://api.xiaoheihe.cn/bbs/app/api/emojis/list` 带签名
 
 ref: `https://www.xiaoheihe.cn/app/bbs/link/175736343?link_id=175736343`
 
-`emoji_version`:`25b9734c449a3ae8eb1d9c378ea91312`
+`emoji_version`:`fadfa396d8a051914f8dea36fb41f181`
 
 ## tieba
 

@@ -37,7 +37,6 @@ async def fetch_one(
     data: Dict[str, Any],
     result: Dict[str, Dict[str, str]],
 ) -> None:
-    """下载单个微博表情并写入 result 索引。"""
     url = data["img"]
     name = data["code"].lstrip("[").rstrip("]")
 
@@ -60,8 +59,6 @@ async def fetch_one(
             async with aiofiles.open(out_path, "wb") as f:
                 await f.write(content)
 
-            # desc: "{group}_{name}"
-            # url:  "/assets/weibo/{name}.webp"
             desc = f"{name}"
             result[f"{group_name}_{name}"] = {
                 "desc": desc,
@@ -81,7 +78,7 @@ async def main() -> None:
         return
 
     with INPUT_JSON.open(encoding="utf8") as f:
-        data: list[Dict[str, Any]] = json.load(f)["data"]
+        data: list[Dict[str, Any]] = json.load(f)["result"]["emoji_groups"]
 
     total = len(data)
     log_info("total faces:", total)
