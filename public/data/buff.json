@@ -63,6 +63,58 @@
     "desc": "印花集_赚了(静态)|印花姬",
     "url": "/assets/buff/印花集_赚了_static.webp"
   },
+  "印花集_亏了": {
+    "desc": "印花集_亏了|印花姬",
+    "url": "/assets/buff/印花集_亏了.webp"
+  },
+  "印花集_你好": {
+    "desc": "印花集_你好|印花姬",
+    "url": "/assets/buff/印花集_你好.webp"
+  },
+  "印花集_可刀": {
+    "desc": "印花集_可刀|印花姬",
+    "url": "/assets/buff/印花集_可刀.webp"
+  },
+  "印花集_喜欢": {
+    "desc": "印花集_喜欢|印花姬",
+    "url": "/assets/buff/印花集_喜欢.webp"
+  },
+  "印花集_太贵了": {
+    "desc": "印花集_太贵了|印花姬",
+    "url": "/assets/buff/印花集_太贵了.webp"
+  },
+  "印花集_底价了": {
+    "desc": "印花集_底价了|印花姬",
+    "url": "/assets/buff/印花集_底价了.webp"
+  },
+  "印花集_得加钱": {
+    "desc": "印花集_得加钱|印花姬",
+    "url": "/assets/buff/印花集_得加钱.webp"
+  },
+  "印花集_想要": {
+    "desc": "印花集_想要|印花姬",
+    "url": "/assets/buff/印花集_想要.webp"
+  },
+  "印花集_我是学生": {
+    "desc": "印花集_我是学生|印花姬",
+    "url": "/assets/buff/印花集_我是学生.webp"
+  },
+  "印花集_求求了": {
+    "desc": "印花集_求求了|印花姬",
+    "url": "/assets/buff/印花集_求求了.webp"
+  },
+  "印花集_老板大气": {
+    "desc": "印花集_老板大气|印花姬",
+    "url": "/assets/buff/印花集_老板大气.webp"
+  },
+  "印花集_谢谢": {
+    "desc": "印花集_谢谢|印花姬",
+    "url": "/assets/buff/印花集_谢谢.webp"
+  },
+  "印花集_赚了": {
+    "desc": "印花集_赚了|印花姬",
+    "url": "/assets/buff/印花集_赚了.webp"
+  },
   "可燃冰_CNCS_static": {
     "desc": "可燃冰_CNCS(静态)|小冰",
     "url": "/assets/buff/可燃冰_CNCS_static.webp"
@@ -199,6 +251,74 @@
     "desc": "可燃冰_非人类(静态)|小冰",
     "url": "/assets/buff/可燃冰_非人类_static.webp"
   },
+  "可燃冰_hide": {
+    "desc": "可燃冰_hide|小冰",
+    "url": "/assets/buff/可燃冰_hide.webp"
+  },
+  "可燃冰_加仓": {
+    "desc": "可燃冰_加仓|小冰",
+    "url": "/assets/buff/可燃冰_加仓.webp"
+  },
+  "可燃冰_可爱": {
+    "desc": "可燃冰_可爱|小冰",
+    "url": "/assets/buff/可燃冰_可爱.webp"
+  },
+  "可燃冰_同意": {
+    "desc": "可燃冰_同意|小冰",
+    "url": "/assets/buff/可燃冰_同意.webp"
+  },
+  "可燃冰_启动": {
+    "desc": "可燃冰_启动|小冰",
+    "url": "/assets/buff/可燃冰_启动.webp"
+  },
+  "可燃冰_呆住": {
+    "desc": "可燃冰_呆住|小冰",
+    "url": "/assets/buff/可燃冰_呆住.webp"
+  },
+  "可燃冰_喂": {
+    "desc": "可燃冰_喂|小冰",
+    "url": "/assets/buff/可燃冰_喂.webp"
+  },
+  "可燃冰_大的来了": {
+    "desc": "可燃冰_大的来了|小冰",
+    "url": "/assets/buff/可燃冰_大的来了.webp"
+  },
+  "可燃冰_委屈": {
+    "desc": "可燃冰_委屈|小冰",
+    "url": "/assets/buff/可燃冰_委屈.webp"
+  },
+  "可燃冰_尊重": {
+    "desc": "可燃冰_尊重|小冰",
+    "url": "/assets/buff/可燃冰_尊重.webp"
+  },
+  "可燃冰_我吗": {
+    "desc": "可燃冰_我吗|小冰",
+    "url": "/assets/buff/可燃冰_我吗.webp"
+  },
+  "可燃冰_拒绝": {
+    "desc": "可燃冰_拒绝|小冰",
+    "url": "/assets/buff/可燃冰_拒绝.webp"
+  },
+  "可燃冰_拿下": {
+    "desc": "可燃冰_拿下|小冰",
+    "url": "/assets/buff/可燃冰_拿下.webp"
+  },
+  "可燃冰_点赞": {
+    "desc": "可燃冰_点赞|小冰",
+    "url": "/assets/buff/可燃冰_点赞.webp"
+  },
+  "可燃冰_燃！": {
+    "desc": "可燃冰_燃！|小冰",
+    "url": "/assets/buff/可燃冰_燃！.webp"
+  },
+  "可燃冰_质疑": {
+    "desc": "可燃冰_质疑|小冰",
+    "url": "/assets/buff/可燃冰_质疑.webp"
+  },
+  "可燃冰_非人类": {
+    "desc": "可燃冰_非人类|小冰",
+    "url": "/assets/buff/可燃冰_非人类.webp"
+  },
   "咆哮_OK_static": {
     "desc": "咆哮_OK(静态)|小燃",
     "url": "/assets/buff/咆哮_OK_static.webp"
@@ -262,6 +382,58 @@
   "咆哮_生气_static": {
     "desc": "咆哮_生气(静态)|小燃",
     "url": "/assets/buff/咆哮_生气_static.webp"
+  },
+  "咆哮_OK": {
+    "desc": "咆哮_OK|小燃",
+    "url": "/assets/buff/咆哮_OK.webp"
+  },
+  "咆哮_你去打洞": {
+    "desc": "咆哮_你去打洞|小燃",
+    "url": "/assets/buff/咆哮_你去打洞.webp"
+  },
+  "咆哮_别别别": {
+    "desc": "咆哮_别别别|小燃",
+    "url": "/assets/buff/咆哮_别别别.webp"
+  },
+  "咆哮_围观": {
+    "desc": "咆哮_围观|小燃",
+    "url": "/assets/buff/咆哮_围观.webp"
+  },
+  "咆哮_在线等": {
+    "desc": "咆哮_在线等|小燃",
+    "url": "/assets/buff/咆哮_在线等.webp"
+  },
+  "咆哮_好耶": {
+    "desc": "咆哮_好耶|小燃",
+    "url": "/assets/buff/咆哮_好耶.webp"
+  },
+  "咆哮_开心": {
+    "desc": "咆哮_开心|小燃",
+    "url": "/assets/buff/咆哮_开心.webp"
+  },
+  "咆哮_急出": {
+    "desc": "咆哮_急出|小燃",
+    "url": "/assets/buff/咆哮_急出.webp"
+  },
+  "咆哮_急急急": {
+    "desc": "咆哮_急急急|小燃",
+    "url": "/assets/buff/咆哮_急急急.webp"
+  },
+  "咆哮_支持": {
+    "desc": "咆哮_支持|小燃",
+    "url": "/assets/buff/咆哮_支持.webp"
+  },
+  "咆哮_收货": {
+    "desc": "咆哮_收货|小燃",
+    "url": "/assets/buff/咆哮_收货.webp"
+  },
+  "咆哮_比心": {
+    "desc": "咆哮_比心|小燃",
+    "url": "/assets/buff/咆哮_比心.webp"
+  },
+  "咆哮_生气": {
+    "desc": "咆哮_生气|小燃",
+    "url": "/assets/buff/咆哮_生气.webp"
   },
   "二西印花集_1打9_static": {
     "desc": "二西印花集_1打9(静态)",
