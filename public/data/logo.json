@@ -59,6 +59,10 @@
     "desc": "知乎",
     "url": "/assets/logo/zhihu.webp"
   },
+  "migu": {
+    "desc": "咪咕音乐",
+    "url": "/assets/logo/migu.webp"
+  },
   "netease": {
     "desc": "网易云音乐",
     "url": "/assets/logo/netease.webp"
