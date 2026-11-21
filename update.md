@@ -48,7 +48,7 @@ ref: `https://www.coolapk1s.com/feed/71586575`
 
 ref: `https://www.xiaoheihe.cn/app/bbs/link/175736343?link_id=175736343`
 
-`emoji_version`:`fadfa396d8a051914f8dea36fb41f181`
+`emoji_version`:`474c311ccd1c6c2cdfa3ab7cb79323ae`
 
 ## tieba
 
