@@ -1,13 +1,13 @@
 import { readFileSync } from "node:fs";
 
-import registry from "../src/_registry.json" with { type: "json" };
+import registry from "./src/_registry.json" with { type: "json" };
 
 const maps = new Map();
 function loadMap(platform) {
   if (!maps.has(platform)) {
     let data = null;
     try {
-      const file = new URL(`../src/${platform}.json`, import.meta.url);
+      const file = new URL(`./src/${platform}.json`, import.meta.url);
       data = JSON.parse(readFileSync(file, "utf8"));
     } catch {
       data = null;

@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/assets/:platform/:name",
-      "destination": "/api/_r7k2/:platform/:name"
+      "destination": "/api/r7k2?path=:platform/:name"
     },
     {
       "source": "/platform/:path*",
@@ -75,7 +75,7 @@
     }
   ],
   "functions": {
-    "api/_r7k2/[...path].js": {
+    "api/r7k2.js": {
       "includeFiles": "api/src/**"
     }
   }

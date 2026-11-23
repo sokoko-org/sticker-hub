@@ -34,7 +34,7 @@ function createMiddleware(loadHandler, staticRoots) {
     (r) => r.source === "/assets/:platform/:name"
   );
   const ASSET_RE = /^\/assets\/([^/]+)\/(.+)$/;
-  const HANDLER = "/api/_r7k2/[...path].js";
+  const HANDLER = "/api/r7k2.js";
 
   let handler;
   const load = async () => {
@@ -50,9 +50,9 @@ function createMiddleware(loadHandler, staticRoots) {
     const pathname = decodeURIComponent(url.pathname);
 
     let parts = null;
-    const direct = /^\/api\/_r7k2\/(.+)$/.exec(pathname);
+    const direct = pathname === "/api/r7k2";
     if (direct) {
-      parts = direct[1].split("/");
+      parts = (url.searchParams.get("path") ?? "").split("/");
     } else if (hasAssetRewrite) {
       const m = ASSET_RE.exec(pathname);
       if (m) parts = [m[1], m[2]];
