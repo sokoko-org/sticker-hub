@@ -1,5 +1,5 @@
 <script setup>
-import { computed, ref, watch } from "vue";
+import { computed, onBeforeUnmount, ref, watch } from "vue";
 import { ArrowLeft, RefreshCw, Search } from "lucide-vue-next";
 import { useRouter } from "vue-router";
 import FaceModal from "../components/FaceModal.vue";
@@ -17,6 +17,7 @@ const faces = ref({});
 const loading = ref(false);
 const errorMessage = ref("");
 const cache = new Map();
+let activeRequest;
 
 const platform = computed(() => findPlatform(props.platformId));
 const entries = computed(() => {
@@ -39,31 +40,49 @@ function redirectIfMissingFace() {
 }
 
 async function loadFaces(force = false) {
+  activeRequest?.abort();
+  activeRequest = undefined;
+  const platformId = props.platformId;
+
+  faces.value = {};
   if (!platform.value) {
+    loading.value = false;
     router.replace({ name: "not-found" });
     return;
   }
   searchQuery.value = "";
   errorMessage.value = "";
-  if (!force && cache.has(props.platformId)) {
-    faces.value = cache.get(props.platformId);
+  if (!force && cache.has(platformId)) {
+    faces.value = cache.get(platformId);
+    loading.value = false;
     redirectIfMissingFace();
     return;
   }
+
+  const controller = new AbortController();
+  activeRequest = controller;
   loading.value = true;
   try {
-    const response = await fetch(publicUrl(`/data/${props.platformId}.json`));
+    const response = await fetch(publicUrl(`/data/${platformId}.json`), {
+      priority: "high",
+      signal: controller.signal,
+    });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const data = await response.json();
-    cache.set(props.platformId, data);
+    if (controller.signal.aborted || activeRequest !== controller) return;
+    cache.set(platformId, data);
     faces.value = data;
     redirectIfMissingFace();
   } catch (error) {
+    if (controller.signal.aborted || activeRequest !== controller) return;
     console.error(error);
     faces.value = {};
     errorMessage.value = "资源加载失败，请稍后重试。";
   } finally {
-    loading.value = false;
+    if (activeRequest === controller) {
+      activeRequest = undefined;
+      loading.value = false;
+    }
   }
 }
 
@@ -71,7 +90,14 @@ function openFace(id) {
   router.push({ name: "platform", params: { platformId: props.platformId, faceId: id } });
 }
 
-watch(() => [props.platformId, props.faceId], () => loadFaces(), { immediate: true });
+watch(() => props.platformId, () => loadFaces(), { immediate: true });
+watch(() => props.faceId, () => {
+  if (!loading.value && !errorMessage.value) redirectIfMissingFace();
+});
+onBeforeUnmount(() => {
+  activeRequest?.abort();
+  activeRequest = undefined;
+});
 </script>
 
 <template>
@@ -110,7 +136,7 @@ watch(() => [props.platformId, props.faceId], () => loadFaces(), { immediate: tr
     <section v-else-if="entries.length" class="face-grid" aria-label="表情列表">
       <button v-for="([id, face]) in entries" :key="id" class="face-card" type="button" @click="openFace(id)">
         <span class="face-image">
-          <img v-if="face.url" :src="publicUrl(face.url)" :alt="face.desc || id" loading="lazy" decoding="async" />
+          <img v-if="face.url" :src="publicUrl(face.url)" :alt="face.desc || id" loading="lazy" decoding="async" fetchpriority="low" />
           <small v-else>暂无资源</small>
           <code>#{{ id }}</code>
         </span>

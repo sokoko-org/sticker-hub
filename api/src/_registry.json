@@ -1,0 +1,51 @@
+{
+  "_comment": [""],
+  "skyland": {
+    "enabled": true,
+    "note": "森空岛"
+  },
+  "buff": {
+    "enabled": true,
+    "transform": "netease",
+    "options": {
+      "defaultWidth": 200
+    },
+    "note": "buff"
+  },
+  "tieba": {
+    "enabled": true,
+    "note": "贴吧"
+  },
+  "weibo": {
+    "enabled": true,
+    "note": "微博"
+  },
+  "douyin": {
+    "enabled": true,
+    "note": "抖音"
+  },
+  "kuaishou": {
+    "enabled": true,
+    "note": "快手"
+  },
+  "rednote": {
+    "enabled": true,
+    "note": "小红书"
+  },
+  "heybox": {
+    "enabled": true,
+    "note": "小黑盒"
+  },
+  "coolapk": {
+    "enabled": true,
+    "note": "酷安"
+  },
+  "zhihu": {
+    "enabled": true,
+    "note": "知乎"
+  },
+  "logo": {
+    "enabled": true,
+    "note": ""
+  }
+}

@@ -47,6 +47,7 @@ button { border: 0; }
 [data-tone="orange"] { --tone: #ea720c; } [data-tone="zinc"] { --tone: #52525b; }
 [data-tone="emerald"] { --tone: #079669; } [data-tone="blue"] { --tone: #1769e0; }
 [data-tone="amber"] { --tone: #ca6907; } [data-tone="violet"] { --tone: #7c4de0; }
+[data-tone="teal"] { --tone: #0d9488; }
 
 .preview-page { min-height: 70vh; }
 .preview-header { display: flex; align-items: center; justify-content: space-between; gap: 24px; margin-bottom: 22px; }

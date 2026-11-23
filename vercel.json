@@ -1,6 +1,10 @@
 {
   "rewrites": [
     {
+      "source": "/assets/:platform/:name",
+      "destination": "/api/_r7k2/:platform/:name"
+    },
+    {
       "source": "/platform/:path*",
       "destination": "/index.html"
     }
@@ -16,7 +20,7 @@
       ]
     },
     {
-      "source": "/assets/(.*)\\.(png|jpg|jpeg|gif|svg|webp|ico)",
+      "source": "/assets/(.*)",
       "headers": [
         {
           "key": "Cache-Control",
@@ -35,19 +39,44 @@
     },
     {
       "source": "/favicon.ico",
-      "headers": [{ "key": "Cache-Control", "value": "public, max-age=86400" }]
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=86400"
+        }
+      ]
     },
     {
       "source": "/",
-      "headers": [{ "key": "Cache-Control", "value": "no-cache" }]
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-cache"
+        }
+      ]
     },
     {
       "source": "/index.html",
-      "headers": [{ "key": "Cache-Control", "value": "no-cache" }]
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-cache"
+        }
+      ]
     },
     {
       "source": "/platform/:path*",
-      "headers": [{ "key": "Cache-Control", "value": "no-cache" }]
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-cache"
+        }
+      ]
     }
-  ]
+  ],
+  "functions": {
+    "api/_r7k2/[...path].js": {
+      "includeFiles": "api/src/**"
+    }
+  }
 }

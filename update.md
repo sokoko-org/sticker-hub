@@ -6,11 +6,9 @@ ref: `https://www.weibo.com/5819071204/QegwYsLtS`
 
 ## xiaohongshu
 
-`https://fe-static.xhscdn.com/formula-static/ranchi/public/js/1937.8eb6e91.chunk.js`
+`hhttps://fe-static.xhscdn.com/formula-static/ugc/public/resource/js/async/project-article-editor-extension.960d5567.js`
 
-(可能会变)
-
-ref: 笔记页【手机UA】
+ref: 小红书创作者平台
 
 ## kuaishou
 
@@ -34,7 +32,7 @@ ref: `https://www.kuaishou.com/short-video/3xburnkmj3auazc`
 
 ## coolapk
 
-`https://www.coolapk1s.com/_next/static/chunks/031a3e636a22d573.js`(可能会变)
+`https://www.coolapk1s.com/_next/static/chunks/031a3e636a22d573.js`
 
 ref: `https://www.coolapk1s.com/feed/71586575`
 
@@ -64,4 +62,10 @@ ref: `https://www.zhihu.com/question/2020960087150184372/answer/2026012625377531
 
 分组 `https://buff.163.com/api/topic/available_emoji_category`
 
-data `https://buff.163.com/api/topic/available_emoji?page_size=100`
+data `https://buff.163.com/api/topic/available_emoji?page_size=500`
+
+## skyland
+
+`https://zonai.skland.com/h5/v1/sticker-categories`
+
+ref: `https://www.skland.com/article?id=6493827`
