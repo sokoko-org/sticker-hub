@@ -69,3 +69,8 @@ data `https://buff.163.com/api/topic/available_emoji?page_size=500`
 `https://zonai.skland.com/h5/v1/sticker-categories`
 
 ref: `https://www.skland.com/article?id=6493827`
+
+
+## miyoushe
+
+`https://bbs-api-static.miyoushe.com/misc/api/emoticon_set`

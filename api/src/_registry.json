@@ -44,6 +44,10 @@
     "enabled": true,
     "note": "知乎"
   },
+  "miyoushe": {
+    "enabled": true,
+    "note": "米游社"
+  },
   "logo": {
     "enabled": true,
     "note": ""

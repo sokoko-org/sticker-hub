@@ -80,6 +80,14 @@ export const platforms = [
     endpoint: "/assets/skyland/{id}",
   },
   {
+    id: "miyoushe",
+    name: "米游社",
+    desc: "米游社社区表情",
+    icon: "🎮",
+    tone: "orange",
+    endpoint: "/assets/miyoushe/{id}",
+  },
+  {
     id: "logo",
     name: "LOGO",
     desc: "各平台 Logo 资源",
