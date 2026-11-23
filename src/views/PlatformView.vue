@@ -110,7 +110,7 @@ watch(() => [props.platformId, props.faceId], () => loadFaces(), { immediate: tr
     <section v-else-if="entries.length" class="face-grid" aria-label="表情列表">
       <button v-for="([id, face]) in entries" :key="id" class="face-card" type="button" @click="openFace(id)">
         <span class="face-image">
-          <img v-if="face.url" :src="publicUrl(face.url)" :alt="face.desc || id" loading="lazy" />
+          <img v-if="face.url" :src="publicUrl(face.url)" :alt="face.desc || id" loading="lazy" decoding="async" />
           <small v-else>暂无资源</small>
           <code>#{{ id }}</code>
         </span>

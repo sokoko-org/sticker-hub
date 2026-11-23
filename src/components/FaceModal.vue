@@ -40,7 +40,7 @@ onBeforeUnmount(() => window.removeEventListener("keydown", onKeydown));
           <X :size="19" />
         </button>
         <div class="modal-image">
-          <img v-if="face.url" :src="imageUrl" :alt="face.desc || faceId" />
+          <img v-if="face.url" :src="imageUrl" :alt="face.desc || faceId" decoding="async" />
           <span v-else>暂无资源</span>
         </div>
         <div class="modal-copy">
