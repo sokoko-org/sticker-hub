@@ -97,5 +97,9 @@ export const platforms = [
   },
 ];
 
+/** 平台 logo：优先使用 /assets/logo 下的静态 webp */
+export const platformLogo = (platform) =>
+  platform.id === "logo" ? "/favicon.svg" : `/assets/logo/${platform.id}.webp`;
+
 export const findPlatform = (id) =>
   platforms.find((platform) => platform.id === id);
